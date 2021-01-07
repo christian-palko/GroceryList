@@ -62,7 +62,7 @@ object GroceryList extends App {
             useList()
         }
         else {
-            println("\n --- This is already not on your list. --- ")
+            println("\n --- This is ALREADY NOT on your list. --- ")
             printList();
             useList()
         }
