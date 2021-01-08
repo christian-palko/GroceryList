@@ -1307,3 +1307,187 @@ No more data in the server stdin, exiting...2021.01.06 22:40:05 INFO  Attempting
 2021.01.06 23:11:30 INFO  compiling root (1 scala source)
 2021.01.06 23:11:31 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
 2021.01.06 23:11:31 INFO  time: compiled root in 1.15s
+2021.01.06 23:16:55 INFO  compiling root (1 scala source)
+2021.01.06 23:16:56 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.06 23:16:56 INFO  time: compiled root in 1.07s
+2021.01.07 07:19:23 INFO  shutting down Metals
+2021.01.07 07:19:23 INFO  Shut down connection with build server.
+2021.01.07 07:19:23 INFO  Shut down connection with build server.
+2021.01.07 07:27:36 INFO  Started: Metals version 0.9.8 in workspace '/Users/chrispalko/GroceryList' for client vscode.
+2021.01.07 07:27:36 INFO  time: initialize in 0.7s
+2021.01.07 07:27:37 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher4869711089159098138/bsp.socket'...
+2021.01.07 07:27:37 WARN  no build target for: /Users/chrispalko/GroceryList/src/main/scala/example/GroceryList.scala
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher4869711089159098138/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher4869711089159098138/bsp.socket...
+2021.01.07 07:27:37 INFO  skipping build import with status 'Installed'
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2021.01.07 07:27:37 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/chrispalko/Library/Caches/org.scalameta.metals/bsp.trace.json
+2021.01.07 07:27:37 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher2199482607733269642/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher2199482607733269642/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher2199482607733269642/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2021.01.07 07:27:37 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/chrispalko/Library/Caches/org.scalameta.metals/bsp.trace.json
+2021.01.07 07:27:37 INFO  time: connected to build server in 0.55s
+2021.01.07 07:27:37 INFO  Connected to Build server v1.4.6-15-209c2a5c
+2021.01.07 07:27:41 INFO  no build target: using presentation compiler with only scala-library
+2021.01.07 07:27:42 INFO  time: indexed workspace in 3.92s
+2021.01.07 09:00:51 INFO  shutting down Metals
+2021.01.07 09:00:51 INFO  Shut down connection with build server.
+2021.01.07 09:00:51 INFO  Shut down connection with build server.
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+2021.01.07 17:36:59 INFO  Started: Metals version 0.9.8 in workspace '/Users/chrispalko/GroceryList' for client vscode.
+2021.01.07 17:37:00 INFO  time: initialize in 0.53s
+2021.01.07 17:37:01 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher2058361425022282103/bsp.socket'...
+Waiting for the bsp connection to come up...
+2021.01.07 17:37:01 WARN  no build target for: /Users/chrispalko/GroceryList/src/main/scala/example/GroceryList.scala
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher2058361425022282103/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher2058361425022282103/bsp.socket...
+2021.01.07 17:37:00 INFO  skipping build import with status 'Installed'
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2021.01.07 17:37:01 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/chrispalko/Library/Caches/org.scalameta.metals/bsp.trace.json
+2021.01.07 17:37:01 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher3993125972196597318/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher3993125972196597318/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher3993125972196597318/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2021.01.07 17:37:01 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/chrispalko/Library/Caches/org.scalameta.metals/bsp.trace.json
+2021.01.07 17:37:01 INFO  time: connected to build server in 0.43s
+2021.01.07 17:37:01 INFO  Connected to Build server v1.4.6-15-209c2a5c
+2021.01.07 17:37:04 INFO  no build target: using presentation compiler with only scala-library
+2021.01.07 17:37:04 INFO  time: indexed workspace in 3.02s
+2021.01.07 17:37:58 INFO  compiling root (1 scala source)
+2021.01.07 17:37:58 INFO  time: compiled root in 0.46s
+2021.01.07 17:39:20 INFO  compiling root (1 scala source)
+2021.01.07 17:39:20 INFO  time: compiled root in 0.34s
+2021.01.07 17:39:53 INFO  compiling root (1 scala source)
+2021.01.07 17:39:53 INFO  time: compiled root in 0.37s
+2021.01.07 17:39:56 INFO  compiling root (1 scala source)
+2021.01.07 17:39:56 INFO  time: compiled root in 0.16s
+2021.01.07 17:40:22 INFO  compiling root (3 scala sources)
+2021.01.07 17:40:22 INFO  time: compiled root in 76ms
+2021.01.07 17:40:39 INFO  compiling root (3 scala sources)
+2021.01.07 17:40:39 INFO  time: compiled root in 72ms
+2021.01.07 17:41:02 INFO  compiling root (3 scala sources)
+2021.01.07 17:41:02 INFO  time: compiled root in 62ms
+2021.01.07 17:41:09 INFO  compiling root (3 scala sources)
+2021.01.07 17:41:09 INFO  time: compiled root in 92ms
+2021.01.07 17:41:09 INFO  compiling root (3 scala sources)
+2021.01.07 17:41:09 INFO  time: compiled root in 66ms
+2021.01.07 17:41:13 INFO  compiling root (3 scala sources)
+2021.01.07 17:41:13 INFO  time: compiled root in 68ms
+2021.01.07 17:41:34 INFO  compiling root (3 scala sources)
+2021.01.07 17:41:34 INFO  time: compiled root in 90ms
+2021.01.07 17:41:34 INFO  compiling root (3 scala sources)
+2021.01.07 17:41:34 INFO  time: compiled root in 37ms
+2021.01.07 17:41:37 INFO  compiling root (3 scala sources)
+2021.01.07 17:41:37 INFO  time: compiled root in 63ms
+2021.01.07 17:41:59 INFO  compiling root (3 scala sources)
+2021.01.07 17:41:59 INFO  time: compiled root in 61ms
+2021.01.07 17:41:59 INFO  compiling root (3 scala sources)
+2021.01.07 17:41:59 INFO  time: compiled root in 32ms
+2021.01.07 17:42:01 INFO  compiling root (3 scala sources)
+2021.01.07 17:42:01 INFO  time: compiled root in 0.1s
+2021.01.07 17:42:01 INFO  compiling root (3 scala sources)
+2021.01.07 17:42:01 INFO  time: compiled root in 59ms
+2021.01.07 17:42:04 INFO  compiling root (3 scala sources)
+2021.01.07 17:42:04 INFO  time: compiled root in 66ms
+2021.01.07 17:44:01 INFO  compiling root (3 scala sources)
+2021.01.07 17:44:01 INFO  time: compiled root in 71ms
+2021.01.07 17:44:01 INFO  compiling root (3 scala sources)
+2021.01.07 17:44:01 INFO  time: compiled root in 47ms
+2021.01.07 17:44:04 INFO  compiling root (3 scala sources)
+2021.01.07 17:44:04 INFO  time: compiled root in 0.25s
+2021.01.07 17:45:30 INFO  compiling root (3 scala sources)
+2021.01.07 17:45:30 INFO  time: compiled root in 0.18s
+2021.01.07 17:45:51 INFO  compiling root (3 scala sources)
+2021.01.07 17:45:53 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 17:45:53 INFO  time: compiled root in 1.94s
+2021.01.07 17:50:35 INFO  compiling root (1 scala source)
+2021.01.07 17:50:35 INFO  time: compiled root in 0.12s
+2021.01.07 17:50:50 INFO  compiling root (1 scala source)
+2021.01.07 17:50:50 INFO  time: compiled root in 0.12s
+2021.01.07 17:50:59 INFO  compiling root (1 scala source)
+2021.01.07 17:51:00 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 17:51:00 INFO  time: compiled root in 1.01s
+2021.01.07 17:51:58 INFO  compiling root (1 scala source)
+2021.01.07 17:51:59 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 17:51:59 INFO  time: compiled root in 1.04s
+2021.01.07 19:18:58 INFO  compiling root (1 scala source)
+2021.01.07 19:18:59 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 19:18:59 INFO  time: compiled root in 1.11s
+2021.01.07 19:19:33 INFO  compiling root (1 scala source)
+2021.01.07 19:19:34 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 19:19:34 INFO  time: compiled root in 1.03s
+2021.01.07 19:19:57 INFO  compiling root (3 scala sources)
+2021.01.07 19:19:58 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 19:19:58 INFO  time: compiled root in 1.2s
+2021.01.07 19:20:03 INFO  compiling root (1 scala source)
+2021.01.07 19:20:04 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 19:20:04 INFO  time: compiled root in 1.05s
+2021.01.07 19:20:04 INFO  compiling root (1 scala source)
+2021.01.07 19:20:04 INFO  time: compiled root in 34ms
+Jan 07, 2021 7:20:27 PM scala.meta.internal.metals.Docstrings indexSymbol
+SEVERE: file:///Users/chrispalko/GroceryList/src/main/scala/example/GroceryList.scala
+java.nio.file.NoSuchFileException: /Users/chrispalko/GroceryList/src/main/scala/example/GroceryList.scala
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.CommonMtagsEnrichments$XtensionAbsolutePath.toInput(CommonMtagsEnrichments.scala:395)
+	at scala.meta.internal.metals.Docstrings.indexSymbolDefinition(Docstrings.scala:89)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:73)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:38)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:37)
+	at scala.meta.internal.pc.MetalsGlobal.symbolDocumentation(MetalsGlobal.scala:161)
+	at scala.meta.internal.pc.Signatures$SignaturePrinter.<init>(Signatures.scala:239)
+	at scala.meta.internal.pc.HoverProvider.toHover(HoverProvider.scala:199)
+	at scala.meta.internal.pc.HoverProvider.$anonfun$hover$5(HoverProvider.scala:57)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.pc.HoverProvider.$anonfun$hover$3(HoverProvider.scala:55)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:54)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$hover$1(ScalaPresentationCompiler.scala:235)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withNonInterruptableCompiler$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2021.01.07 19:20:29 INFO  compiling root (3 scala sources)
+2021.01.07 19:20:31 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 19:20:31 INFO  time: compiled root in 1.83s
+2021.01.07 19:27:10 INFO  compiling root (1 scala source)
+2021.01.07 19:27:10 INFO  time: compiled root in 0.13s
+2021.01.07 19:27:30 INFO  compiling root (1 scala source)
+2021.01.07 19:27:31 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 19:27:31 INFO  time: compiled root in 1.59s
