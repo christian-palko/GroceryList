@@ -1491,3 +1491,245 @@ java.nio.file.NoSuchFileException: /Users/chrispalko/GroceryList/src/main/scala/
 2021.01.07 19:27:30 INFO  compiling root (1 scala source)
 2021.01.07 19:27:31 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
 2021.01.07 19:27:31 INFO  time: compiled root in 1.59s
+2021.01.07 19:42:46 INFO  compiling root (1 scala source)
+2021.01.07 19:42:46 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 19:42:46 INFO  time: compiled root in 0.91s
+2021.01.07 19:44:05 INFO  compiling root (1 scala source)
+2021.01.07 19:44:06 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 19:44:06 INFO  time: compiled root in 1.14s
+2021.01.07 19:46:58 INFO  compiling root (1 scala source)
+2021.01.07 19:46:58 INFO  time: compiled root in 0.13s
+2021.01.07 19:47:09 INFO  compiling root (1 scala source)
+2021.01.07 19:47:09 INFO  time: compiled root in 0.11s
+2021.01.07 19:47:18 INFO  compiling root (1 scala source)
+2021.01.07 19:47:18 INFO  time: compiled root in 0.12s
+2021.01.07 19:47:21 INFO  compiling root (1 scala source)
+2021.01.07 19:47:21 INFO  time: compiled root in 0.14s
+2021.01.07 19:48:02 INFO  compiling root (1 scala source)
+2021.01.07 19:48:02 INFO  time: compiled root in 0.12s
+2021.01.07 19:48:03 INFO  compiling root (1 scala source)
+2021.01.07 19:48:03 INFO  time: compiled root in 86ms
+2021.01.07 19:48:04 INFO  compiling root (1 scala source)
+2021.01.07 19:48:04 INFO  time: compiled root in 0.13s
+2021.01.07 19:48:13 INFO  compiling root (1 scala source)
+2021.01.07 19:48:14 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 19:48:14 INFO  time: compiled root in 1.11s
+2021.01.07 19:48:15 INFO  compiling root (1 scala source)
+2021.01.07 19:48:17 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 19:48:17 INFO  time: compiled root in 1.11s
+2021.01.07 20:02:33 INFO  compiling root (1 scala source)
+2021.01.07 20:02:34 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 20:02:34 INFO  time: compiled root in 1.08s
+2021.01.07 20:03:03 INFO  compiling root (1 scala source)
+2021.01.07 20:03:04 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 20:03:04 INFO  time: compiled root in 1.03s
+2021.01.07 20:05:17 INFO  compiling root (1 scala source)
+2021.01.07 20:05:19 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 20:05:19 INFO  time: compiled root in 1.15s
+2021.01.07 20:08:48 INFO  compiling root (1 scala source)
+2021.01.07 20:08:50 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 20:08:50 INFO  time: compiled root in 1.4s
+2021.01.07 20:09:48 INFO  compiling root (1 scala source)
+2021.01.07 20:09:49 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 20:09:49 INFO  time: compiled root in 1.11s
+2021.01.07 20:10:22 INFO  compiling root (1 scala source)
+2021.01.07 20:10:23 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 20:10:23 INFO  time: compiled root in 1.12s
+2021.01.07 20:10:54 INFO  compiling root (1 scala source)
+2021.01.07 20:10:55 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 20:10:55 INFO  time: compiled root in 1.46s
+2021.01.07 20:13:23 INFO  compiling root (1 scala source)
+2021.01.07 20:13:23 INFO  time: compiled root in 63ms
+2021.01.07 20:13:31 INFO  compiling root (1 scala source)
+2021.01.07 20:13:31 INFO  time: compiled root in 64ms
+2021.01.07 20:13:38 INFO  compiling root (1 scala source)
+2021.01.07 20:13:38 INFO  time: compiled root in 62ms
+2021.01.07 20:13:41 INFO  compiling root (1 scala source)
+2021.01.07 20:13:44 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 20:13:44 INFO  time: compiled root in 2.76s
+2021.01.07 20:14:09 INFO  compiling root (1 scala source)
+2021.01.07 20:14:09 INFO  time: compiled root in 66ms
+2021.01.07 20:14:43 INFO  compiling root (1 scala source)
+2021.01.07 20:14:43 INFO  time: compiled root in 0.13s
+2021.01.07 20:15:20 INFO  compiling root (1 scala source)
+2021.01.07 20:15:20 INFO  time: compiled root in 0.13s
+2021.01.07 20:15:48 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:19:37: stale bloop error: type mismatch;
+ found   : String
+ required: Null
+                    case 1 => add = readLine("Type the NAME of the item you'd like to add: \n--")
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2021.01.07 20:15:48 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:20:33: stale bloop error: value toUpperCase is not a member of Null
+                        addItem(add.toUpperCase())
+                                ^^^^^^^^^^^^^^^
+2021.01.07 20:15:48 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:19:37: stale bloop error: type mismatch;
+ found   : String
+ required: Null
+                    case 1 => add = readLine("Type the NAME of the item you'd like to add: \n--")
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2021.01.07 20:15:48 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:20:33: stale bloop error: value toUpperCase is not a member of Null
+                        addItem(add.toUpperCase())
+                                ^^^^^^^^^^^^^^^
+2021.01.07 20:15:48 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:19:37: stale bloop error: type mismatch;
+ found   : String
+ required: Null
+                    case 1 => add = readLine("Type the NAME of the item you'd like to add: \n--")
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2021.01.07 20:15:48 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:20:33: stale bloop error: value toUpperCase is not a member of Null
+                        addItem(add.toUpperCase())
+                                ^^^^^^^^^^^^^^^
+2021.01.07 20:15:48 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:19:37: stale bloop error: type mismatch;
+ found   : String
+ required: Null
+                    case 1 => add = readLine("Type the NAME of the item you'd like to add: \n--")
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2021.01.07 20:15:48 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:20:33: stale bloop error: value toUpperCase is not a member of Null
+                        addItem(add.toUpperCase())
+                                ^^^^^^^^^^^^^^^
+2021.01.07 20:15:49 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:19:37: stale bloop error: type mismatch;
+ found   : String
+ required: Null
+                    case 1 => add = readLine("Type the NAME of the item you'd like to add: \n--")
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2021.01.07 20:15:49 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:20:33: stale bloop error: value toUpperCase is not a member of Null
+                        addItem(add.toUpperCase())
+                                ^^^^^^^^^^^^^^^
+2021.01.07 20:15:49 INFO  compiling root (1 scala source)
+2021.01.07 20:15:49 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:13:23: stale bloop error: unclosed multi-line string literal
+            var add = """
+                      ^
+2021.01.07 20:15:49 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:13:23: stale bloop error: unclosed multi-line string literal
+            var add = """
+                      ^
+2021.01.07 20:15:49 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:85:2: stale bloop error: illegal start of simple expression
+}
+ ^
+2021.01.07 20:15:49 INFO  time: compiled root in 67ms
+2021.01.07 20:15:50 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:13:23: stale bloop error: unclosed multi-line string literal
+            var add = """
+                      ^
+2021.01.07 20:15:50 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:85:2: stale bloop error: illegal start of simple expression
+}
+ ^
+2021.01.07 20:15:50 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:13:23: stale bloop error: unclosed multi-line string literal
+            var add = """
+                      ^
+2021.01.07 20:15:50 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:85:2: stale bloop error: illegal start of simple expression
+}
+ ^
+2021.01.07 20:15:52 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:13:23: stale bloop error: unclosed multi-line string literal
+            var add = """
+                      ^
+2021.01.07 20:15:52 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:85:2: stale bloop error: illegal start of simple expression
+}
+ ^
+2021.01.07 20:15:52 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:13:23: stale bloop error: unclosed multi-line string literal
+            var add = """
+                      ^
+2021.01.07 20:15:52 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:85:2: stale bloop error: illegal start of simple expression
+}
+ ^
+2021.01.07 20:15:52 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:13:23: stale bloop error: unclosed multi-line string literal
+            var add = """
+                      ^
+2021.01.07 20:15:52 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:85:2: stale bloop error: illegal start of simple expression
+}
+ ^
+2021.01.07 20:15:52 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:13:23: stale bloop error: unclosed multi-line string literal
+            var add = """
+                      ^
+2021.01.07 20:15:52 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:85:2: stale bloop error: illegal start of simple expression
+}
+ ^
+2021.01.07 20:15:53 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:13:23: stale bloop error: unclosed multi-line string literal
+            var add = """
+                      ^
+2021.01.07 20:15:53 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:85:2: stale bloop error: illegal start of simple expression
+}
+ ^
+2021.01.07 20:15:52 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:13:23: stale bloop error: unclosed multi-line string literal
+            var add = """
+                      ^
+2021.01.07 20:15:52 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:85:2: stale bloop error: illegal start of simple expression
+}
+ ^
+2021.01.07 20:15:53 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:13:23: stale bloop error: unclosed multi-line string literal
+            var add = """
+                      ^
+2021.01.07 20:15:53 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:85:2: stale bloop error: illegal start of simple expression
+}
+ ^
+2021.01.07 20:15:52 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:13:23: stale bloop error: unclosed multi-line string literal
+            var add = """
+                      ^
+2021.01.07 20:15:52 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:85:2: stale bloop error: illegal start of simple expression
+}
+ ^
+2021.01.07 20:15:55 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:13:23: stale bloop error: unclosed multi-line string literal
+            var add = """
+                      ^
+2021.01.07 20:15:55 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:85:2: stale bloop error: illegal start of simple expression
+}
+ ^
+2021.01.07 20:15:55 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:13:23: stale bloop error: unclosed multi-line string literal
+            var add = """
+                      ^
+2021.01.07 20:15:55 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:85:2: stale bloop error: illegal start of simple expression
+}
+ ^
+2021.01.07 20:15:57 INFO  compiling root (1 scala source)
+2021.01.07 20:15:58 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 20:15:58 INFO  time: compiled root in 1.42s
+2021.01.07 20:19:04 INFO  compiling root (1 scala source)
+2021.01.07 20:19:05 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 20:19:05 INFO  time: compiled root in 1.01s
+2021.01.07 20:19:14 INFO  compiling root (1 scala source)
+2021.01.07 20:19:14 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 20:19:15 INFO  time: compiled root in 1s
+2021.01.07 20:21:58 INFO  compiling root (1 scala source)
+2021.01.07 20:21:58 INFO  time: compiled root in 0.11s
+2021.01.07 20:22:04 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:19:26: stale bloop error: type mismatch;
+ found   : String("1")
+ required: Int
+                    case "1" => add = readLine("Type the NAME of the item you'd like to add: \n--")
+                         ^^^
+2021.01.07 20:22:04 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:19:26: stale bloop error: type mismatch;
+ found   : String("1")
+ required: Int
+                    case "1" => add = readLine("Type the NAME of the item you'd like to add: \n--")
+                         ^^^
+2021.01.07 20:22:04 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:19:26: stale bloop error: type mismatch;
+ found   : String("1")
+ required: Int
+                    case "1" => add = readLine("Type the NAME of the item you'd like to add: \n--")
+                         ^^^
+2021.01.07 20:22:04 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:19:26: stale bloop error: type mismatch;
+ found   : String("1")
+ required: Int
+                    case "1" => add = readLine("Type the NAME of the item you'd like to add: \n--")
+                         ^^^
+2021.01.07 20:23:04 INFO  compiling root (1 scala source)
+2021.01.07 20:23:04 INFO  time: compiled root in 0.11s
+2021.01.07 20:24:04 INFO  compiling root (1 scala source)
+2021.01.07 20:24:04 INFO  time: compiled root in 0.11s
+2021.01.07 20:27:59 INFO  compiling root (1 scala source)
+2021.01.07 20:28:00 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 20:28:00 INFO  time: compiled root in 1.16s
+2021.01.07 20:28:09 INFO  compiling root (1 scala source)
+2021.01.07 20:28:10 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 20:28:10 INFO  time: compiled root in 1.01s
+2021.01.07 20:28:15 INFO  compiling root (1 scala source)
+2021.01.07 20:28:16 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 20:28:16 INFO  time: compiled root in 1.07s
+2021.01.07 20:29:05 INFO  compiling root (1 scala source)
+2021.01.07 20:29:05 INFO  time: compiled root in 0.62s
+2021.01.07 20:30:38 INFO  compiling root (1 scala source)
+2021.01.07 20:30:38 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 20:30:38 INFO  time: compiled root in 0.94s
+2021.01.07 20:31:05 INFO  compiling root (1 scala source)
+2021.01.07 20:31:06 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 20:31:06 INFO  time: compiled root in 1.06s
+2021.01.07 20:31:43 INFO  compiling root (1 scala source)
+2021.01.07 20:31:43 INFO  time: compiled root in 0.1s
+2021.01.07 20:32:07 INFO  compiling root (1 scala source)
+2021.01.07 20:32:08 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.07 20:32:08 INFO  time: compiled root in 1.07s
