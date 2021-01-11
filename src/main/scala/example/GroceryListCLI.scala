@@ -8,6 +8,7 @@ class GroceryListCLI{
     var itemNamesArray = ArrayBuffer[String]("JALAPENOS", "ONIONS", "CARROTS")
     def useList() {
         var continueUsingList = true
+        var file = ""
         while (continueUsingList) {
             printList()
             var add, change1, change2, delete = ""
@@ -33,9 +34,10 @@ class GroceryListCLI{
                     case 3 => delete = readLine("Type the NAME of the item you'd like to delete: \n")
                         deleteItem(delete.toUpperCase())
 
-                    case 4 => var openedFile = readLine("Type the CSV file you want to import: \n")
-                        FileUtil.getCsvContent(openedFile, " ")
-
+                    case 4 => file = readLine("What is the name of the file you want to import? \n")
+                        FileUtil.importFile(file)
+                        // itemNamesArray += res2
+                    
                     case 5 => println("Goodbye!")
                         continueUsingList = false
                         
@@ -70,6 +72,7 @@ class GroceryListCLI{
             println("\n --- This is ALREADY NOT on your list. --- ")
         }
     }
+
 
     def changeItem(itemNum : Int, item : String) {
         
