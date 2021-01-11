@@ -12,7 +12,12 @@ class GroceryListCLI{
             printList()
             var add, change1, change2, delete = ""
             val input = readLine("What would you like to do? \n" +
-            "Type \"1\" to ADD an item\nType \"2\" to CHANGE an item\nType \"3\" to DELETE an item\nType \"4\" to EXIT\n--")
+            "Type \"1\" to ADD an item" +
+            "\nType \"2\" to CHANGE an item" +
+            "\nType \"3\" to DELETE an item" +
+            "\nType \"4\" to IMPORT a list" +
+            "\nType \"5\" to EXIT" +
+            "\n--")
 
             try{
                 input.toInt match {
@@ -28,10 +33,12 @@ class GroceryListCLI{
                     case 3 => delete = readLine("Type the NAME of the item you'd like to delete: \n")
                         deleteItem(delete.toUpperCase())
 
-                    case 4 => println("Goodbye!")
+                    case 4 => var openedFile = readLine("Type the CSV file you want to import: \n")
+                        FileUtil.getCsvContent(openedFile, " ")
+
+                    case 5 => println("Goodbye!")
                         continueUsingList = false
                         
-
                     case _ => println("You did not enter a valid input.\n")
                         useList()
                 }
