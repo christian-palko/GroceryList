@@ -8,7 +8,6 @@ class GroceryListCLI{
     var itemNamesArray = ArrayBuffer[String]("JALAPENOS", "ONIONS", "CARROTS")
     def useList() {
         var continueUsingList = true
-        var file = ""
         while (continueUsingList) {
             printList()
             var add, change1, change2, delete = ""
@@ -31,13 +30,10 @@ class GroceryListCLI{
                             changeItem(change1.toInt, change2.toUpperCase())
                         }
                         
-                    case 3 => delete = readLine("Type the NAME of the item you'd like to delete: \n")
-                        deleteItem(delete.toUpperCase())
+                    case 3 => deleteItem()
 
-                    case 4 => file = readLine("What is the name of the file you want to import? \n")
-                        FileUtil.importFile(file)
-                        // itemNamesArray += res2
-                    
+                    case 4 => appendListWithImport()
+
                     case 5 => println("Goodbye!")
                         continueUsingList = false
                         
@@ -49,6 +45,22 @@ class GroceryListCLI{
                             useList()
                 }
         }
+    }
+
+    def appendListWithImport () {
+        var file = readLine("What is the name of the file you want to import? \n")
+            val openFile = FileUtil.importFile(file)
+            val openFileAdd = openFile
+                .toUpperCase
+                .replaceAll(" ", "")
+                .trim.split(",")
+                .to(ArrayBuffer)
+            for (item <- openFileAdd) {
+            println(item)
+            itemNamesArray += item
+            }
+            println(s"\n You've added: ${openFile.mkString}:")
+                    
     }
 
     def printList() {
@@ -63,10 +75,13 @@ class GroceryListCLI{
         println(s"\n❋❋❋ You've added ${item} to your grocery list. ❋❋❋")
     }
 
-    def deleteItem(item : String) {
-        if (itemNamesArray.contains(item.toUpperCase())) {
-            itemNamesArray -= item
-            println(s"\n❋❋❋ You've deleted ${item} from your grocery list. ❋❋❋")
+    def deleteItem() {
+        var delete = readLine("Type the NAME of the item you'd like to delete: \n").toUpperCase()
+
+        if (itemNamesArray.contains(delete)) {
+            println(delete)
+            itemNamesArray -= delete
+            println(s"\n❋❋❋ You've deleted ${delete} from your grocery list. ❋❋❋")
         }
         else {
             println("\n --- This is ALREADY NOT on your list. --- ")
