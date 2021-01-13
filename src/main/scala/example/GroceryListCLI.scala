@@ -9,6 +9,12 @@ class GroceryListCLI{
     var itemNamesArray = ArrayBuffer[String]("JALAPENOS", "ONIONS", "CARROTS") //Starting list before db implementation
     var continueUsingList = false
 
+    // Add tagging system that auto-tags common items based on grocery store sections to avoid
+    // having to go to any section in the store more than once. 
+    //
+    // Nice to have: Unknown default tag
+    // Nice to have: Users can modify tags
+
     def useList() {
         continueUsingList = true
         while (continueUsingList) {
@@ -37,34 +43,6 @@ class GroceryListCLI{
         }
     }
 
-    def appendListWithImport () {
-        var file = readLine("What is the name of the file you want to import? \n")
-            
-        try{
-        val openFile = FileUtil.importFile(file)
-            val openFileAdd = openFile
-                .toUpperCase
-                .replaceAll(" ", "")
-                .trim.split(",")
-                .to(ArrayBuffer)
-            for (item <- openFileAdd) {
-            println(item)
-            itemNamesArray += item
-            }
-            println(s"\n*** You've added: ${openFile.mkString} ***")
-        } catch {
-            case fnfe: FileNotFoundException => println("\n * This file could not be found. *")
-                var tryAgain = readLine("\nWould you like to try again? YES/NO?\n").toUpperCase()
-                if (tryAgain == "YES" || tryAgain == "Y") {
-                    appendListWithImport()
-                } else if (tryAgain == "NO" || tryAgain == "N") {
-                    useList()
-                } else {
-                    println("\n* That was not a valid input. Going to main menu. *\n")
-                }
-        }          
-    }
-
     def printList() {
         println("\nGROCERY LIST:\n────────────────────")
         for (a <- 1 to itemNamesArray.length)
@@ -73,9 +51,21 @@ class GroceryListCLI{
     }
 
     def addItem() {
-        var add = readLine("Type the NAME of the item you'd like to add: \n--").toUpperCase()
-        itemNamesArray += add
-        println(s"\n❋❋❋ You've added ${add} to your grocery list. ❋❋❋")
+    var add = readLine("Type the NAME of the item you'd like to add: \n--").toUpperCase()
+    itemNamesArray += add
+    println(s"\n❋❋❋ You've added ${add} to your grocery list. ❋❋❋")
+    }
+
+    def changeItem() {
+        var itemChangeFrom = readLine("\nType the NAME of the item you want to change: \n").toUpperCase()
+            if (itemNamesArray.contains(itemChangeFrom)) {
+                var itemChangeTo = readLine(s"\nType what you'd like to change $itemChangeFrom to: \n").toUpperCase()
+                var indexToChange = itemNamesArray.indexOf(itemChangeFrom)
+                itemNamesArray(indexToChange) = itemChangeTo
+                println(s"\n❋❋❋ You changed $itemChangeFrom to $itemChangeTo. ❋❋❋")
+            } else {
+                println("\n❋ This item does not exist in your list. ❋")
+            }
     }
 
     def deleteItem() {
@@ -91,16 +81,42 @@ class GroceryListCLI{
         }
     }
 
-    def changeItem() {
-        var itemChangeFrom = readLine("\nType the NAME of the item you want to change: \n").toUpperCase()
-            if (itemNamesArray.contains(itemChangeFrom)) {
-                var itemChangeTo = readLine(s"\nType what you'd like to change $itemChangeFrom to: \n").toUpperCase()
-                var indexToChange = itemNamesArray.indexOf(itemChangeFrom)
-                itemNamesArray(indexToChange) = itemChangeTo
-                println(s"\n❋❋❋ You changed $itemChangeFrom to $itemChangeTo. ❋❋❋")
+    def appendListWithImport () {
+        var file = readLine("\nWhat is the name of the file you want to import? \n")
+            
+        try{
+        val openFile = FileUtil.importFile(file)
+            val openFileAdd = openFile
+                .toUpperCase
+                .replaceAll(" ", "")
+                .trim.split(",")
+                .to(ArrayBuffer)
+            for (item <- openFileAdd) {
+             /* to do - if list already contains, add prompt to pass over or add duplicate */
+            if(itemNamesArray.contains(item)) {
+                var alreadyContains = readLine(s"\nThis list already contains $item.\n" +
+                  "Ignore this item or create a duplicate?\nType IGNORE or DUPLICATE.\n").toUpperCase()
+                if (alreadyContains == "IGNORE") {
+                    
+                } else if (alreadyContains == "DUPLICATE") {
+                    itemNamesArray += item
+                }
             } else {
-                println("\n❋ This item does not exist in your list. ❋")
+                itemNamesArray += item
             }
+            }
+            println(s"\n*** You've added: ${openFile.mkString} ***")
+        } catch {
+            case fnfe: FileNotFoundException => println("\n * This file could not be found. *")
+                var tryAgain = readLine("\nWould you like to try again? YES/NO?\n").toUpperCase()
+                if (tryAgain == "YES" || tryAgain == "Y") {
+                    appendListWithImport()
+                } else if (tryAgain == "NO" || tryAgain == "N") {
+                    useList()
+                } else {
+                    println("\n* That was not a valid input. Going to main menu. *\n")
+                }
+        }          
     }
 
     def exitApp() {

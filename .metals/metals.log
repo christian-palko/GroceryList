@@ -4877,3 +4877,94 @@ WARNING: Unmatched cancel notification for request id 24849
 2021.01.12 09:33:14 INFO  compiling root (1 scala source)
 2021.01.12 09:33:18 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
 2021.01.12 09:33:18 INFO  time: compiled root in 3.93s
+2021.01.12 14:21:41 INFO  compiling root (1 scala source)
+2021.01.12 14:21:41 INFO  time: compiled root in 0.2s
+2021.01.12 14:21:43 INFO  compiling root (1 scala source)
+2021.01.12 14:21:45 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.12 14:21:45 INFO  time: compiled root in 1.33s
+Jan 12, 2021 2:22:17 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jan 12, 2021 2:22:17 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: assertion failed: bad position: [1853:1825]
+java.lang.AssertionError: assertion failed: bad position: [1853:1825]
+	at scala.reflect.internal.util.Position$.validate(Position.scala:41)
+	at scala.reflect.internal.util.Position$.range(Position.scala:58)
+	at scala.reflect.internal.util.InternalPositionImpl.withStart(Position.scala:234)
+	at scala.reflect.internal.util.InternalPositionImpl.withStart$(Position.scala:135)
+	at scala.reflect.internal.util.Position.withStart(Position.scala:19)
+	at scala.meta.internal.pc.CompletionProvider.editRange$lzycompute$1(CompletionProvider.scala:366)
+	at scala.meta.internal.pc.CompletionProvider.editRange$2(CompletionProvider.scala:365)
+	at scala.meta.internal.pc.CompletionProvider.expected$1(CompletionProvider.scala:374)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:470)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+
+2021.01.12 14:22:42 INFO  compiling root (1 scala source)
+2021.01.12 14:22:44 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.12 14:22:44 INFO  time: compiled root in 1.6s
+2021.01.12 14:36:06 INFO  compiling root (1 scala source)
+2021.01.12 14:36:07 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.12 14:36:07 INFO  time: compiled root in 1.05s
+Jan 12, 2021 2:36:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26159
+2021.01.12 14:36:30 INFO  compiling root (1 scala source)
+2021.01.12 14:36:31 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.12 14:36:31 INFO  time: compiled root in 1.1s
+Jan 12, 2021 2:37:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26286
+2021.01.12 14:37:13 INFO  compiling root (1 scala source)
+2021.01.12 14:37:13 INFO  time: compiled root in 55ms
+2021.01.12 14:37:28 INFO  compiling root (1 scala source)
+2021.01.12 14:37:28 INFO  time: compiled root in 61ms
+2021.01.12 14:37:50 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:57:13: stale bloop error: illegal start of simple expression
+            } else {
+            ^
+2021.01.12 14:37:50 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:57:13: stale bloop error: illegal start of simple expression
+            } else {
+            ^
+2021.01.12 14:37:50 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:57:13: stale bloop error: illegal start of simple expression
+            } else {
+            ^
+2021.01.12 14:37:51 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:57:13: stale bloop error: illegal start of simple expression
+            } else {
+            ^
+2021.01.12 14:39:01 INFO  compiling root (1 scala source)
+2021.01.12 14:39:02 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.12 14:39:02 INFO  time: compiled root in 1.11s
+2021.01.12 14:40:17 INFO  compiling root (1 scala source)
+2021.01.12 14:40:18 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.12 14:40:18 INFO  time: compiled root in 1.24s
+2021.01.12 14:41:02 INFO  compiling root (1 scala source)
+2021.01.12 14:41:02 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.12 14:41:02 INFO  time: compiled root in 0.99s
+2021.01.12 14:41:16 INFO  compiling root (1 scala source)
+2021.01.12 14:41:18 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.12 14:41:18 INFO  time: compiled root in 1.18s
+2021.01.12 14:41:54 INFO  compiling root (1 scala source)
+2021.01.12 14:41:56 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.12 14:41:56 INFO  time: compiled root in 1.2s
+2021.01.12 14:42:44 INFO  compiling root (1 scala source)
+2021.01.12 14:42:45 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.12 14:42:45 INFO  time: compiled root in 1.19s
+2021.01.13 07:15:11 INFO  compiling root (1 scala source)
+2021.01.13 07:15:14 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 07:15:14 INFO  time: compiled root in 3.07s
+Jan 13, 2021 11:43:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26896
+2021.01.13 11:44:59 INFO  compiling root (1 scala source)
+2021.01.13 11:45:00 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 11:45:00 INFO  time: compiled root in 1.94s
+2021.01.13 15:25:36 INFO  compiling root (1 scala source)
+2021.01.13 15:25:38 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 15:25:38 INFO  time: compiled root in 1.99s
+2021.01.13 15:26:42 INFO  compiling root (1 scala source)
+2021.01.13 15:26:42 INFO  time: compiled root in 0.7s
+2021.01.13 15:27:51 INFO  compiling root (1 scala source)
+2021.01.13 15:27:51 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details
+2021.01.13 15:27:51 INFO  time: compiled root in 0.65s
+2021.01.13 15:31:52 INFO  compiling root (1 scala source)
+2021.01.13 15:31:52 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details
+2021.01.13 15:31:52 INFO  time: compiled root in 0.66s
+2021.01.13 15:33:50 INFO  compiling root (1 scala source)
+2021.01.13 15:33:50 INFO  time: compiled root in 0.13s
+2021.01.13 15:33:52 INFO  compiling root (1 scala source)
+2021.01.13 15:33:52 INFO  time: compiled root in 0.14s
