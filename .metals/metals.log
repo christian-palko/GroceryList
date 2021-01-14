@@ -5650,3 +5650,225 @@ java.lang.NullPointerException
 2021.01.13 20:12:37 INFO  compiling root (1 scala source)
 2021.01.13 20:12:39 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
 2021.01.13 20:12:39 INFO  time: compiled root in 1.26s
+2021.01.13 20:14:08 INFO  compiling root (1 scala source)
+2021.01.13 20:14:09 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:14:09 INFO  time: compiled root in 1.11s
+2021.01.13 20:14:24 INFO  compiling root (1 scala source)
+2021.01.13 20:14:25 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:14:25 INFO  time: compiled root in 1.13s
+2021.01.13 20:14:48 INFO  compiling root (1 scala source)
+2021.01.13 20:14:49 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:14:49 INFO  time: compiled root in 1.08s
+2021.01.13 20:17:38 INFO  compiling root (1 scala source)
+2021.01.13 20:17:38 INFO  time: compiled root in 0.13s
+2021.01.13 20:17:54 INFO  compiling root (1 scala source)
+2021.01.13 20:17:54 INFO  time: compiled root in 0.11s
+2021.01.13 20:18:00 INFO  compiling root (1 scala source)
+2021.01.13 20:18:00 INFO  time: compiled root in 0.14s
+2021.01.13 20:18:06 INFO  compiling root (1 scala source)
+2021.01.13 20:18:07 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:18:07 INFO  time: compiled root in 1.14s
+2021.01.13 20:18:34 INFO  compiling root (1 scala source)
+2021.01.13 20:18:35 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:18:35 INFO  time: compiled root in 1.33s
+2021.01.13 20:19:03 INFO  compiling root (1 scala source)
+2021.01.13 20:19:05 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:19:05 INFO  time: compiled root in 1.86s
+2021.01.13 20:21:39 INFO  compiling root (1 scala source)
+2021.01.13 20:21:40 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:21:40 INFO  time: compiled root in 1.25s
+2021.01.13 20:22:09 INFO  compiling root (1 scala source)
+2021.01.13 20:22:11 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:22:11 INFO  time: compiled root in 1.29s
+2021.01.13 20:24:01 INFO  compiling root (1 scala source)
+2021.01.13 20:24:03 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:24:03 INFO  time: compiled root in 1.33s
+2021.01.13 20:24:07 INFO  compiling root (1 scala source)
+2021.01.13 20:24:08 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:24:08 INFO  time: compiled root in 1.4s
+2021.01.13 20:25:04 INFO  compiling root (1 scala source)
+2021.01.13 20:25:05 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:25:05 INFO  time: compiled root in 1.35s
+2021.01.13 20:27:55 INFO  compiling root (1 scala source)
+2021.01.13 20:27:56 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:27:56 INFO  time: compiled root in 1.23s
+2021.01.13 20:29:12 INFO  compiling root (1 scala source)
+2021.01.13 20:29:13 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:29:13 INFO  time: compiled root in 1.27s
+2021.01.13 20:30:16 INFO  compiling root (1 scala source)
+2021.01.13 20:30:17 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:30:17 INFO  time: compiled root in 1.31s
+2021.01.13 20:31:18 INFO  compiling root (1 scala source)
+2021.01.13 20:31:19 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:31:19 INFO  time: compiled root in 1.17s
+2021.01.13 20:31:29 INFO  compiling root (1 scala source)
+2021.01.13 20:31:30 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:31:30 INFO  time: compiled root in 1.31s
+2021.01.13 20:34:08 INFO  compiling root (1 scala source)
+2021.01.13 20:34:09 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:34:09 INFO  time: compiled root in 1.17s
+2021.01.13 20:34:09 INFO  compiling root (1 scala source)
+2021.01.13 20:34:09 INFO  time: compiled root in 0.21s
+2021.01.13 20:36:02 INFO  compiling root (1 scala source)
+2021.01.13 20:36:03 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:36:03 INFO  time: compiled root in 1.27s
+2021.01.13 20:36:08 INFO  no build target: using presentation compiler with only scala-library
+2021.01.13 20:36:08 INFO  compiling root (1 scala source)
+2021.01.13 20:36:08 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:46:39: stale bloop error: invalid literal number
+        println(s"\n         ${\u001B[32m}GROCERY LIST\n──────────────────────────────\nItem Name     :     Department\n")
+                                      ^
+2021.01.13 20:36:08 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:46:39: stale bloop error: invalid literal number
+        println(s"\n         ${\u001B[32m}GROCERY LIST\n──────────────────────────────\nItem Name     :     Department\n")
+                                      ^
+2021.01.13 20:36:08 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:46:42: stale bloop error: ']' expected but '}' found.
+        println(s"\n         ${\u001B[32m}GROCERY LIST\n──────────────────────────────\nItem Name     :     Department\n")
+                                         ^
+2021.01.13 20:36:08 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:46:33: stale bloop error: type application is not allowed for postfix operators
+        println(s"\n         ${\u001B[32m}GROCERY LIST\n──────────────────────────────\nItem Name     :     Department\n")
+                                ^
+2021.01.13 20:36:08 INFO  time: compiled root in 77ms
+2021.01.13 20:40:12 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:46:39: stale bloop error: invalid literal number
+        println(s"\n         ${\u001B[32m}GROCERY LIST\n──────────────────────────────\nItem Name     :     Department\n")
+                                      ^
+2021.01.13 20:40:12 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:46:42: stale bloop error: ']' expected but '}' found.
+        println(s"\n         ${\u001B[32m}GROCERY LIST\n──────────────────────────────\nItem Name     :     Department\n")
+                                         ^
+2021.01.13 20:40:12 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:46:33: stale bloop error: type application is not allowed for postfix operators
+        println(s"\n         ${\u001B[32m}GROCERY LIST\n──────────────────────────────\nItem Name     :     Department\n")
+                                ^
+2021.01.13 20:40:12 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:46:39: stale bloop error: invalid literal number
+        println(s"\n         ${\u001B[32m}GROCERY LIST\n──────────────────────────────\nItem Name     :     Department\n")
+                                      ^
+2021.01.13 20:40:12 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:46:42: stale bloop error: ']' expected but '}' found.
+        println(s"\n         ${\u001B[32m}GROCERY LIST\n──────────────────────────────\nItem Name     :     Department\n")
+                                         ^
+2021.01.13 20:40:12 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:46:33: stale bloop error: type application is not allowed for postfix operators
+        println(s"\n         ${\u001B[32m}GROCERY LIST\n──────────────────────────────\nItem Name     :     Department\n")
+                                ^
+2021.01.13 20:40:16 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:46:39: stale bloop error: invalid literal number
+        println(s"\n         ${\u001B[32m}GROCERY LIST\n──────────────────────────────\nItem Name     :     Department\n")
+                                      ^
+2021.01.13 20:40:16 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:46:42: stale bloop error: ']' expected but '}' found.
+        println(s"\n         ${\u001B[32m}GROCERY LIST\n──────────────────────────────\nItem Name     :     Department\n")
+                                         ^
+2021.01.13 20:40:16 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:46:33: stale bloop error: type application is not allowed for postfix operators
+        println(s"\n         ${\u001B[32m}GROCERY LIST\n──────────────────────────────\nItem Name     :     Department\n")
+                                ^
+2021.01.13 20:40:16 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:46:39: stale bloop error: invalid literal number
+        println(s"\n         ${\u001B[32m}GROCERY LIST\n──────────────────────────────\nItem Name     :     Department\n")
+                                      ^
+2021.01.13 20:40:16 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:46:42: stale bloop error: ']' expected but '}' found.
+        println(s"\n         ${\u001B[32m}GROCERY LIST\n──────────────────────────────\nItem Name     :     Department\n")
+                                         ^
+2021.01.13 20:40:16 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:46:33: stale bloop error: type application is not allowed for postfix operators
+        println(s"\n         ${\u001B[32m}GROCERY LIST\n──────────────────────────────\nItem Name     :     Department\n")
+                                ^
+2021.01.13 20:40:16 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:46:39: stale bloop error: invalid literal number
+        println(s"\n         ${\u001B[32m}GROCERY LIST\n──────────────────────────────\nItem Name     :     Department\n")
+                                      ^
+2021.01.13 20:40:16 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:46:42: stale bloop error: ']' expected but '}' found.
+        println(s"\n         ${\u001B[32m}GROCERY LIST\n──────────────────────────────\nItem Name     :     Department\n")
+                                         ^
+2021.01.13 20:40:16 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:46:33: stale bloop error: type application is not allowed for postfix operators
+        println(s"\n         ${\u001B[32m}GROCERY LIST\n──────────────────────────────\nItem Name     :     Department\n")
+                                ^
+2021.01.13 20:40:17 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:46:39: stale bloop error: invalid literal number
+        println(s"\n         ${\u001B[32m}GROCERY LIST\n──────────────────────────────\nItem Name     :     Department\n")
+                                      ^
+2021.01.13 20:40:17 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:46:42: stale bloop error: ']' expected but '}' found.
+        println(s"\n         ${\u001B[32m}GROCERY LIST\n──────────────────────────────\nItem Name     :     Department\n")
+                                         ^
+2021.01.13 20:40:17 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:46:33: stale bloop error: type application is not allowed for postfix operators
+        println(s"\n         ${\u001B[32m}GROCERY LIST\n──────────────────────────────\nItem Name     :     Department\n")
+                                ^
+2021.01.13 20:40:17 INFO  compiling root (1 scala source)
+2021.01.13 20:40:19 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:40:19 INFO  time: compiled root in 1.35s
+2021.01.13 20:41:17 INFO  compiling root (1 scala source)
+2021.01.13 20:41:17 INFO  time: compiled root in 0.14s
+2021.01.13 20:41:19 INFO  compiling root (1 scala source)
+2021.01.13 20:41:19 INFO  time: compiled root in 0.14s
+2021.01.13 20:41:21 INFO  compiling root (1 scala source)
+2021.01.13 20:41:23 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:41:23 INFO  time: compiled root in 1.34s
+2021.01.13 20:41:56 INFO  compiling root (1 scala source)
+2021.01.13 20:41:57 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:41:57 INFO  time: compiled root in 1.29s
+2021.01.13 20:43:31 INFO  compiling root (1 scala source)
+2021.01.13 20:43:33 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:43:33 INFO  time: compiled root in 1.46s
+2021.01.13 20:44:22 INFO  compiling root (1 scala source)
+2021.01.13 20:44:23 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:44:23 INFO  time: compiled root in 1.3s
+2021.01.13 20:44:38 INFO  compiling root (1 scala source)
+2021.01.13 20:44:39 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:44:39 INFO  time: compiled root in 1.37s
+Exception in thread "pool-4-thread-1" java.lang.Error: java.lang.InterruptedException
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1155)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	... 2 more
+2021.01.13 20:44:51 INFO  compiling root (1 scala source)
+2021.01.13 20:44:53 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:44:53 INFO  time: compiled root in 1.4s
+2021.01.13 20:45:37 INFO  compiling root (1 scala source)
+2021.01.13 20:45:39 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:45:39 INFO  time: compiled root in 1.35s
+2021.01.13 20:46:13 INFO  compiling root (1 scala source)
+2021.01.13 20:46:15 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:46:15 INFO  time: compiled root in 1.43s
+2021.01.13 20:46:58 INFO  compiling root (1 scala source)
+2021.01.13 20:46:59 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:46:59 INFO  time: compiled root in 1.39s
+2021.01.13 20:47:47 INFO  compiling root (1 scala source)
+2021.01.13 20:47:48 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:47:48 INFO  time: compiled root in 1.48s
+2021.01.13 20:48:34 INFO  compiling root (1 scala source)
+2021.01.13 20:48:35 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:48:35 INFO  time: compiled root in 1.41s
+2021.01.13 20:49:04 INFO  compiling root (1 scala source)
+2021.01.13 20:49:06 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:49:06 INFO  time: compiled root in 1.46s
+2021.01.13 20:50:31 INFO  compiling root (1 scala source)
+2021.01.13 20:50:33 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:50:33 INFO  time: compiled root in 1.5s
+2021.01.13 20:50:51 INFO  compiling root (1 scala source)
+2021.01.13 20:50:52 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:50:52 INFO  time: compiled root in 1.39s
+2021.01.13 20:52:27 INFO  compiling root (1 scala source)
+2021.01.13 20:52:29 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:52:29 INFO  time: compiled root in 2.01s
+2021.01.13 20:52:59 INFO  compiling root (1 scala source)
+2021.01.13 20:53:00 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:53:00 INFO  time: compiled root in 1.21s
+2021.01.13 20:53:23 INFO  compiling root (1 scala source)
+2021.01.13 20:53:23 INFO  time: compiled root in 71ms
+2021.01.13 20:53:26 INFO  compiling root (1 scala source)
+2021.01.13 20:53:29 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:53:29 INFO  time: compiled root in 2.72s
+2021.01.13 20:54:15 INFO  compiling root (1 scala source)
+2021.01.13 20:54:16 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:54:16 INFO  time: compiled root in 1.34s
+2021.01.13 20:55:25 INFO  compiling root (1 scala source)
+2021.01.13 20:55:26 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:55:26 INFO  time: compiled root in 1.35s
+2021.01.13 20:56:32 INFO  compiling root (1 scala source)
+2021.01.13 20:56:33 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:56:33 INFO  time: compiled root in 1.27s
+2021.01.13 20:56:52 INFO  compiling root (1 scala source)
+2021.01.13 20:56:54 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:56:54 INFO  time: compiled root in 1.41s
+2021.01.13 20:57:12 INFO  compiling root (1 scala source)
+2021.01.13 20:57:14 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:57:14 INFO  time: compiled root in 1.38s
+2021.01.13 20:58:17 INFO  compiling root (1 scala source)
+2021.01.13 20:58:18 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:58:18 INFO  time: compiled root in 1.19s
+2021.01.13 20:58:42 INFO  compiling root (1 scala source)
+2021.01.13 20:58:44 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:58:44 INFO  time: compiled root in 1.33s

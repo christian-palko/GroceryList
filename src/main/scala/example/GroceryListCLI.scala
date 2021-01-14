@@ -4,8 +4,9 @@ import scala.io.StdIn.readLine
 import scala.io.Source
 import java.io.FileNotFoundException
 import scala.collection.mutable.Map
+import scala.io.AnsiColor
 
-class GroceryListCLI{
+class GroceryListCLI extends AnsiColor{
     var itemNamesArray = ArrayBuffer[String]() //Starting list before db implementation
     var itemNamesAndTagsMap = collection.mutable.Map[String, String]()
     var continueUsingList = false
@@ -20,52 +21,49 @@ class GroceryListCLI{
         continueUsingList = true
         while (continueUsingList) {
             printList()
-            val input = readLine("What would you like to do? \n" +
-            "\nType \"1\" to ADD an item" +
-            "\nType \"2\" to CHANGE an item" +
-            "\nType \"3\" to DELETE an item" +
-            "\nType \"4\" to IMPORT a list" +
-            "\nType \"5\" to EXIT" +
+            val input = readLine(s"${BLINK}What would you like to do? ${RESET}\n" +
+            s"\n${BLUE}${BOLD}ADD${RESET} an item" +
+            s"\n${BLUE}${BOLD}CHANGE${RESET} an item" +
+            s"\n${BLUE}${BOLD}DELETE${RESET} an item" +
+            s"\n${BLUE}${BOLD}IMPORT${RESET} a list" +
+            s"\n${BLUE}${BOLD}EXIT${RESET}" +
             "\n--")
 
-            try{
-                input.toInt match {
-                    case 1 => addItem()
-                    case 2 => changeItem()     
-                    case 3 => deleteItem()
-                    case 4 => appendListWithImport()
-                    case 5 => exitApp()
-                    case _ => println("\n* You did not enter a valid input. *\n")     
-                }
-            }   catch {
-                    case nfe: NumberFormatException => println("\nYou did not enter a number.\n")
-                            useList()
-                }
+
+            input.toUpperCase match {
+                case "ADD" => addItem()
+                case "CHANGE" => changeItem()     
+                case "DELETE" => deleteItem()
+                case "IMPORT" => appendListWithImport()
+                case "EXIT" => exitApp()
+                case _ => println("\n* You did not enter a valid input. *\n")     
+            }
+ 
         }
     }
 
     def printList() {
-        println("\nGROCERY LIST:\n────────────────────")
+        println(s"\n         ${GREEN}${BOLD}GROCERY LIST\n──────────────────────────────\nItem Name     :     Department\n${RESET}")
         // for (a <- 1 to itemNamesArray.length)
         //     println(s"$a. ${itemNamesArray(a-1)}")
-        for ((i,t) <- itemNamesAndTagsMap) println(s"$i : $t")
+        for ((i,t) <- itemNamesAndTagsMap) println(s"${i}     :     ${t}")
         if (itemNamesAndTagsMap.size == 0) {
-            println("[LIST EMPTY]")
+            println(s"${WHITE}         [List Empty]${RESET}")
         }
-        println("────────────────────\n")
+        println(s"${GREEN}${BOLD}──────────────────────────────\n${RESET}")
 
     }
 
     def addItem() {
         var keepAdding = true
         while (keepAdding == true) {
-        var add = readLine("\nType the NAME of the item you'd like to add, or EXIT to go back: \n--").toUpperCase()
-        add match {
-            case "EXIT" | "QUIT" => keepAdding = false
-            case _ => itemNamesAndTagsMap += (add -> getTag(add))
-            println(s"\n$add : ${itemNamesAndTagsMap(add)}\n")
-            printList()
-        }     
+            var add = readLine(s"\nType the NAME of the item you'd like to add, or ${BLUE}${BOLD}BACK${RESET} to go back: \n--").toUpperCase()
+            add match {
+                case "BACK" | "EXIT" | "QUIT" | "STOP" => keepAdding = false
+                case _ => itemNamesAndTagsMap += (add -> getTag(add))
+                println(s"\n$add : ${itemNamesAndTagsMap(add)}\n")
+                printList()
+            }     
         }
     }
 
@@ -74,7 +72,7 @@ class GroceryListCLI{
             case "STEAK" | "BEEF" | "CHICKEN" | "FISH" | "TILAPIA" | "PORK" => return "Meat / Seafood"
             case "BANANAS" | "APPLES" | "CUCUMBERS" => return "Fresh Produce"
             case "CINNAMON" | "SALT" | "PAPRIKA" => return "Spices"
-            case _ => return "Miscellaneous"
+            case _ => return "Misc."
         }
     }
 
