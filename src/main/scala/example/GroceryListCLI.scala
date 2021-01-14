@@ -3,10 +3,11 @@ import scala.collection.mutable.ArrayBuffer
 import scala.io.StdIn.readLine
 import scala.io.Source
 import java.io.FileNotFoundException
-
+import scala.collection.mutable.Map
 
 class GroceryListCLI{
-    var itemNamesArray = ArrayBuffer[String]("JALAPENOS", "ONIONS", "CARROTS") //Starting list before db implementation
+    var itemNamesArray = ArrayBuffer[String]() //Starting list before db implementation
+    var itemNamesAndTagsMap = collection.mutable.Map[String, String]()
     var continueUsingList = false
 
     // Add tagging system that auto-tags common items based on grocery store sections to avoid
@@ -45,16 +46,42 @@ class GroceryListCLI{
 
     def printList() {
         println("\nGROCERY LIST:\n────────────────────")
-        for (a <- 1 to itemNamesArray.length)
-            println(s"$a. ${itemNamesArray(a-1)}")
+        // for (a <- 1 to itemNamesArray.length)
+        //     println(s"$a. ${itemNamesArray(a-1)}")
+        for ((i,t) <- itemNamesAndTagsMap) println(s"$i : $t")
+        if (itemNamesAndTagsMap.size == 0) {
+            println("[LIST EMPTY]")
+        }
         println("────────────────────\n")
+
     }
 
     def addItem() {
-    var add = readLine("Type the NAME of the item you'd like to add: \n--").toUpperCase()
-    itemNamesArray += add
-    println(s"\n❋❋❋ You've added ${add} to your grocery list. ❋❋❋")
+        var keepAdding = true
+        while (keepAdding == true) {
+        var add = readLine("\nType the NAME of the item you'd like to add, or EXIT to go back: \n--").toUpperCase()
+        add match {
+            case "EXIT" | "QUIT" => keepAdding = false
+            case _ => itemNamesAndTagsMap += (add -> getTag(add))
+            println(s"\n$add : ${itemNamesAndTagsMap(add)}\n")
+            printList()
+        }     
+        }
     }
+
+    def getTag(itemToGetTagFor: String): String = {
+        itemToGetTagFor match {
+            case "STEAK" | "BEEF" | "CHICKEN" | "FISH" | "TILAPIA" | "PORK" => return "Meat / Seafood"
+            case "BANANAS" | "APPLES" | "CUCUMBERS" => return "Fresh Produce"
+            case "CINNAMON" | "SALT" | "PAPRIKA" => return "Spices"
+            case _ => return "Miscellaneous"
+        }
+    }
+
+    // What functionality SHOULD occur above:
+    // Create itemNamesAndTags Map
+    // Match value of 'add' to other Map of pre-defined values
+    // itemNamesArray += (item -> )
 
     def changeItem() {
         var itemChangeFrom = readLine("\nType the NAME of the item you want to change: \n").toUpperCase()

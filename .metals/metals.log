@@ -4968,3 +4968,685 @@ WARNING: Unmatched cancel notification for request id 26896
 2021.01.13 15:33:50 INFO  time: compiled root in 0.13s
 2021.01.13 15:33:52 INFO  compiling root (1 scala source)
 2021.01.13 15:33:52 INFO  time: compiled root in 0.14s
+2021.01.13 15:41:27 INFO  shutting down Metals
+2021.01.13 15:41:27 INFO  Shut down connection with build server.
+2021.01.13 15:41:27 INFO  Shut down connection with build server.
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+2021.01.13 15:52:15 INFO  Started: Metals version 0.9.8 in workspace '/Users/chrispalko/GroceryList' for client vscode.
+2021.01.13 15:52:16 INFO  time: initialize in 0.69s
+2021.01.13 15:52:17 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher8417535121436791178/bsp.socket'...
+Waiting for the bsp connection to come up...
+2021.01.13 15:52:17 WARN  no build target for: /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala
+2021.01.13 15:52:17 WARN  no build target for: /Users/chrispalko/GroceryList/src/main/scala/example/Tag.scala
+2021.01.13 15:52:17 WARN  no build target for: /Users/chrispalko/GroceryList/src/main/scala/example/Runner.scala
+2021.01.13 15:52:17 WARN  no build target for: /Users/chrispalko/GroceryList/src/main/scala/example/FileUtil.scala
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher8417535121436791178/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher8417535121436791178/bsp.socket...
+2021.01.13 15:52:16 INFO  skipping build import with status 'Installed'
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2021.01.13 15:52:17 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/chrispalko/Library/Caches/org.scalameta.metals/bsp.trace.json
+2021.01.13 15:52:17 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher1298102399136578203/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher1298102399136578203/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher1298102399136578203/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2021.01.13 15:52:17 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/chrispalko/Library/Caches/org.scalameta.metals/bsp.trace.json
+2021.01.13 15:52:17 INFO  time: connected to build server in 0.31s
+2021.01.13 15:52:17 INFO  Connected to Build server v1.4.6-15-209c2a5c
+2021.01.13 15:52:20 INFO  time: indexed workspace in 2.57s
+Jan 13, 2021 3:58:09 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 13, 2021 3:58:10 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 13, 2021 3:58:10 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2021.01.13 15:58:11 INFO  compiling root (1 scala source)
+2021.01.13 15:58:11 INFO  time: compiled root in 0.14s
+2021.01.13 15:58:26 INFO  compiling root (1 scala source)
+2021.01.13 15:58:26 INFO  time: compiled root in 65ms
+2021.01.13 15:58:39 INFO  compiling root (1 scala source)
+2021.01.13 15:58:39 INFO  time: compiled root in 73ms
+2021.01.13 15:58:44 INFO  compiling root (1 scala source)
+2021.01.13 15:58:44 INFO  time: compiled root in 61ms
+2021.01.13 15:59:40 INFO  compiling root (1 scala source)
+2021.01.13 15:59:40 INFO  time: compiled root in 66ms
+2021.01.13 15:59:51 INFO  compiling root (1 scala source)
+2021.01.13 15:59:51 INFO  time: compiled root in 63ms
+2021.01.13 15:59:54 INFO  compiling root (1 scala source)
+2021.01.13 15:59:54 INFO  time: compiled root in 84ms
+2021.01.13 15:59:55 INFO  compiling root (1 scala source)
+2021.01.13 15:59:55 INFO  time: compiled root in 81ms
+2021.01.13 15:59:55 INFO  compiling root (1 scala source)
+2021.01.13 15:59:55 INFO  time: compiled root in 38ms
+2021.01.13 16:00:04 INFO  compiling root (1 scala source)
+2021.01.13 16:00:04 INFO  time: compiled root in 65ms
+2021.01.13 16:00:13 INFO  compiling root (1 scala source)
+2021.01.13 16:00:13 INFO  time: compiled root in 69ms
+2021.01.13 16:00:14 INFO  compiling root (1 scala source)
+2021.01.13 16:00:14 INFO  time: compiled root in 61ms
+2021.01.13 16:00:23 INFO  compiling root (1 scala source)
+2021.01.13 16:00:23 INFO  time: compiled root in 93ms
+2021.01.13 16:03:11 INFO  compiling root (1 scala source)
+2021.01.13 16:03:11 INFO  time: compiled root in 60ms
+2021.01.13 16:03:52 INFO  compiling root (1 scala source)
+2021.01.13 16:03:52 INFO  time: compiled root in 0.75s
+2021.01.13 16:06:15 INFO  compiling root (1 scala source)
+2021.01.13 16:06:15 INFO  time: compiled root in 0.83s
+2021.01.13 16:07:15 INFO  compiling root (1 scala source)
+2021.01.13 16:07:15 INFO  time: compiled root in 95ms
+2021.01.13 16:07:21 INFO  compiling root (1 scala source)
+2021.01.13 16:07:21 INFO  time: compiled root in 96ms
+2021.01.13 16:07:24 INFO  compiling root (1 scala source)
+2021.01.13 16:07:24 INFO  time: compiled root in 0.1s
+2021.01.13 16:07:25 INFO  compiling root (1 scala source)
+2021.01.13 16:07:25 INFO  time: compiled root in 64ms
+Jan 13, 2021 4:20:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 907
+Jan 13, 2021 4:20:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 976
+2021.01.13 16:23:30 INFO  compiling root (2 scala sources)
+2021.01.13 16:23:30 INFO  time: compiled root in 75ms
+2021.01.13 16:25:48 INFO  compiling root (2 scala sources)
+2021.01.13 16:25:48 INFO  time: compiled root in 71ms
+2021.01.13 16:26:01 INFO  running '/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/28/z067165162j__s6rsmhf52b80000gn/T/metals967259227454922788/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2021.01.13 16:26:03 INFO  [info] welcome to sbt 1.4.4 (AdoptOpenJDK Java 1.8.0_275)
+2021.01.13 16:26:04 INFO  [info] loading settings for project grocerylist-build-build from metals.sbt ...
+2021.01.13 16:26:05 INFO  [info] loading project definition from /Users/chrispalko/GroceryList/project/project
+2021.01.13 16:26:07 INFO  [info] loading settings for project grocerylist-build from metals.sbt ...
+2021.01.13 16:26:07 INFO  [info] loading project definition from /Users/chrispalko/GroceryList/project
+2021.01.13 16:26:09 INFO  [success] Generated .bloop/grocerylist-build.json
+2021.01.13 16:26:09 INFO  [info] compiling 1 Scala source to /Users/chrispalko/GroceryList/project/target/scala-2.12/sbt-1.0/classes ...
+2021.01.13 16:26:14 INFO  [info] done compiling
+2021.01.13 16:26:14 INFO  [success] Total time: 7 s, completed Jan 13, 2021 4:26:14 PM
+2021.01.13 16:26:17 INFO  [info] loading settings for project root from build.sbt ...
+2021.01.13 16:26:17 INFO  [info] set current project to ShoppingList (in build file:/Users/chrispalko/GroceryList/)
+2021.01.13 16:26:17 INFO  [success] Generated .bloop/root.json
+2021.01.13 16:26:17 INFO  [success] Generated .bloop/root-test.json
+2021.01.13 16:26:17 INFO  [success] Total time: 0 s, completed Jan 13, 2021 4:26:18 PM
+2021.01.13 16:26:17 INFO  sbt bloopInstall exit: 0
+2021.01.13 16:26:18 INFO  time: ran 'sbt bloopInstall' in 17s
+2021.01.13 16:26:18 INFO  Disconnecting from Bloop session...
+2021.01.13 16:26:18 INFO  Shut down connection with build server.
+2021.01.13 16:26:18 INFO  Shut down connection with build server.
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+2021.01.13 16:26:18 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher5601268193900948840/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher5601268193900948840/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher5601268193900948840/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2021.01.13 16:26:18 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/chrispalko/Library/Caches/org.scalameta.metals/bsp.trace.json
+2021.01.13 16:26:18 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher7673583416484930390/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher7673583416484930390/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher7673583416484930390/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2021.01.13 16:26:18 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/chrispalko/Library/Caches/org.scalameta.metals/bsp.trace.json
+2021.01.13 16:26:18 INFO  time: connected to build server in 56ms
+2021.01.13 16:26:18 INFO  Connected to Build server v1.4.6-15-209c2a5c
+2021.01.13 16:26:19 INFO  time: indexed workspace in 0.61s
+2021.01.13 16:26:18 INFO  compiling root (2 scala sources)
+2021.01.13 16:26:18 INFO  time: compiled root in 80ms
+2021.01.13 16:27:07 INFO  compiling root (2 scala sources)
+2021.01.13 16:27:07 INFO  time: compiled root in 61ms
+2021.01.13 16:27:12 INFO  compiling root (2 scala sources)
+2021.01.13 16:27:12 INFO  time: compiled root in 59ms
+2021.01.13 16:29:55 INFO  compiling root (2 scala sources)
+2021.01.13 16:29:55 INFO  time: compiled root in 66ms
+2021.01.13 16:30:51 INFO  compiling root (2 scala sources)
+2021.01.13 16:30:51 INFO  time: compiled root in 83ms
+2021.01.13 16:34:19 INFO  compiling root (3 scala sources)
+2021.01.13 16:34:21 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 16:34:21 INFO  time: compiled root in 1.84s
+2021.01.13 16:37:41 INFO  compiling root (1 scala source)
+2021.01.13 16:37:41 INFO  time: compiled root in 0.16s
+Jan 13, 2021 4:38:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1877
+2021.01.13 16:38:25 INFO  compiling root (1 scala source)
+2021.01.13 16:38:25 INFO  time: compiled root in 0.13s
+2021.01.13 16:38:47 INFO  compiling root (1 scala source)
+2021.01.13 16:38:47 INFO  time: compiled root in 0.13s
+2021.01.13 16:40:32 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:61:29: stale bloop error: type mismatch;
+ found   : String
+ required: (Nothing, Nothing)
+    itemNamesAndTagsMap += (add, getTag(add))
+                            ^^^
+2021.01.13 16:40:32 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:61:34: stale bloop error: not found: value getTag
+    itemNamesAndTagsMap += (add, getTag(add))
+                                 ^^^^^^
+2021.01.13 16:40:32 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:61:29: stale bloop error: type mismatch;
+ found   : String
+ required: (Nothing, Nothing)
+    itemNamesAndTagsMap += (add, getTag(add))
+                            ^^^
+2021.01.13 16:40:32 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:61:34: stale bloop error: not found: value getTag
+    itemNamesAndTagsMap += (add, getTag(add))
+                                 ^^^^^^
+2021.01.13 16:40:59 INFO  compiling root (1 scala source)
+2021.01.13 16:40:59 INFO  time: compiled root in 0.15s
+2021.01.13 16:41:23 INFO  compiling root (1 scala source)
+2021.01.13 16:41:23 INFO  time: compiled root in 72ms
+2021.01.13 16:42:03 INFO  compiling root (1 scala source)
+2021.01.13 16:42:03 INFO  time: compiled root in 0.15s
+2021.01.13 16:42:26 INFO  compiling root (1 scala source)
+2021.01.13 16:42:26 INFO  time: compiled root in 0.14s
+2021.01.13 16:43:51 INFO  compiling root (1 scala source)
+2021.01.13 16:43:51 INFO  time: compiled root in 65ms
+2021.01.13 16:44:06 INFO  compiling root (1 scala source)
+2021.01.13 16:44:06 INFO  time: compiled root in 0.15s
+2021.01.13 16:47:34 INFO  compiling root (1 scala source)
+2021.01.13 16:47:34 INFO  time: compiled root in 60ms
+2021.01.13 16:47:49 INFO  compiling root (1 scala source)
+2021.01.13 16:47:49 INFO  time: compiled root in 0.18s
+2021.01.13 16:48:03 INFO  compiling root (1 scala source)
+2021.01.13 16:48:03 INFO  time: compiled root in 69ms
+2021.01.13 16:48:05 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:75:30: stale bloop error: ';' expected but string literal found.
+            case 1 => retrun "test"
+                             ^
+2021.01.13 16:48:05 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:75:30: stale bloop error: ';' expected but string literal found.
+            case 1 => retrun "test"
+                             ^
+2021.01.13 16:48:08 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:75:30: stale bloop error: ';' expected but string literal found.
+            case 1 => retrun "test"
+                             ^
+2021.01.13 16:48:08 INFO  /Users/chrispalko/GroceryList/src/main/scala/example/GroceryListCLI.scala:75:30: stale bloop error: ';' expected but string literal found.
+            case 1 => retrun "test"
+                             ^
+2021.01.13 16:48:10 INFO  compiling root (1 scala source)
+2021.01.13 16:48:10 INFO  time: compiled root in 0.13s
+Jan 13, 2021 4:48:19 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 13, 2021 4:48:20 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 13, 2021 4:48:20 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 13, 2021 4:48:20 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 13, 2021 4:48:20 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 13, 2021 4:48:20 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2021.01.13 16:48:21 INFO  compiling root (1 scala source)
+2021.01.13 16:48:21 INFO  time: compiled root in 0.15s
+2021.01.13 16:48:56 INFO  compiling root (1 scala source)
+2021.01.13 16:48:56 INFO  time: compiled root in 0.17s
+2021.01.13 16:49:03 INFO  compiling root (1 scala source)
+2021.01.13 16:49:03 INFO  time: compiled root in 0.18s
+2021.01.13 16:49:11 INFO  compiling root (1 scala source)
+2021.01.13 16:49:11 INFO  time: compiled root in 0.14s
+2021.01.13 16:49:19 INFO  compiling root (1 scala source)
+2021.01.13 16:49:19 INFO  time: compiled root in 0.14s
+2021.01.13 16:50:12 INFO  compiling root (1 scala source)
+2021.01.13 16:50:12 INFO  time: compiled root in 0.15s
+2021.01.13 16:50:39 INFO  compiling root (1 scala source)
+2021.01.13 16:50:39 INFO  time: compiled root in 0.14s
+2021.01.13 16:50:44 INFO  compiling root (1 scala source)
+2021.01.13 16:50:44 INFO  time: compiled root in 0.15s
+Jan 13, 2021 4:51:09 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 13, 2021 4:51:10 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 13, 2021 4:51:10 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 13, 2021 4:51:10 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 13, 2021 4:51:10 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 13, 2021 4:51:10 PM scala.meta.internal.pc.completions.Completions completionPosition
+SEVERE: null
+java.lang.NullPointerException
+	at scala.meta.internal.pc.completions.OverrideCompletions$OverrideCompletion.<init>(OverrideCompletions.scala:46)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe(Completions.scala:500)
+	at scala.meta.internal.pc.completions.Completions.completionPositionUnsafe$(Completions.scala:409)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.completions.Completions.completionPosition(Completions.scala:401)
+	at scala.meta.internal.pc.completions.Completions.completionPosition$(Completions.scala:386)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:29)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:446)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:57)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:184)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:87)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2021.01.13 16:51:12 INFO  compiling root (1 scala source)
+2021.01.13 16:51:12 INFO  time: compiled root in 0.14s
+2021.01.13 16:51:28 INFO  compiling root (1 scala source)
+2021.01.13 16:51:28 INFO  time: compiled root in 0.15s
+2021.01.13 16:51:35 INFO  compiling root (1 scala source)
+2021.01.13 16:51:35 INFO  time: compiled root in 0.15s
+2021.01.13 16:53:16 INFO  compiling root (1 scala source)
+2021.01.13 16:53:16 INFO  time: compiled root in 0.14s
+2021.01.13 16:53:17 INFO  compiling root (1 scala source)
+2021.01.13 16:53:17 INFO  time: compiled root in 0.15s
+2021.01.13 16:53:30 INFO  compiling root (1 scala source)
+2021.01.13 16:53:30 INFO  time: compiled root in 0.17s
+2021.01.13 16:53:32 INFO  compiling root (1 scala source)
+2021.01.13 16:53:32 INFO  time: compiled root in 0.16s
+2021.01.13 16:53:33 INFO  compiling root (1 scala source)
+2021.01.13 16:53:33 INFO  time: compiled root in 0.14s
+2021.01.13 16:54:09 INFO  compiling root (1 scala source)
+2021.01.13 16:54:09 INFO  time: compiled root in 0.19s
+2021.01.13 16:55:22 INFO  compiling root (1 scala source)
+2021.01.13 16:55:22 INFO  time: compiled root in 0.14s
+2021.01.13 16:55:31 INFO  compiling root (1 scala source)
+2021.01.13 16:55:31 INFO  time: compiled root in 0.16s
+2021.01.13 16:55:38 INFO  compiling root (1 scala source)
+2021.01.13 16:55:38 INFO  time: compiled root in 0.15s
+2021.01.13 16:56:24 INFO  compiling root (1 scala source)
+2021.01.13 16:56:24 INFO  time: compiled root in 0.17s
+2021.01.13 16:56:25 INFO  compiling root (1 scala source)
+2021.01.13 16:56:25 INFO  time: compiled root in 0.13s
+2021.01.13 16:57:57 INFO  compiling root (1 scala source)
+2021.01.13 16:57:57 INFO  time: compiled root in 57ms
+2021.01.13 16:58:26 INFO  compiling root (1 scala source)
+2021.01.13 16:58:26 INFO  time: compiled root in 0.16s
+2021.01.13 16:58:49 INFO  compiling root (1 scala source)
+2021.01.13 16:58:49 INFO  time: compiled root in 0.12s
+2021.01.13 16:58:59 INFO  compiling root (1 scala source)
+2021.01.13 16:58:59 INFO  time: compiled root in 0.13s
+2021.01.13 16:59:49 INFO  compiling root (1 scala source)
+2021.01.13 16:59:49 INFO  time: compiled root in 0.15s
+2021.01.13 17:00:17 INFO  compiling root (1 scala source)
+2021.01.13 17:00:17 INFO  time: compiled root in 62ms
+2021.01.13 17:00:57 INFO  compiling root (1 scala source)
+2021.01.13 17:00:57 INFO  time: compiled root in 0.14s
+2021.01.13 17:01:07 INFO  compiling root (1 scala source)
+2021.01.13 17:01:07 INFO  time: compiled root in 0.2s
+2021.01.13 17:01:09 INFO  compiling root (1 scala source)
+2021.01.13 17:01:10 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 17:01:10 INFO  time: compiled root in 1.23s
+2021.01.13 17:05:20 INFO  compiling root (1 scala source)
+2021.01.13 17:05:21 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 17:05:21 INFO  time: compiled root in 1.2s
+2021.01.13 17:06:03 INFO  compiling root (1 scala source)
+2021.01.13 17:06:04 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 17:06:04 INFO  time: compiled root in 1.23s
+2021.01.13 17:06:25 INFO  compiling root (1 scala source)
+2021.01.13 17:06:27 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 17:06:27 INFO  time: compiled root in 1.35s
+2021.01.13 17:10:42 INFO  compiling root (1 scala source)
+2021.01.13 17:10:42 INFO  time: compiled root in 0.16s
+2021.01.13 17:11:03 INFO  compiling root (1 scala source)
+2021.01.13 17:11:04 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 17:11:04 INFO  time: compiled root in 1.5s
+2021.01.13 17:19:38 INFO  compiling root (1 scala source)
+2021.01.13 17:19:39 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 17:19:39 INFO  time: compiled root in 1.43s
+2021.01.13 17:20:02 INFO  compiling root (1 scala source)
+2021.01.13 17:20:02 INFO  time: compiled root in 66ms
+2021.01.13 17:20:16 INFO  compiling root (1 scala source)
+2021.01.13 17:20:17 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 17:20:17 INFO  time: compiled root in 1.32s
+2021.01.13 17:21:33 INFO  compiling root (1 scala source)
+2021.01.13 17:21:33 INFO  time: compiled root in 0.15s
+2021.01.13 17:21:48 INFO  compiling root (1 scala source)
+2021.01.13 17:21:48 INFO  time: compiled root in 0.15s
+2021.01.13 17:22:34 INFO  compiling root (1 scala source)
+2021.01.13 17:22:34 INFO  time: compiled root in 0.19s
+2021.01.13 17:22:46 INFO  compiling root (1 scala source)
+2021.01.13 17:22:48 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 17:22:48 INFO  time: compiled root in 1.59s
+2021.01.13 17:34:32 INFO  compiling root (1 scala source)
+2021.01.13 17:34:33 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 17:34:33 INFO  time: compiled root in 1.36s
+2021.01.13 17:44:36 INFO  compiling root (1 scala source)
+2021.01.13 17:44:38 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 17:44:38 INFO  time: compiled root in 1.63s
+2021.01.13 17:58:54 INFO  compiling root (1 scala source)
+2021.01.13 17:58:56 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 17:58:56 INFO  time: compiled root in 2s
+2021.01.13 17:59:11 INFO  compiling root (1 scala source)
+2021.01.13 17:59:13 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 17:59:13 INFO  time: compiled root in 1.49s
+2021.01.13 19:46:24 INFO  compiling root (1 scala source)
+2021.01.13 19:46:24 INFO  time: compiled root in 71ms
+2021.01.13 19:48:06 INFO  compiling root (1 scala source)
+2021.01.13 19:48:06 INFO  time: compiled root in 0.17s
+2021.01.13 19:48:10 INFO  compiling root (1 scala source)
+2021.01.13 19:48:12 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 19:48:12 INFO  time: compiled root in 1.4s
+2021.01.13 19:48:29 INFO  compiling root (1 scala source)
+2021.01.13 19:48:30 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 19:48:30 INFO  time: compiled root in 1.43s
+2021.01.13 19:49:38 INFO  compiling root (1 scala source)
+2021.01.13 19:49:40 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 19:49:40 INFO  time: compiled root in 1.28s
+2021.01.13 19:50:14 INFO  compiling root (1 scala source)
+2021.01.13 19:50:16 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 19:50:16 INFO  time: compiled root in 1.46s
+2021.01.13 19:58:13 INFO  compiling root (1 scala source)
+2021.01.13 19:58:13 INFO  time: compiled root in 74ms
+2021.01.13 19:58:43 INFO  compiling root (1 scala source)
+2021.01.13 19:58:43 INFO  time: compiled root in 70ms
+2021.01.13 19:59:30 INFO  compiling root (1 scala source)
+2021.01.13 19:59:30 INFO  time: compiled root in 73ms
+2021.01.13 20:00:26 INFO  compiling root (1 scala source)
+2021.01.13 20:00:28 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:00:28 INFO  time: compiled root in 1.43s
+2021.01.13 20:01:38 INFO  compiling root (1 scala source)
+2021.01.13 20:01:40 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:01:40 INFO  time: compiled root in 1.37s
+2021.01.13 20:03:17 INFO  compiling root (1 scala source)
+2021.01.13 20:03:17 INFO  time: compiled root in 63ms
+2021.01.13 20:05:37 INFO  compiling root (1 scala source)
+2021.01.13 20:05:38 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:05:38 INFO  time: compiled root in 1.22s
+2021.01.13 20:06:09 INFO  compiling root (1 scala source)
+2021.01.13 20:06:13 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:06:13 INFO  time: compiled root in 4.3s
+2021.01.13 20:07:11 INFO  compiling root (1 scala source)
+2021.01.13 20:07:11 INFO  time: compiled root in 0.13s
+2021.01.13 20:07:38 INFO  compiling root (1 scala source)
+2021.01.13 20:07:39 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:07:39 INFO  time: compiled root in 1.31s
+2021.01.13 20:08:04 INFO  compiling root (1 scala source)
+2021.01.13 20:08:07 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:08:07 INFO  time: compiled root in 2.49s
+2021.01.13 20:08:53 INFO  compiling root (1 scala source)
+2021.01.13 20:08:55 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:08:55 INFO  time: compiled root in 1.38s
+2021.01.13 20:10:14 INFO  compiling root (1 scala source)
+2021.01.13 20:10:15 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:10:15 INFO  time: compiled root in 1.15s
+2021.01.13 20:12:21 INFO  compiling root (1 scala source)
+2021.01.13 20:12:22 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:12:22 INFO  time: compiled root in 1.52s
+2021.01.13 20:12:37 INFO  compiling root (1 scala source)
+2021.01.13 20:12:39 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.13 20:12:39 INFO  time: compiled root in 1.26s
