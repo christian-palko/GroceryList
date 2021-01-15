@@ -8701,3 +8701,6 @@ Jan 15, 2021 11:38:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancella
 WARNING: Unmatched cancel notification for request id 18315
 2021.01.15 11:38:13 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
 2021.01.15 11:38:13 INFO  time: compiled root in 1.63s
+2021.01.15 11:54:13 INFO  compiling root (1 scala source)
+2021.01.15 11:54:15 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.15 11:54:15 INFO  time: compiled root in 1.41s

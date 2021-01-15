@@ -125,11 +125,11 @@ class GroceryListCLI extends AnsiColor{
                 .trim.split(",")
                 .to(ArrayBuffer)
             for (item <- openFileAdd) {
-             /* to do - if list already contains, add prompt to pass over or add duplicate */
+             
             if(itemNamesAndTagsMap.contains(item)) {
                 println(s"List already contains $item.")
                 } else {
-                itemNamesAndTagsMap += (item -> (getTag(item)))
+                ItemDao.addNew(item)
                 println(s"Added $item")
                 }
             }
