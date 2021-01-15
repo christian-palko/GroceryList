@@ -9,18 +9,6 @@ import scala.io.StdIn.readLine
 
 object FileUtil {
 
-// def importFile(file: String): Array[String] = {
-//   var res: String = Source.fromFile(file).mkString("")
-//   var res2 = res.split(",")
-//     for (item <- res2) {
-//       println(item)
-//     } 
-
-//   println(res2)
-//   return res2
-  
-// }
-
 def importFile(file: String, sep: String = " "): String = {
 
   var openedFile : BufferedSource = null

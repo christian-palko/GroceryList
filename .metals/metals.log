@@ -6636,3 +6636,1928 @@ WARNING: Unmatched cancel notification for request id 1351
 2021.01.14 15:54:41 INFO  compiling root (1 scala source)
 2021.01.14 15:54:42 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
 2021.01.14 15:54:42 INFO  time: compiled root in 1.4s
+2021.01.14 15:57:01 INFO  compiling root (1 scala source)
+2021.01.14 15:57:03 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 15:57:03 INFO  time: compiled root in 1.4s
+2021.01.14 15:57:41 INFO  compiling root (1 scala source)
+2021.01.14 15:57:43 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 15:57:43 INFO  time: compiled root in 1.44s
+2021.01.14 15:58:11 INFO  compiling root (1 scala source)
+2021.01.14 15:58:12 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 15:58:12 INFO  time: compiled root in 1.41s
+2021.01.14 16:00:08 INFO  compiling root (1 scala source)
+2021.01.14 16:00:09 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 16:00:09 INFO  time: compiled root in 1.3s
+Jan 14, 2021 4:00:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2755
+2021.01.14 16:01:03 INFO  compiling root (1 scala source)
+2021.01.14 16:01:04 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 16:01:04 INFO  time: compiled root in 1.45s
+2021.01.14 16:01:07 INFO  compiling root (1 scala source)
+2021.01.14 16:01:08 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 16:01:08 INFO  time: compiled root in 1.51s
+2021.01.14 16:02:13 INFO  compiling root (1 scala source)
+2021.01.14 16:02:14 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 16:02:14 INFO  time: compiled root in 1.34s
+2021.01.14 16:05:06 INFO  compiling root (1 scala source)
+2021.01.14 16:05:06 INFO  time: compiled root in 72ms
+2021.01.14 16:05:27 INFO  compiling root (1 scala source)
+2021.01.14 16:05:27 INFO  time: compiled root in 65ms
+2021.01.14 16:05:41 INFO  compiling root (1 scala source)
+2021.01.14 16:05:43 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 16:05:43 INFO  time: compiled root in 1.39s
+2021.01.14 16:07:20 INFO  compiling root (1 scala source)
+2021.01.14 16:07:22 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 16:07:22 INFO  time: compiled root in 1.43s
+2021.01.14 16:08:19 INFO  compiling root (1 scala source)
+2021.01.14 16:08:20 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 16:08:20 INFO  time: compiled root in 1.32s
+2021.01.14 16:10:25 INFO  compiling root (1 scala source)
+2021.01.14 16:10:26 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 16:10:26 INFO  time: compiled root in 1.36s
+2021.01.14 16:10:30 INFO  compiling root (1 scala source)
+2021.01.14 16:10:31 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 16:10:31 INFO  time: compiled root in 1.45s
+2021.01.14 16:12:02 INFO  compiling root (1 scala source)
+2021.01.14 16:12:03 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 16:12:03 INFO  time: compiled root in 1.32s
+2021.01.14 16:16:57 INFO  compiling root (1 scala source)
+2021.01.14 16:16:58 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 16:16:58 INFO  time: compiled root in 1.36s
+Jan 14, 2021 4:17:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3596
+2021.01.14 16:18:52 INFO  compiling root (1 scala source)
+2021.01.14 16:18:53 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 16:18:53 INFO  time: compiled root in 1.46s
+2021.01.14 16:22:23 INFO  compiling root (1 scala source)
+2021.01.14 16:22:25 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 16:22:25 INFO  time: compiled root in 1.5s
+2021.01.14 16:24:04 INFO  compiling root (1 scala source)
+2021.01.14 16:24:06 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 16:24:06 INFO  time: compiled root in 1.48s
+2021.01.14 16:25:11 INFO  compiling root (1 scala source)
+2021.01.14 16:25:13 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 16:25:13 INFO  time: compiled root in 1.62s
+2021.01.14 16:30:02 INFO  compiling root (1 scala source)
+2021.01.14 16:30:02 INFO  time: compiled root in 0.41s
+2021.01.14 16:30:24 INFO  compiling root (1 scala source)
+2021.01.14 16:30:24 INFO  time: compiled root in 76ms
+2021.01.14 16:30:27 INFO  compiling root (1 scala source)
+2021.01.14 16:30:27 INFO  time: compiled root in 0.51s
+2021.01.14 16:31:16 INFO  compiling root (1 scala source)
+2021.01.14 16:31:16 INFO  time: compiled root in 0.69s
+2021.01.14 16:42:49 INFO  compiling root (1 scala source)
+2021.01.14 16:42:49 INFO  time: compiled root in 82ms
+2021.01.14 16:43:24 INFO  compiling root (1 scala source)
+2021.01.14 16:43:24 INFO  time: compiled root in 85ms
+2021.01.14 16:43:39 INFO  compiling root (1 scala source)
+2021.01.14 16:43:39 INFO  time: compiled root in 92ms
+2021.01.14 16:43:52 INFO  compiling root (1 scala source)
+2021.01.14 16:43:52 INFO  time: compiled root in 0.86s
+2021.01.14 16:46:29 INFO  compiling root (1 scala source)
+2021.01.14 16:46:29 INFO  time: compiled root in 63ms
+2021.01.14 16:46:31 INFO  compiling root (1 scala source)
+2021.01.14 16:46:31 INFO  time: compiled root in 65ms
+2021.01.14 16:46:33 INFO  compiling root (1 scala source)
+2021.01.14 16:46:33 INFO  time: compiled root in 84ms
+2021.01.14 16:46:51 INFO  compiling root (1 scala source)
+2021.01.14 16:46:51 INFO  time: compiled root in 69ms
+2021.01.14 16:47:18 INFO  compiling root (1 scala source)
+2021.01.14 16:47:18 INFO  time: compiled root in 0.83s
+2021.01.14 16:47:39 INFO  compiling root (1 scala source)
+2021.01.14 16:47:39 INFO  time: compiled root in 75ms
+2021.01.14 16:47:47 INFO  compiling root (1 scala source)
+2021.01.14 16:47:47 INFO  time: compiled root in 72ms
+2021.01.14 16:47:52 INFO  compiling root (1 scala source)
+2021.01.14 16:47:52 INFO  time: compiled root in 68ms
+2021.01.14 16:48:14 INFO  compiling root (1 scala source)
+2021.01.14 16:48:14 INFO  time: compiled root in 79ms
+2021.01.14 16:48:42 INFO  compiling root (1 scala source)
+2021.01.14 16:48:42 INFO  time: compiled root in 67ms
+2021.01.14 16:48:45 INFO  compiling root (1 scala source)
+2021.01.14 16:48:45 INFO  time: compiled root in 0.84s
+2021.01.14 16:50:18 INFO  compiling root (1 scala source)
+2021.01.14 16:50:18 INFO  time: compiled root in 87ms
+2021.01.14 16:55:03 INFO  compiling root (2 scala sources)
+2021.01.14 16:55:03 INFO  time: compiled root in 70ms
+2021.01.14 16:55:03 INFO  compiling root (2 scala sources)
+2021.01.14 16:55:03 INFO  time: compiled root in 39ms
+2021.01.14 16:55:03 INFO  compiling root (2 scala sources)
+2021.01.14 16:55:03 INFO  time: compiled root in 27ms
+2021.01.14 16:56:07 INFO  compiling root (2 scala sources)
+2021.01.14 16:56:07 INFO  time: compiled root in 65ms
+2021.01.14 17:08:56 INFO  compiling root (2 scala sources)
+2021.01.14 17:08:56 INFO  time: compiled root in 65ms
+2021.01.14 17:09:06 INFO  compiling root (2 scala sources)
+2021.01.14 17:09:06 INFO  time: compiled root in 65ms
+2021.01.14 17:09:27 INFO  compiling root (2 scala sources)
+2021.01.14 17:09:27 INFO  time: compiled root in 71ms
+2021.01.14 17:11:38 INFO  compiling root (2 scala sources)
+2021.01.14 17:11:38 INFO  time: compiled root in 79ms
+2021.01.14 17:12:11 INFO  compiling root (2 scala sources)
+2021.01.14 17:12:11 INFO  time: compiled root in 65ms
+2021.01.14 17:12:20 INFO  compiling root (2 scala sources)
+2021.01.14 17:12:20 INFO  time: compiled root in 65ms
+2021.01.14 17:12:36 ERROR code navigation does not work for the file '/Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ListDao.scala' because the SemanticDB file '/Users/chrispalko/GroceryList/.bloop/root/bloop-bsp-clients-classes/classes-Metals-zxpue8XxTaC2jFQ0RvnY7Q==/META-INF/semanticdb/src/main/scala/com/revature/grocerylistapp/dao/ListDao.scala.semanticdb' doesn't exist. There can be many reasons for this error. 
+2021.01.14 17:12:36 ERROR code navigation does not work for the file '/Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ListDao.scala' because the SemanticDB file '/Users/chrispalko/GroceryList/.bloop/root/bloop-bsp-clients-classes/classes-Metals-zxpue8XxTaC2jFQ0RvnY7Q==/META-INF/semanticdb/src/main/scala/com/revature/grocerylistapp/dao/ListDao.scala.semanticdb' doesn't exist. There can be many reasons for this error. 
+2021.01.14 17:12:36 ERROR code navigation does not work for the file '/Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ListDao.scala' because the SemanticDB file '/Users/chrispalko/GroceryList/.bloop/root/bloop-bsp-clients-classes/classes-Metals-zxpue8XxTaC2jFQ0RvnY7Q==/META-INF/semanticdb/src/main/scala/com/revature/grocerylistapp/dao/ListDao.scala.semanticdb' doesn't exist. There can be many reasons for this error. 
+2021.01.14 17:12:40 INFO  compiling root (2 scala sources)
+2021.01.14 17:12:40 INFO  time: compiled root in 67ms
+2021.01.14 17:13:44 INFO  compiling root (2 scala sources)
+2021.01.14 17:13:44 INFO  time: compiled root in 67ms
+2021.01.14 17:13:46 INFO  compiling root (2 scala sources)
+2021.01.14 17:13:46 INFO  time: compiled root in 71ms
+2021.01.14 17:16:31 INFO  compiling root (2 scala sources)
+2021.01.14 17:16:31 INFO  time: compiled root in 99ms
+2021.01.14 17:17:22 INFO  compiling root (2 scala sources)
+2021.01.14 17:17:22 INFO  time: compiled root in 0.11s
+2021.01.14 17:17:42 INFO  compiling root (2 scala sources)
+2021.01.14 17:17:42 INFO  time: compiled root in 86ms
+2021.01.14 17:18:37 INFO  compiling root (5 scala sources)
+2021.01.14 17:18:37 INFO  time: compiled root in 0.16s
+2021.01.14 17:18:39 INFO  compiling root (5 scala sources)
+2021.01.14 17:18:39 INFO  time: compiled root in 0.15s
+2021.01.14 17:18:47 INFO  compiling root (5 scala sources)
+2021.01.14 17:18:47 INFO  time: compiled root in 0.15s
+2021.01.14 17:18:57 INFO  compiling root (5 scala sources)
+2021.01.14 17:18:57 INFO  time: compiled root in 0.15s
+2021.01.14 17:18:59 ERROR code navigation does not work for the file '/Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ListDao.scala' because the SemanticDB file '/Users/chrispalko/GroceryList/.bloop/root/bloop-bsp-clients-classes/classes-Metals-zxpue8XxTaC2jFQ0RvnY7Q==/META-INF/semanticdb/src/main/scala/com/revature/grocerylistapp/dao/ListDao.scala.semanticdb' doesn't exist. There can be many reasons for this error. 
+2021.01.14 17:18:59 INFO  compiling root (5 scala sources)
+2021.01.14 17:18:59 INFO  time: compiled root in 0.15s
+2021.01.14 17:23:51 INFO  compiling root (5 scala sources)
+2021.01.14 17:23:51 INFO  time: compiled root in 63ms
+2021.01.14 17:24:12 INFO  compiling root (5 scala sources)
+2021.01.14 17:24:13 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 17:24:13 INFO  time: compiled root in 1.63s
+2021.01.14 17:25:30 INFO  compiling root (1 scala source)
+2021.01.14 17:25:30 INFO  time: compiled root in 0.96s
+2021.01.14 17:51:15 INFO  compiling root (1 scala source)
+2021.01.14 17:51:15 INFO  time: compiled root in 0.81s
+2021.01.14 17:52:26 INFO  compiling root (1 scala source)
+2021.01.14 17:52:26 INFO  time: compiled root in 0.81s
+2021.01.14 17:52:42 INFO  compiling root (1 scala source)
+2021.01.14 17:52:42 INFO  time: compiled root in 0.82s
+2021.01.14 17:55:45 INFO  compiling root (1 scala source)
+2021.01.14 17:55:45 INFO  time: compiled root in 69ms
+2021.01.14 17:59:29 INFO  compiling root (2 scala sources)
+2021.01.14 17:59:29 INFO  time: compiled root in 71ms
+Jan 14, 2021 6:21:13 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: null
+Jan 14, 2021 6:21:13 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: null
+2021.01.14 18:21:54 INFO  compiling root (2 scala sources)
+2021.01.14 18:21:54 INFO  time: compiled root in 63ms
+2021.01.14 18:22:44 INFO  compiling root (2 scala sources)
+2021.01.14 18:22:44 INFO  time: compiled root in 69ms
+2021.01.14 18:22:50 INFO  compiling root (2 scala sources)
+2021.01.14 18:22:50 INFO  time: compiled root in 71ms
+2021.01.14 18:23:09 INFO  compiling root (2 scala sources)
+2021.01.14 18:23:09 INFO  time: compiled root in 0.16s
+2021.01.14 18:23:32 INFO  compiling root (2 scala sources)
+2021.01.14 18:23:32 INFO  time: compiled root in 0.14s
+2021.01.14 18:23:51 INFO  compiling root (2 scala sources)
+2021.01.14 18:23:53 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 18:23:53 INFO  time: compiled root in 1.55s
+2021.01.14 18:39:41 INFO  compiling root (1 scala source)
+2021.01.14 18:39:41 INFO  time: compiled root in 0.64s
+2021.01.14 18:40:03 INFO  compiling root (1 scala source)
+2021.01.14 18:40:06 INFO  time: compiled root in 2.97s
+2021.01.14 18:41:46 INFO  compiling root (1 scala source)
+2021.01.14 18:41:46 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details
+2021.01.14 18:41:46 INFO  time: compiled root in 0.78s
+2021.01.14 18:42:09 INFO  compiling root (1 scala source)
+2021.01.14 18:42:12 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details
+2021.01.14 18:42:12 INFO  time: compiled root in 2.21s
+2021.01.14 18:46:40 INFO  compiling root (1 scala source)
+2021.01.14 18:46:40 INFO  time: compiled root in 85ms
+something's wrong: no file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ListDao.scala in Map[String,<error>]RangePosition(file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ListDao.scala, 376, 376, 397)
+something's wrong: no file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ListDao.scala in Map[String,<error>]RangePosition(file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ListDao.scala, 376, 376, 390)
+something's wrong: no file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ListDao.scala in Map[String,<error>]RangePosition(file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ListDao.scala, 376, 376, 391)
+something's wrong: no file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ListDao.scala in Map[String,<error>]RangePosition(file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ListDao.scala, 376, 376, 394)
+2021.01.14 18:46:42 INFO  compiling root (1 scala source)
+2021.01.14 18:46:42 INFO  time: compiled root in 96ms
+something's wrong: no file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ListDao.scala in Map[String,String]RangePosition(file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ListDao.scala, 376, 376, 395)
+2021.01.14 18:46:43 INFO  compiling root (1 scala source)
+2021.01.14 18:46:43 INFO  time: compiled root in 89ms
+something's wrong: no file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ListDao.scala in Map[String,String]RangePosition(file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ListDao.scala, 376, 376, 395)
+2021.01.14 18:46:49 INFO  compiling root (1 scala source)
+2021.01.14 18:46:49 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details
+2021.01.14 18:46:49 INFO  time: compiled root in 0.81s
+2021.01.14 18:48:12 INFO  compiling root (1 scala source)
+2021.01.14 18:48:12 INFO  time: compiled root in 95ms
+2021.01.14 18:49:50 INFO  compiling root (1 scala source)
+2021.01.14 18:49:50 INFO  time: compiled root in 0.12s
+2021.01.14 18:53:37 INFO  compiling root (1 scala source)
+2021.01.14 18:53:37 INFO  time: compiled root in 66ms
+2021.01.14 18:54:10 INFO  compiling root (1 scala source)
+2021.01.14 18:54:10 INFO  time: compiled root in 0.51s
+2021.01.14 18:56:35 INFO  compiling root (1 scala source)
+2021.01.14 18:56:36 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 18:56:36 INFO  time: compiled root in 1.44s
+2021.01.14 18:59:28 INFO  compiling root (1 scala source)
+2021.01.14 18:59:29 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 18:59:29 INFO  time: compiled root in 1.35s
+2021.01.14 19:01:40 INFO  compiling root (1 scala source)
+2021.01.14 19:01:41 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 19:01:41 INFO  time: compiled root in 1.19s
+2021.01.14 19:02:00 INFO  compiling root (1 scala source)
+2021.01.14 19:02:01 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 19:02:01 INFO  time: compiled root in 1.24s
+2021.01.14 19:11:02 INFO  compiling root (1 scala source)
+2021.01.14 19:11:02 INFO  time: compiled root in 0.15s
+2021.01.14 19:11:29 INFO  compiling root (1 scala source)
+2021.01.14 19:11:29 INFO  time: compiled root in 0.13s
+2021.01.14 19:11:40 INFO  compiling root (1 scala source)
+2021.01.14 19:11:40 INFO  time: compiled root in 0.14s
+something's wrong: no file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala in scala.collection.mutable.ArrayBuffer[<error>]RangePosition(file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala, 2043, 2043, 2064)
+something's wrong: no file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala in scala.collection.mutable.ArrayBuffer[<error>]RangePosition(file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala, 2043, 2043, 2057)
+something's wrong: no file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala in scala.collection.mutable.ArrayBuffer[<error>]RangePosition(file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala, 2043, 2043, 2058)
+something's wrong: no file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala in scala.collection.mutable.ArrayBuffer[<error>]RangePosition(file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala, 2043, 2043, 2059)
+something's wrong: no file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala in scala.collection.mutable.ArrayBuffer[String]RangePosition(file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala, 2043, 2043, 2062)
+something's wrong: no file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala in scala.collection.mutable.ArrayBuffer[String]RangePosition(file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala, 2043, 2043, 2062)
+something's wrong: no file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala in scala.collection.mutable.ArrayBuffer[String]RangePosition(file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala, 2043, 2043, 2062)
+2021.01.14 19:13:20 INFO  compiling root (1 scala source)
+2021.01.14 19:13:20 INFO  time: compiled root in 0.14s
+2021.01.14 19:13:53 INFO  compiling root (1 scala source)
+2021.01.14 19:13:53 INFO  time: compiled root in 0.14s
+2021.01.14 19:14:11 INFO  compiling root (1 scala source)
+2021.01.14 19:14:11 INFO  time: compiled root in 0.15s
+2021.01.14 19:14:15 INFO  compiling root (1 scala source)
+2021.01.14 19:14:15 INFO  time: compiled root in 0.14s
+2021.01.14 19:14:36 INFO  compiling root (1 scala source)
+2021.01.14 19:14:36 INFO  time: compiled root in 0.12s
+2021.01.14 19:14:44 INFO  compiling root (1 scala source)
+2021.01.14 19:14:44 INFO  time: compiled root in 0.14s
+2021.01.14 19:14:50 INFO  compiling root (1 scala source)
+2021.01.14 19:14:50 INFO  time: compiled root in 0.13s
+2021.01.14 19:15:49 INFO  compiling root (1 scala source)
+2021.01.14 19:15:49 INFO  time: compiled root in 0.14s
+2021.01.14 19:16:14 INFO  compiling root (2 scala sources)
+2021.01.14 19:16:14 INFO  time: compiled root in 0.16s
+2021.01.14 19:16:14 INFO  compiling root (2 scala sources)
+2021.01.14 19:16:14 INFO  time: compiled root in 98ms
+2021.01.14 19:18:02 INFO  compiling root (2 scala sources)
+2021.01.14 19:18:02 INFO  time: compiled root in 0.17s
+2021.01.14 19:18:06 INFO  compiling root (2 scala sources)
+2021.01.14 19:18:06 INFO  time: compiled root in 0.14s
+2021.01.14 19:18:18 INFO  compiling root (2 scala sources)
+2021.01.14 19:18:18 INFO  time: compiled root in 0.16s
+2021.01.14 19:18:56 INFO  compiling root (2 scala sources)
+2021.01.14 19:18:56 INFO  time: compiled root in 0.12s
+2021.01.14 19:19:09 INFO  compiling root (2 scala sources)
+2021.01.14 19:19:09 INFO  time: compiled root in 0.14s
+2021.01.14 19:19:15 ERROR code navigation does not work for the file '/Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/model/List.scala' because the SemanticDB file '/Users/chrispalko/GroceryList/.bloop/root/bloop-bsp-clients-classes/classes-Metals-zxpue8XxTaC2jFQ0RvnY7Q==/META-INF/semanticdb/src/main/scala/com/revature/grocerylistapp/model/List.scala.semanticdb' doesn't exist. There can be many reasons for this error. 
+2021.01.14 19:19:15 ERROR code navigation does not work for the file '/Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/model/List.scala' because the SemanticDB file '/Users/chrispalko/GroceryList/.bloop/root/bloop-bsp-clients-classes/classes-Metals-zxpue8XxTaC2jFQ0RvnY7Q==/META-INF/semanticdb/src/main/scala/com/revature/grocerylistapp/model/List.scala.semanticdb' doesn't exist. There can be many reasons for this error. 
+2021.01.14 19:19:20 INFO  compiling root (2 scala sources)
+2021.01.14 19:19:20 INFO  time: compiled root in 0.15s
+2021.01.14 19:19:32 INFO  compiling root (2 scala sources)
+2021.01.14 19:19:32 INFO  time: compiled root in 0.13s
+Jan 14, 2021 7:19:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10231
+2021.01.14 19:19:41 INFO  compiling root (2 scala sources)
+2021.01.14 19:19:41 INFO  time: compiled root in 0.17s
+2021.01.14 19:19:47 INFO  compiling root (2 scala sources)
+2021.01.14 19:19:47 INFO  time: compiled root in 0.14s
+2021.01.14 19:20:36 INFO  compiling root (2 scala sources)
+2021.01.14 19:20:36 INFO  time: compiled root in 0.15s
+2021.01.14 19:20:45 INFO  compiling root (2 scala sources)
+2021.01.14 19:20:45 INFO  time: compiled root in 0.15s
+2021.01.14 19:20:50 INFO  compiling root (2 scala sources)
+2021.01.14 19:20:50 INFO  time: compiled root in 0.13s
+2021.01.14 19:21:42 INFO  compiling root (2 scala sources)
+2021.01.14 19:21:42 INFO  time: compiled root in 0.18s
+2021.01.14 19:21:42 INFO  compiling root (2 scala sources)
+2021.01.14 19:21:42 INFO  time: compiled root in 0.13s
+2021.01.14 19:21:44 INFO  compiling root (2 scala sources)
+2021.01.14 19:21:44 INFO  time: compiled root in 0.13s
+2021.01.14 19:21:50 INFO  compiling root (2 scala sources)
+2021.01.14 19:21:50 INFO  time: compiled root in 0.15s
+something's wrong: no file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala in scala.collection.mutable.ArrayBuffer[String]RangePosition(file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala, 2087, 2087, 2106)
+2021.01.14 19:23:29 INFO  compiling root (2 scala sources)
+2021.01.14 19:23:29 INFO  time: compiled root in 0.15s
+2021.01.14 19:23:34 INFO  compiling root (2 scala sources)
+2021.01.14 19:23:34 INFO  time: compiled root in 0.15s
+2021.01.14 19:23:36 INFO  compiling root (2 scala sources)
+2021.01.14 19:23:36 INFO  time: compiled root in 0.16s
+2021.01.14 19:23:58 INFO  compiling root (2 scala sources)
+2021.01.14 19:23:59 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 19:23:59 INFO  time: compiled root in 1.35s
+Jan 14, 2021 7:24:01 PM scala.meta.internal.metals.Docstrings indexSymbol
+SEVERE: file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/model/List.scala
+java.nio.file.NoSuchFileException: /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/model/List.scala
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.CommonMtagsEnrichments$XtensionAbsolutePath.toInput(CommonMtagsEnrichments.scala:395)
+	at scala.meta.internal.metals.Docstrings.indexSymbolDefinition(Docstrings.scala:89)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:73)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:38)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:37)
+	at scala.meta.internal.pc.MetalsGlobal.symbolDocumentation(MetalsGlobal.scala:161)
+	at scala.meta.internal.pc.Signatures$SignaturePrinter.<init>(Signatures.scala:239)
+	at scala.meta.internal.pc.HoverProvider.toHover(HoverProvider.scala:199)
+	at scala.meta.internal.pc.HoverProvider.$anonfun$hover$5(HoverProvider.scala:57)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.pc.HoverProvider.$anonfun$hover$3(HoverProvider.scala:55)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:54)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$hover$1(ScalaPresentationCompiler.scala:235)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withNonInterruptableCompiler$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2021.01.14 19:26:14 INFO  compiling root (1 scala source)
+2021.01.14 19:26:14 INFO  time: compiled root in 0.13s
+2021.01.14 19:26:18 INFO  compiling root (1 scala source)
+2021.01.14 19:26:19 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 19:26:19 INFO  time: compiled root in 1.36s
+2021.01.14 19:27:40 INFO  compiling root (1 scala source)
+2021.01.14 19:27:40 INFO  time: compiled root in 94ms
+2021.01.14 19:28:00 INFO  compiling root (2 scala sources)
+2021.01.14 19:28:00 INFO  time: compiled root in 0.14s
+2021.01.14 19:28:05 INFO  compiling root (2 scala sources)
+2021.01.14 19:28:05 INFO  time: compiled root in 0.14s
+2021.01.14 19:28:41 INFO  compiling root (2 scala sources)
+2021.01.14 19:28:41 INFO  time: compiled root in 0.14s
+2021.01.14 19:29:27 INFO  compiling root (2 scala sources)
+2021.01.14 19:29:27 INFO  time: compiled root in 0.14s
+2021.01.14 19:29:32 INFO  compiling root (2 scala sources)
+2021.01.14 19:29:32 INFO  time: compiled root in 0.13s
+2021.01.14 19:29:40 INFO  compiling root (2 scala sources)
+something's wrong: no file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ListDao.scala in scala.collection.mutable.ArrayBuffer[com.revature.grocerylistapp.model.Item]RangePosition(file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ListDao.scala, 509, 509, 526)
+2021.01.14 19:29:41 WARN  failed to generate semanticdb for /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ListDao.scala:
+java.lang.IllegalArgumentException: 315 is not a valid offset, allowed [0..0]
+	at scala.meta.internal.inputs.InternalInput.offsetToLine(InternalInput.scala:49)
+	at scala.meta.internal.inputs.InternalInput.offsetToLine$(InternalInput.scala:43)
+	at scala.meta.inputs.Input$File.offsetToLine(Input.scala:51)
+	at scala.meta.inputs.Position$Range.startLine(Position.scala:37)
+	at scala.meta.internal.inputs.package$XtensionPositionToRange.toRange(package.scala:40)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$traverser$3$.tryFindSynthetic(TextDocumentOps.scala:574)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$traverser$3$.traverse(TextDocumentOps.scala:686)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$traverser$3$.traverse(TextDocumentOps.scala:200)
+	at scala.reflect.internal.Trees$Apply.traverse(Trees.scala:788)
+	at scala.reflect.internal.Trees.itraverse(Trees.scala:1604)
+	at scala.reflect.internal.Trees.itraverse$(Trees.scala:1603)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.api.Trees$Traverser.traverse(Trees.scala:2497)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$traverser$3$.traverse(TextDocumentOps.scala:739)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$traverser$3$.traverse(TextDocumentOps.scala:200)
+	at scala.reflect.internal.Trees$Select.traverse(Trees.scala:855)
+	at scala.reflect.internal.Trees.itraverse(Trees.scala:1604)
+	at scala.reflect.internal.Trees.itraverse$(Trees.scala:1603)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.api.Trees$Traverser.traverse(Trees.scala:2497)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$traverser$3$.traverse(TextDocumentOps.scala:739)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$traverser$3$.traverse(TextDocumentOps.scala:200)
+	at scala.reflect.internal.Trees$Block.traverse(Trees.scala:559)
+	at scala.reflect.internal.Trees.itraverse(Trees.scala:1604)
+	at scala.reflect.internal.Trees.itraverse$(Trees.scala:1603)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.api.Trees$Traverser.traverse(Trees.scala:2497)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$traverser$3$.traverse(TextDocumentOps.scala:739)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$traverser$3$.traverse(TextDocumentOps.scala:200)
+	at scala.reflect.internal.Trees$DefDef.$anonfun$traverse$4(Trees.scala:461)
+	at scala.reflect.api.Trees$Traverser.atOwner(Trees.scala:2529)
+	at scala.reflect.internal.Trees$DefDef.traverse(Trees.scala:455)
+	at scala.reflect.internal.Trees.itraverse(Trees.scala:1604)
+	at scala.reflect.internal.Trees.itraverse$(Trees.scala:1603)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.api.Trees$Traverser.traverse(Trees.scala:2497)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$traverser$3$.traverse(TextDocumentOps.scala:739)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$traverser$3$.traverse(TextDocumentOps.scala:200)
+	at scala.reflect.api.Trees$Traverser.$anonfun$traverseStats$2(Trees.scala:2520)
+	at scala.reflect.api.Trees$Traverser.atOwner(Trees.scala:2529)
+	at scala.reflect.api.Trees$Traverser.$anonfun$traverseStats$1(Trees.scala:2520)
+	at scala.reflect.api.Trees$Traverser.traverseStats(Trees.scala:2519)
+	at scala.reflect.internal.Trees$Template.traverse(Trees.scala:548)
+	at scala.reflect.internal.Trees.itraverse(Trees.scala:1604)
+	at scala.reflect.internal.Trees.itraverse$(Trees.scala:1603)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.api.Trees$Traverser.traverse(Trees.scala:2497)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$traverser$3$.traverse(TextDocumentOps.scala:739)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$traverser$3$.traverse(TextDocumentOps.scala:200)
+	at scala.reflect.internal.Trees$ModuleDef.$anonfun$traverse$2(Trees.scala:401)
+	at scala.reflect.api.Trees$Traverser.atOwner(Trees.scala:2529)
+	at scala.reflect.internal.Trees$ModuleDef.traverse(Trees.scala:398)
+	at scala.reflect.internal.Trees.itraverse(Trees.scala:1604)
+	at scala.reflect.internal.Trees.itraverse$(Trees.scala:1603)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.api.Trees$Traverser.traverse(Trees.scala:2497)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$traverser$3$.traverse(TextDocumentOps.scala:739)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$traverser$3$.traverse(TextDocumentOps.scala:200)
+	at scala.reflect.api.Trees$Traverser.$anonfun$traverseStats$2(Trees.scala:2520)
+	at scala.reflect.api.Trees$Traverser.atOwner(Trees.scala:2529)
+	at scala.reflect.api.Trees$Traverser.$anonfun$traverseStats$1(Trees.scala:2520)
+	at scala.reflect.api.Trees$Traverser.traverseStats(Trees.scala:2519)
+	at scala.reflect.internal.Trees$PackageDef.traverse(Trees.scala:347)
+	at scala.reflect.internal.Trees.itraverse(Trees.scala:1604)
+	at scala.reflect.internal.Trees.itraverse$(Trees.scala:1603)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.internal.SymbolTable.itraverse(SymbolTable.scala:28)
+	at scala.reflect.api.Trees$Traverser.traverse(Trees.scala:2497)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument$traverser$3$.traverse(TextDocumentOps.scala:739)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:742)
+	at scala.meta.internal.semanticdb.scalac.SemanticdbPipeline$SemanticdbTyperComponent$ComputeSemanticdbPhase.saveSemanticdbForCompilationUnit(SemanticdbPipeline.scala:60)
+	at scala.meta.internal.semanticdb.scalac.SemanticdbPipeline$SemanticdbTyperComponent$ComputeSemanticdbPhase.apply(SemanticdbPipeline.scala:67)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:454)
+	at scala.tools.nsc.Global$GlobalPhase.run(Global.scala:401)
+	at scala.meta.internal.semanticdb.scalac.SemanticdbPipeline$SemanticdbTyperComponent$ComputeSemanticdbPhase.run(SemanticdbPipeline.scala:77)
+	at scala.tools.nsc.Global$Run.compileUnitsInternal(Global.scala:1515)
+	at scala.tools.nsc.Global$Run.compileUnits(Global.scala:1499)
+	at scala.tools.nsc.Global$Run.compileSources(Global.scala:1491)
+	at scala.tools.nsc.Global$Run.compile(Global.scala:1626)
+	at xsbt.CachedCompiler0.run(CompilerInterface.scala:148)
+	at xsbt.CachedCompiler0.run(CompilerInterface.scala:123)
+	at xsbt.CompilerInterface.run(CompilerInterface.scala:35)
+	at sun.reflect.GeneratedMethodAccessor8.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at sbt.internal.inc.AnalyzingCompiler.call(AnalyzingCompiler.scala:252)
+	at sbt.internal.inc.AnalyzingCompiler.compile(AnalyzingCompiler.scala:121)
+	at sbt.internal.inc.AnalyzingCompiler.compile(AnalyzingCompiler.scala:94)
+	at sbt.internal.inc.bloop.internal.BloopHighLevelCompiler.compileSources$1(BloopHighLevelCompiler.scala:142)
+	at sbt.internal.inc.bloop.internal.BloopHighLevelCompiler.$anonfun$compile$7(BloopHighLevelCompiler.scala:160)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at sbt.internal.inc.bloop.internal.BloopHighLevelCompiler.$anonfun$compile$1(BloopHighLevelCompiler.scala:72)
+	at bloop.tracing.BraveTracer.traceInternal(BraveTracer.scala:65)
+	at bloop.tracing.BraveTracer.trace(BraveTracer.scala:39)
+	at sbt.internal.inc.bloop.internal.BloopHighLevelCompiler.timed$1(BloopHighLevelCompiler.scala:71)
+	at sbt.internal.inc.bloop.internal.BloopHighLevelCompiler.$anonfun$compile$6(BloopHighLevelCompiler.scala:160)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:187)
+	at monix.eval.internal.TaskRunLoop$RestartCallback$1.onSuccess(TaskRunLoop.scala:119)
+	at monix.eval.Task$.$anonfun$forkedUnit$2(Task.scala:1463)
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1402)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:175)
+
+2021.01.14 19:29:41 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 19:29:41 INFO  time: compiled root in 1.32s
+something's wrong: no file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ListDao.scala in scala.collection.mutable.ArrayBuffer[com.revature.grocerylistapp.model.Item]RangePosition(file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ListDao.scala, 509, 509, 526)
+something's wrong: no file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ListDao.scala in scala.collection.mutable.ArrayBuffer[com.revature.grocerylistapp.model.Item]RangePosition(file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ListDao.scala, 509, 509, 526)
+2021.01.14 19:31:48 INFO  compiling root (1 scala source)
+2021.01.14 19:31:48 INFO  time: compiled root in 0.15s
+2021.01.14 19:37:20 INFO  compiling root (1 scala source)
+2021.01.14 19:37:20 INFO  time: compiled root in 0.21s
+2021.01.14 19:37:30 INFO  compiling root (1 scala source)
+2021.01.14 19:37:30 INFO  time: compiled root in 69ms
+2021.01.14 19:37:56 INFO  compiling root (1 scala source)
+2021.01.14 19:37:56 INFO  time: compiled root in 96ms
+2021.01.14 19:38:02 INFO  compiling root (1 scala source)
+2021.01.14 19:38:02 INFO  time: compiled root in 77ms
+2021.01.14 19:38:07 INFO  compiling root (1 scala source)
+2021.01.14 19:38:07 INFO  time: compiled root in 72ms
+Jan 14, 2021 7:38:07 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2021.01.14 19:38:09 INFO  compiling root (1 scala source)
+2021.01.14 19:38:09 INFO  time: compiled root in 0.16s
+2021.01.14 19:38:14 INFO  compiling root (1 scala source)
+2021.01.14 19:38:14 INFO  time: compiled root in 66ms
+2021.01.14 19:38:29 INFO  compiling root (1 scala source)
+2021.01.14 19:38:29 INFO  time: compiled root in 52ms
+2021.01.14 19:38:33 INFO  compiling root (1 scala source)
+2021.01.14 19:38:34 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 19:38:34 INFO  time: compiled root in 1.27s
+2021.01.14 19:38:43 INFO  compiling root (1 scala source)
+2021.01.14 19:38:44 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 19:38:44 INFO  time: compiled root in 1.31s
+2021.01.14 19:38:46 INFO  compiling root (1 scala source)
+2021.01.14 19:38:46 INFO  Deduplicating compilation of root from bsp client 'Metals 0.9.8' (since 4h 40m 35.487s)
+2021.01.14 19:38:46 INFO  compiling root (1 scala source)
+2021.01.14 19:38:48 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 19:38:48 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 19:38:48 INFO  time: compiled root in 1.31s
+2021.01.14 19:38:56 INFO  compiling root (1 scala source)
+2021.01.14 19:38:56 INFO  time: compiled root in 0.15s
+2021.01.14 19:39:29 INFO  compiling root (1 scala source)
+2021.01.14 19:39:29 INFO  time: compiled root in 0.14s
+2021.01.14 19:39:57 INFO  compiling root (1 scala source)
+2021.01.14 19:39:57 INFO  time: compiled root in 0.15s
+2021.01.14 19:40:00 INFO  compiling root (1 scala source)
+2021.01.14 19:40:00 INFO  time: compiled root in 0.15s
+2021.01.14 19:40:11 INFO  compiling root (1 scala source)
+2021.01.14 19:40:11 INFO  time: compiled root in 0.14s
+2021.01.14 19:40:12 INFO  compiling root (1 scala source)
+2021.01.14 19:40:12 INFO  time: compiled root in 0.17s
+2021.01.14 19:41:01 INFO  compiling root (1 scala source)
+2021.01.14 19:41:01 INFO  time: compiled root in 71ms
+2021.01.14 19:41:16 INFO  compiling root (1 scala source)
+2021.01.14 19:41:16 INFO  time: compiled root in 69ms
+2021.01.14 19:41:20 INFO  compiling root (1 scala source)
+2021.01.14 19:41:20 INFO  time: compiled root in 75ms
+2021.01.14 19:41:44 INFO  compiling root (1 scala source)
+2021.01.14 19:41:44 INFO  time: compiled root in 0.15s
+Jan 14, 2021 7:41:58 PM scala.meta.internal.metals.Docstrings indexSymbol
+SEVERE: file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/model/List.scala
+java.nio.file.NoSuchFileException: /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/model/List.scala
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.CommonMtagsEnrichments$XtensionAbsolutePath.toInput(CommonMtagsEnrichments.scala:395)
+	at scala.meta.internal.metals.Docstrings.indexSymbolDefinition(Docstrings.scala:89)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:73)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:38)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:37)
+	at scala.meta.internal.pc.MetalsGlobal.symbolDocumentation(MetalsGlobal.scala:161)
+	at scala.meta.internal.pc.CompletionItemResolver.resolve(CompletionItemResolver.scala:16)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$completionItemResolve$1(ScalaPresentationCompiler.scala:216)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.completionItemResolve(ScalaPresentationCompiler.scala:215)
+	at scala.meta.internal.metals.Compilers.$anonfun$completionItemResolve$2(Compilers.scala:259)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.metals.Compilers.$anonfun$completionItemResolve$1(Compilers.scala:258)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.Compilers.completionItemResolve(Compilers.scala:257)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$completionItemResolve$1(MetalsLanguageServer.scala:1358)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.completionItemResolve(MetalsLanguageServer.scala:1356)
+	at sun.reflect.GeneratedMethodAccessor17.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2021.01.14 19:41:59 INFO  compiling root (1 scala source)
+2021.01.14 19:41:59 INFO  time: compiled root in 0.14s
+2021.01.14 19:42:04 INFO  compiling root (1 scala source)
+2021.01.14 19:42:04 INFO  time: compiled root in 66ms
+2021.01.14 19:42:09 INFO  compiling root (1 scala source)
+2021.01.14 19:42:09 INFO  time: compiled root in 60ms
+2021.01.14 19:42:15 INFO  compiling root (1 scala source)
+2021.01.14 19:42:15 INFO  time: compiled root in 0.15s
+2021.01.14 19:42:23 INFO  compiling root (1 scala source)
+2021.01.14 19:42:23 INFO  time: compiled root in 0.14s
+2021.01.14 19:42:39 INFO  compiling root (1 scala source)
+2021.01.14 19:42:39 INFO  time: compiled root in 66ms
+2021.01.14 19:42:41 INFO  compiling root (1 scala source)
+2021.01.14 19:42:41 INFO  time: compiled root in 64ms
+2021.01.14 19:42:46 INFO  compiling root (1 scala source)
+2021.01.14 19:42:46 INFO  time: compiled root in 0.15s
+2021.01.14 19:43:07 INFO  compiling root (1 scala source)
+2021.01.14 19:43:08 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 19:43:08 INFO  time: compiled root in 1.43s
+2021.01.14 19:44:43 INFO  compiling root (1 scala source)
+2021.01.14 19:44:44 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 19:44:44 INFO  time: compiled root in 1.18s
+2021.01.14 19:44:59 INFO  compiling root (1 scala source)
+2021.01.14 19:45:00 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 19:45:00 INFO  time: compiled root in 1.23s
+2021.01.14 19:45:24 INFO  compiling root (1 scala source)
+2021.01.14 19:45:25 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 19:45:25 INFO  time: compiled root in 1.39s
+2021.01.14 19:46:46 INFO  compiling root (1 scala source)
+2021.01.14 19:46:46 INFO  time: compiled root in 0.13s
+2021.01.14 19:46:53 INFO  compiling root (1 scala source)
+2021.01.14 19:46:55 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 19:46:55 INFO  time: compiled root in 1.32s
+2021.01.14 19:48:20 INFO  compiling root (1 scala source)
+2021.01.14 19:48:20 INFO  time: compiled root in 0.14s
+2021.01.14 19:48:24 INFO  compiling root (1 scala source)
+2021.01.14 19:48:24 INFO  time: compiled root in 0.13s
+2021.01.14 19:54:26 INFO  compiling root (1 scala source)
+2021.01.14 19:54:27 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 19:54:27 INFO  time: compiled root in 1.26s
+2021.01.14 19:54:51 INFO  compiling root (1 scala source)
+2021.01.14 19:54:51 INFO  time: compiled root in 0.13s
+2021.01.14 19:55:04 INFO  compiling root (1 scala source)
+2021.01.14 19:55:06 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 19:55:06 INFO  time: compiled root in 1.51s
+2021.01.14 19:55:18 INFO  compiling root (1 scala source)
+2021.01.14 19:55:18 INFO  time: compiled root in 0.98s
+2021.01.14 19:55:18 INFO  compiling root (1 scala source)
+2021.01.14 19:55:19 INFO  time: compiled root in 0.11s
+2021.01.14 19:55:23 INFO  compiling root (1 scala source)
+2021.01.14 19:55:23 INFO  time: compiled root in 0.82s
+2021.01.14 19:55:23 INFO  compiling root (1 scala source)
+2021.01.14 19:55:23 INFO  time: compiled root in 0.1s
+2021.01.14 19:55:24 INFO  compiling root (2 scala sources)
+2021.01.14 19:55:24 INFO  time: compiled root in 0.13s
+2021.01.14 19:55:24 INFO  compiling root (2 scala sources)
+2021.01.14 19:55:24 INFO  time: compiled root in 0.14s
+2021.01.14 19:55:34 INFO  compiling root (2 scala sources)
+2021.01.14 19:55:34 INFO  time: compiled root in 0.14s
+2021.01.14 19:55:38 INFO  compiling root (2 scala sources)
+2021.01.14 19:55:39 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 19:55:39 INFO  time: compiled root in 1.5s
+2021.01.14 19:56:18 INFO  compiling root (1 scala source)
+2021.01.14 19:56:18 INFO  time: compiled root in 0.11s
+2021.01.14 19:56:26 INFO  compiling root (1 scala source)
+2021.01.14 19:56:26 INFO  time: compiled root in 0.13s
+2021.01.14 19:57:16 INFO  compiling root (1 scala source)
+2021.01.14 19:57:18 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 19:57:18 INFO  time: compiled root in 1.54s
+2021.01.14 19:59:08 INFO  compiling root (1 scala source)
+2021.01.14 19:59:08 INFO  time: compiled root in 0.14s
+2021.01.14 19:59:11 INFO  compiling root (1 scala source)
+2021.01.14 19:59:12 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 19:59:12 INFO  time: compiled root in 1.29s
+2021.01.14 19:59:27 INFO  compiling root (1 scala source)
+2021.01.14 19:59:29 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 19:59:29 INFO  time: compiled root in 1.54s
+2021.01.14 19:59:41 INFO  compiling root (1 scala source)
+2021.01.14 19:59:41 INFO  time: compiled root in 0.14s
+2021.01.14 20:24:14 INFO  compiling root (1 scala source)
+2021.01.14 20:24:16 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 20:24:16 INFO  time: compiled root in 1.36s
+2021.01.14 20:25:02 INFO  compiling root (1 scala source)
+2021.01.14 20:25:02 INFO  time: compiled root in 0.13s
+2021.01.14 20:25:05 INFO  compiling root (1 scala source)
+2021.01.14 20:25:05 INFO  time: compiled root in 0.14s
+2021.01.14 20:25:33 INFO  compiling root (1 scala source)
+2021.01.14 20:25:33 INFO  time: compiled root in 0.2s
+2021.01.14 20:25:38 INFO  compiling root (1 scala source)
+2021.01.14 20:25:39 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 20:25:39 INFO  time: compiled root in 1.75s
+Jan 14, 2021 8:26:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13017
+2021.01.14 20:26:34 INFO  compiling root (1 scala source)
+2021.01.14 20:26:34 INFO  time: compiled root in 0.14s
+2021.01.14 20:26:39 INFO  compiling root (1 scala source)
+2021.01.14 20:26:40 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 20:26:40 INFO  time: compiled root in 1.43s
+2021.01.14 20:26:52 INFO  compiling root (1 scala source)
+2021.01.14 20:26:53 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 20:26:53 INFO  time: compiled root in 1.42s
+2021.01.14 20:28:21 INFO  compiling root (1 scala source)
+2021.01.14 20:28:23 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 20:28:23 INFO  time: compiled root in 1.41s
+2021.01.14 20:29:00 INFO  compiling root (1 scala source)
+2021.01.14 20:29:01 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 20:29:01 INFO  time: compiled root in 1.68s
+2021.01.14 20:29:18 INFO  compiling root (1 scala source)
+2021.01.14 20:29:20 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 20:29:20 INFO  time: compiled root in 2.15s
+Jan 14, 2021 8:33:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1606)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.ts$1(ScalametaParser.scala:1349)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$tupleInfixType$7(ScalametaParser.scala:1383)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$tupleInfixType$1(ScalametaParser.scala:1383)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.tupleInfixType(ScalametaParser.scala:1289)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.infixTypeOrTuple(ScalametaParser.scala:1474)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.infixTypeOrTuple$(ScalametaParser.scala:1473)
+	at scala.meta.internal.parsers.ScalametaParser$outPattern$.infixTypeOrTuple(ScalametaParser.scala:3219)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$typ$1(ScalametaParser.scala:1422)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.typ(ScalametaParser.scala:1416)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.typ$(ScalametaParser.scala:1415)
+	at scala.meta.internal.parsers.ScalametaParser$outPattern$.typ(ScalametaParser.scala:3219)
+	at scala.meta.internal.parsers.ScalametaParser.typ(ScalametaParser.scala:3241)
+	at scala.meta.internal.parsers.ScalametaParser.typedOpt(ScalametaParser.scala:1957)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$6(ScalametaParser.scala:3967)
+	at scala.meta.internal.parsers.ScalametaParser.fromWithinReturnType(ScalametaParser.scala:727)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:3967)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3942)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3894)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3782)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3767)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4614)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4608)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:35)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4552)
+	at scala.meta.internal.parsers.ScalametaParser.templateStats(ScalametaParser.scala:4607)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4604)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBody$1(ScalametaParser.scala:4461)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:620)
+	at scala.meta.internal.parsers.ScalametaParser.templateBody(ScalametaParser.scala:4461)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4466)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4454)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$objectDef$1(ScalametaParser.scala:4198)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.objectDef(ScalametaParser.scala:4190)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:4074)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:4056)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4574)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4562)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:35)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4552)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:4561)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:4765)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$9(ScalametaParser.scala:4771)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4771)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4739)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4722)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4721)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4727)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:144)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:54)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:144)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$254.apply(ScalametaParser.scala:4789)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.metals.Trees.$anonfun$parse$1(Trees.scala:66)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Trees.parse(Trees.scala:64)
+	at scala.meta.internal.metals.Trees.didChange(Trees.scala:38)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$didChange$1(ScalaPresentationCompiler.scala:128)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604)
+	... 3 more
+
+Jan 14, 2021 8:33:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1606)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.ts$1(ScalametaParser.scala:1349)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$tupleInfixType$7(ScalametaParser.scala:1383)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$tupleInfixType$1(ScalametaParser.scala:1383)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.tupleInfixType(ScalametaParser.scala:1289)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.infixTypeOrTuple(ScalametaParser.scala:1474)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.infixTypeOrTuple$(ScalametaParser.scala:1473)
+	at scala.meta.internal.parsers.ScalametaParser$outPattern$.infixTypeOrTuple(ScalametaParser.scala:3219)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$typ$1(ScalametaParser.scala:1422)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.typ(ScalametaParser.scala:1416)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.typ$(ScalametaParser.scala:1415)
+	at scala.meta.internal.parsers.ScalametaParser$outPattern$.typ(ScalametaParser.scala:3219)
+	at scala.meta.internal.parsers.ScalametaParser.typ(ScalametaParser.scala:3241)
+	at scala.meta.internal.parsers.ScalametaParser.typedOpt(ScalametaParser.scala:1957)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$6(ScalametaParser.scala:3967)
+	at scala.meta.internal.parsers.ScalametaParser.fromWithinReturnType(ScalametaParser.scala:727)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:3967)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3942)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3894)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3782)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3767)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4614)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4608)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:35)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4552)
+	at scala.meta.internal.parsers.ScalametaParser.templateStats(ScalametaParser.scala:4607)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4604)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBody$1(ScalametaParser.scala:4461)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:620)
+	at scala.meta.internal.parsers.ScalametaParser.templateBody(ScalametaParser.scala:4461)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4466)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4454)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$objectDef$1(ScalametaParser.scala:4198)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.objectDef(ScalametaParser.scala:4190)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:4074)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:4056)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4574)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4562)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:35)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4552)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:4561)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:4765)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$9(ScalametaParser.scala:4771)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4771)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4739)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4722)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4721)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4727)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:144)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:54)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:144)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$254.apply(ScalametaParser.scala:4789)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.metals.Trees.$anonfun$parse$1(Trees.scala:66)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Trees.parse(Trees.scala:64)
+	at scala.meta.internal.metals.Trees.didChange(Trees.scala:38)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$didChange$1(ScalaPresentationCompiler.scala:128)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604)
+	... 3 more
+
+Jan 14, 2021 8:33:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1606)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.ts$1(ScalametaParser.scala:1349)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$tupleInfixType$7(ScalametaParser.scala:1383)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$tupleInfixType$1(ScalametaParser.scala:1383)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.tupleInfixType(ScalametaParser.scala:1289)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.infixTypeOrTuple(ScalametaParser.scala:1474)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.infixTypeOrTuple$(ScalametaParser.scala:1473)
+	at scala.meta.internal.parsers.ScalametaParser$outPattern$.infixTypeOrTuple(ScalametaParser.scala:3219)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$typ$1(ScalametaParser.scala:1422)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.typ(ScalametaParser.scala:1416)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.typ$(ScalametaParser.scala:1415)
+	at scala.meta.internal.parsers.ScalametaParser$outPattern$.typ(ScalametaParser.scala:3219)
+	at scala.meta.internal.parsers.ScalametaParser.typ(ScalametaParser.scala:3241)
+	at scala.meta.internal.parsers.ScalametaParser.typedOpt(ScalametaParser.scala:1957)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$6(ScalametaParser.scala:3967)
+	at scala.meta.internal.parsers.ScalametaParser.fromWithinReturnType(ScalametaParser.scala:727)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:3967)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3942)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3894)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3782)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3767)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4614)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4608)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:35)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4552)
+	at scala.meta.internal.parsers.ScalametaParser.templateStats(ScalametaParser.scala:4607)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4604)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBody$1(ScalametaParser.scala:4461)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:620)
+	at scala.meta.internal.parsers.ScalametaParser.templateBody(ScalametaParser.scala:4461)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4466)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4454)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$objectDef$1(ScalametaParser.scala:4198)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.objectDef(ScalametaParser.scala:4190)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:4074)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:4056)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4574)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4562)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:35)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4552)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:4561)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:4765)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$9(ScalametaParser.scala:4771)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4771)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4739)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4722)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4721)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4727)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:144)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:54)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:144)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$254.apply(ScalametaParser.scala:4789)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.metals.Trees.$anonfun$parse$1(Trees.scala:66)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Trees.parse(Trees.scala:64)
+	at scala.meta.internal.metals.Trees.didChange(Trees.scala:38)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$didChange$1(ScalaPresentationCompiler.scala:128)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604)
+	... 3 more
+
+Jan 14, 2021 8:33:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1606)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.ts$1(ScalametaParser.scala:1349)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$tupleInfixType$7(ScalametaParser.scala:1383)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$tupleInfixType$1(ScalametaParser.scala:1383)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.tupleInfixType(ScalametaParser.scala:1289)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.infixTypeOrTuple(ScalametaParser.scala:1474)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.infixTypeOrTuple$(ScalametaParser.scala:1473)
+	at scala.meta.internal.parsers.ScalametaParser$outPattern$.infixTypeOrTuple(ScalametaParser.scala:3219)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$typ$1(ScalametaParser.scala:1422)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.typ(ScalametaParser.scala:1416)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.typ$(ScalametaParser.scala:1415)
+	at scala.meta.internal.parsers.ScalametaParser$outPattern$.typ(ScalametaParser.scala:3219)
+	at scala.meta.internal.parsers.ScalametaParser.typ(ScalametaParser.scala:3241)
+	at scala.meta.internal.parsers.ScalametaParser.typedOpt(ScalametaParser.scala:1957)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$6(ScalametaParser.scala:3967)
+	at scala.meta.internal.parsers.ScalametaParser.fromWithinReturnType(ScalametaParser.scala:727)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:3967)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3942)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3894)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3782)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3767)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4614)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4608)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:35)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4552)
+	at scala.meta.internal.parsers.ScalametaParser.templateStats(ScalametaParser.scala:4607)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4604)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBody$1(ScalametaParser.scala:4461)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:620)
+	at scala.meta.internal.parsers.ScalametaParser.templateBody(ScalametaParser.scala:4461)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4466)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4454)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$objectDef$1(ScalametaParser.scala:4198)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.objectDef(ScalametaParser.scala:4190)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:4074)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:4056)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4574)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4562)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:35)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4552)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:4561)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:4765)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$9(ScalametaParser.scala:4771)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4771)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4739)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4722)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4721)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4727)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:144)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:54)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:144)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$254.apply(ScalametaParser.scala:4789)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.metals.Trees.$anonfun$parse$1(Trees.scala:66)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Trees.parse(Trees.scala:64)
+	at scala.meta.internal.metals.Trees.didChange(Trees.scala:38)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$didChange$1(ScalaPresentationCompiler.scala:128)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604)
+	... 3 more
+
+Jan 14, 2021 8:33:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1606)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.ts$1(ScalametaParser.scala:1349)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$tupleInfixType$7(ScalametaParser.scala:1383)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$tupleInfixType$1(ScalametaParser.scala:1383)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.tupleInfixType(ScalametaParser.scala:1289)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.infixTypeOrTuple(ScalametaParser.scala:1474)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.infixTypeOrTuple$(ScalametaParser.scala:1473)
+	at scala.meta.internal.parsers.ScalametaParser$outPattern$.infixTypeOrTuple(ScalametaParser.scala:3219)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$typ$1(ScalametaParser.scala:1422)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.typ(ScalametaParser.scala:1416)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.typ$(ScalametaParser.scala:1415)
+	at scala.meta.internal.parsers.ScalametaParser$outPattern$.typ(ScalametaParser.scala:3219)
+	at scala.meta.internal.parsers.ScalametaParser.typ(ScalametaParser.scala:3241)
+	at scala.meta.internal.parsers.ScalametaParser.typedOpt(ScalametaParser.scala:1957)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$6(ScalametaParser.scala:3967)
+	at scala.meta.internal.parsers.ScalametaParser.fromWithinReturnType(ScalametaParser.scala:727)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:3967)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3942)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3894)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3782)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3767)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4614)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4608)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:35)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4552)
+	at scala.meta.internal.parsers.ScalametaParser.templateStats(ScalametaParser.scala:4607)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4604)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBody$1(ScalametaParser.scala:4461)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:620)
+	at scala.meta.internal.parsers.ScalametaParser.templateBody(ScalametaParser.scala:4461)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4466)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4454)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$objectDef$1(ScalametaParser.scala:4198)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.objectDef(ScalametaParser.scala:4190)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:4074)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:4056)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4574)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4562)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:35)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4552)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:4561)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:4765)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$9(ScalametaParser.scala:4771)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4771)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4739)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4722)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4721)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4727)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:144)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:54)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:144)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$254.apply(ScalametaParser.scala:4789)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.metals.Trees.$anonfun$parse$1(Trees.scala:66)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Trees.parse(Trees.scala:64)
+	at scala.meta.internal.metals.Trees.didChange(Trees.scala:38)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$didChange$1(ScalaPresentationCompiler.scala:128)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604)
+	... 3 more
+
+Jan 14, 2021 8:33:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1606)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.ts$1(ScalametaParser.scala:1349)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$tupleInfixType$7(ScalametaParser.scala:1383)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$tupleInfixType$1(ScalametaParser.scala:1383)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.tupleInfixType(ScalametaParser.scala:1289)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.infixTypeOrTuple(ScalametaParser.scala:1474)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.infixTypeOrTuple$(ScalametaParser.scala:1473)
+	at scala.meta.internal.parsers.ScalametaParser$outPattern$.infixTypeOrTuple(ScalametaParser.scala:3219)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$typ$1(ScalametaParser.scala:1422)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.typ(ScalametaParser.scala:1416)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.typ$(ScalametaParser.scala:1415)
+	at scala.meta.internal.parsers.ScalametaParser$outPattern$.typ(ScalametaParser.scala:3219)
+	at scala.meta.internal.parsers.ScalametaParser.typ(ScalametaParser.scala:3241)
+	at scala.meta.internal.parsers.ScalametaParser.typedOpt(ScalametaParser.scala:1957)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$6(ScalametaParser.scala:3967)
+	at scala.meta.internal.parsers.ScalametaParser.fromWithinReturnType(ScalametaParser.scala:727)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:3967)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3942)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3894)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3782)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3767)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4614)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4608)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:35)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4552)
+	at scala.meta.internal.parsers.ScalametaParser.templateStats(ScalametaParser.scala:4607)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4604)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBody$1(ScalametaParser.scala:4461)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:620)
+	at scala.meta.internal.parsers.ScalametaParser.templateBody(ScalametaParser.scala:4461)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4466)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4454)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$objectDef$1(ScalametaParser.scala:4198)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.objectDef(ScalametaParser.scala:4190)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:4074)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:4056)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4574)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4562)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:35)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4552)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:4561)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:4765)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$9(ScalametaParser.scala:4771)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4771)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4739)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4722)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4721)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4727)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:144)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:54)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:144)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$254.apply(ScalametaParser.scala:4789)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.metals.Trees.$anonfun$parse$1(Trees.scala:66)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Trees.parse(Trees.scala:64)
+	at scala.meta.internal.metals.Trees.didChange(Trees.scala:38)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$didChange$1(ScalaPresentationCompiler.scala:128)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604)
+	... 3 more
+
+Jan 14, 2021 8:33:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1606)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.ts$1(ScalametaParser.scala:1349)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$tupleInfixType$7(ScalametaParser.scala:1383)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$tupleInfixType$1(ScalametaParser.scala:1383)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.tupleInfixType(ScalametaParser.scala:1289)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.infixTypeOrTuple(ScalametaParser.scala:1474)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.infixTypeOrTuple$(ScalametaParser.scala:1473)
+	at scala.meta.internal.parsers.ScalametaParser$outPattern$.infixTypeOrTuple(ScalametaParser.scala:3219)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$typ$1(ScalametaParser.scala:1422)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.typ(ScalametaParser.scala:1416)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.typ$(ScalametaParser.scala:1415)
+	at scala.meta.internal.parsers.ScalametaParser$outPattern$.typ(ScalametaParser.scala:3219)
+	at scala.meta.internal.parsers.ScalametaParser.typ(ScalametaParser.scala:3241)
+	at scala.meta.internal.parsers.ScalametaParser.typedOpt(ScalametaParser.scala:1957)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$6(ScalametaParser.scala:3967)
+	at scala.meta.internal.parsers.ScalametaParser.fromWithinReturnType(ScalametaParser.scala:727)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:3967)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3942)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3894)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3782)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3767)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4614)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4608)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:35)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4552)
+	at scala.meta.internal.parsers.ScalametaParser.templateStats(ScalametaParser.scala:4607)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4604)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBody$1(ScalametaParser.scala:4461)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:620)
+	at scala.meta.internal.parsers.ScalametaParser.templateBody(ScalametaParser.scala:4461)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4466)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4454)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$objectDef$1(ScalametaParser.scala:4198)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.objectDef(ScalametaParser.scala:4190)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:4074)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:4056)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4574)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4562)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:35)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4552)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:4561)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:4765)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$9(ScalametaParser.scala:4771)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4771)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4739)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4722)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4721)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4727)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:144)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:54)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:144)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$254.apply(ScalametaParser.scala:4789)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.metals.Trees.$anonfun$parse$1(Trees.scala:66)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Trees.parse(Trees.scala:64)
+	at scala.meta.internal.metals.Trees.didChange(Trees.scala:38)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$didChange$1(ScalaPresentationCompiler.scala:128)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604)
+	... 3 more
+
+Jan 14, 2021 8:33:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1606)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.ts$1(ScalametaParser.scala:1349)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$tupleInfixType$7(ScalametaParser.scala:1383)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$tupleInfixType$1(ScalametaParser.scala:1383)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.tupleInfixType(ScalametaParser.scala:1289)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.infixTypeOrTuple(ScalametaParser.scala:1474)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.infixTypeOrTuple$(ScalametaParser.scala:1473)
+	at scala.meta.internal.parsers.ScalametaParser$outPattern$.infixTypeOrTuple(ScalametaParser.scala:3219)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$typ$1(ScalametaParser.scala:1422)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.typ(ScalametaParser.scala:1416)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.typ$(ScalametaParser.scala:1415)
+	at scala.meta.internal.parsers.ScalametaParser$outPattern$.typ(ScalametaParser.scala:3219)
+	at scala.meta.internal.parsers.ScalametaParser.typ(ScalametaParser.scala:3241)
+	at scala.meta.internal.parsers.ScalametaParser.typedOpt(ScalametaParser.scala:1957)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$6(ScalametaParser.scala:3967)
+	at scala.meta.internal.parsers.ScalametaParser.fromWithinReturnType(ScalametaParser.scala:727)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:3967)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3942)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3894)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3782)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3767)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4614)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4608)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:35)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4552)
+	at scala.meta.internal.parsers.ScalametaParser.templateStats(ScalametaParser.scala:4607)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4604)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBody$1(ScalametaParser.scala:4461)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:620)
+	at scala.meta.internal.parsers.ScalametaParser.templateBody(ScalametaParser.scala:4461)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4466)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4454)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$objectDef$1(ScalametaParser.scala:4198)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.objectDef(ScalametaParser.scala:4190)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:4074)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:4056)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4574)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4562)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:35)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4552)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:4561)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:4765)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$9(ScalametaParser.scala:4771)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4771)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4739)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4722)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4721)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4727)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:144)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:54)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:144)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$254.apply(ScalametaParser.scala:4789)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.metals.Trees.$anonfun$parse$1(Trees.scala:66)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Trees.parse(Trees.scala:64)
+	at scala.meta.internal.metals.Trees.didChange(Trees.scala:38)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$didChange$1(ScalaPresentationCompiler.scala:128)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604)
+	... 3 more
+
+Jan 14, 2021 8:33:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1606)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.ts$1(ScalametaParser.scala:1349)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$tupleInfixType$7(ScalametaParser.scala:1383)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$tupleInfixType$1(ScalametaParser.scala:1383)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.tupleInfixType(ScalametaParser.scala:1289)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.infixTypeOrTuple(ScalametaParser.scala:1474)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.infixTypeOrTuple$(ScalametaParser.scala:1473)
+	at scala.meta.internal.parsers.ScalametaParser$outPattern$.infixTypeOrTuple(ScalametaParser.scala:3219)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$typ$1(ScalametaParser.scala:1422)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.typ(ScalametaParser.scala:1416)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.typ$(ScalametaParser.scala:1415)
+	at scala.meta.internal.parsers.ScalametaParser$outPattern$.typ(ScalametaParser.scala:3219)
+	at scala.meta.internal.parsers.ScalametaParser.typ(ScalametaParser.scala:3241)
+	at scala.meta.internal.parsers.ScalametaParser.typedOpt(ScalametaParser.scala:1957)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$6(ScalametaParser.scala:3967)
+	at scala.meta.internal.parsers.ScalametaParser.fromWithinReturnType(ScalametaParser.scala:727)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:3967)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3942)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3894)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3782)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3767)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4614)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4608)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:35)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4552)
+	at scala.meta.internal.parsers.ScalametaParser.templateStats(ScalametaParser.scala:4607)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4604)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBody$1(ScalametaParser.scala:4461)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:620)
+	at scala.meta.internal.parsers.ScalametaParser.templateBody(ScalametaParser.scala:4461)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4466)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4454)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$objectDef$1(ScalametaParser.scala:4198)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.objectDef(ScalametaParser.scala:4190)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:4074)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:4056)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4574)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4562)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:35)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4552)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:4561)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:4765)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$9(ScalametaParser.scala:4771)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4771)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4739)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4722)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4721)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4727)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:144)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:54)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:144)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$254.apply(ScalametaParser.scala:4789)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.metals.Trees.$anonfun$parse$1(Trees.scala:66)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Trees.parse(Trees.scala:64)
+	at scala.meta.internal.metals.Trees.didChange(Trees.scala:38)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$didChange$1(ScalaPresentationCompiler.scala:128)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604)
+	... 3 more
+
+2021.01.14 20:33:37 INFO  compiling root (1 scala source)
+2021.01.14 20:33:37 ERROR /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ItemDao.scala
+org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.ts$1(ScalametaParser.scala:1349)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$tupleInfixType$7(ScalametaParser.scala:1383)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$tupleInfixType$1(ScalametaParser.scala:1383)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.tupleInfixType(ScalametaParser.scala:1289)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.infixTypeOrTuple(ScalametaParser.scala:1474)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.infixTypeOrTuple$(ScalametaParser.scala:1473)
+	at scala.meta.internal.parsers.ScalametaParser$outPattern$.infixTypeOrTuple(ScalametaParser.scala:3219)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$typ$1(ScalametaParser.scala:1422)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.typ(ScalametaParser.scala:1416)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.typ$(ScalametaParser.scala:1415)
+	at scala.meta.internal.parsers.ScalametaParser$outPattern$.typ(ScalametaParser.scala:3219)
+	at scala.meta.internal.parsers.ScalametaParser.typ(ScalametaParser.scala:3241)
+	at scala.meta.internal.parsers.ScalametaParser.typedOpt(ScalametaParser.scala:1957)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$6(ScalametaParser.scala:3967)
+	at scala.meta.internal.parsers.ScalametaParser.fromWithinReturnType(ScalametaParser.scala:727)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:3967)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3942)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3894)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3782)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3767)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4614)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4608)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4552)
+	at scala.meta.internal.parsers.ScalametaParser.templateStats(ScalametaParser.scala:4607)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4604)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBody$1(ScalametaParser.scala:4461)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:620)
+	at scala.meta.internal.parsers.ScalametaParser.templateBody(ScalametaParser.scala:4461)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4466)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4454)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$objectDef$1(ScalametaParser.scala:4198)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.objectDef(ScalametaParser.scala:4190)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:4074)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:4056)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4574)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4562)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:38)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4552)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:4561)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:4765)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$9(ScalametaParser.scala:4771)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4771)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4739)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4722)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4721)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4727)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:144)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:54)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:144)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$254.apply(ScalametaParser.scala:4789)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.mtags.ScalaMtags.<init>(ScalaMtags.scala:35)
+	at scala.meta.internal.metals.Docstrings$Deindexer.<init>(Docstrings.scala:96)
+	at scala.meta.internal.metals.Docstrings.expireSymbolDefinition(Docstrings.scala:60)
+	at scala.meta.internal.metals.MetalsLanguageServer.indexSourceFile(MetalsLanguageServer.scala:2021)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$reindexWorkspaceSources$2(MetalsLanguageServer.scala:1974)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$reindexWorkspaceSources$2$adapted(MetalsLanguageServer.scala:1971)
+	at scala.collection.Iterator.foreach(Iterator.scala:943)
+	at scala.collection.Iterator.foreach$(Iterator.scala:943)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1431)
+	at scala.meta.internal.metals.MetalsLanguageServer.reindexWorkspaceSources(MetalsLanguageServer.scala:1971)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$onChange$2(MetalsLanguageServer.scala:1163)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+2021.01.14 20:33:37 INFO  time: compiled root in 68ms
+Jan 14, 2021 8:33:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:273)
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:280)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1606)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying false.&&(org.scalameta.`package`.debug(hasParams, hasImplicits, hasTypes))
+found that false is false
+where hasImplicits = false
+where hasParams = true
+where hasTypes = false
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.ts$1(ScalametaParser.scala:1349)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$tupleInfixType$7(ScalametaParser.scala:1383)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$tupleInfixType$1(ScalametaParser.scala:1383)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.tupleInfixType(ScalametaParser.scala:1289)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.infixTypeOrTuple(ScalametaParser.scala:1474)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.infixTypeOrTuple$(ScalametaParser.scala:1473)
+	at scala.meta.internal.parsers.ScalametaParser$outPattern$.infixTypeOrTuple(ScalametaParser.scala:3219)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.$anonfun$typ$1(ScalametaParser.scala:1422)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.typ(ScalametaParser.scala:1416)
+	at scala.meta.internal.parsers.ScalametaParser$PatternContextSensitive.typ$(ScalametaParser.scala:1415)
+	at scala.meta.internal.parsers.ScalametaParser$outPattern$.typ(ScalametaParser.scala:3219)
+	at scala.meta.internal.parsers.ScalametaParser.typ(ScalametaParser.scala:3241)
+	at scala.meta.internal.parsers.ScalametaParser.typedOpt(ScalametaParser.scala:1957)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$6(ScalametaParser.scala:3967)
+	at scala.meta.internal.parsers.ScalametaParser.fromWithinReturnType(ScalametaParser.scala:727)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$funDefRest$1(ScalametaParser.scala:3967)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.funDefRest(ScalametaParser.scala:3942)
+	at scala.meta.internal.parsers.ScalametaParser.funDefOrDclOrExtensionOrSecondaryCtor(ScalametaParser.scala:3894)
+	at scala.meta.internal.parsers.ScalametaParser.defOrDclOrSecondaryCtor(ScalametaParser.scala:3782)
+	at scala.meta.internal.parsers.ScalametaParser.nonLocalDefOrDcl(ScalametaParser.scala:3767)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4614)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$templateStat$1.applyOrElse(ScalametaParser.scala:4608)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:35)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4552)
+	at scala.meta.internal.parsers.ScalametaParser.templateStats(ScalametaParser.scala:4607)
+	at scala.meta.internal.parsers.ScalametaParser.templateStatSeq(ScalametaParser.scala:4604)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBody$1(ScalametaParser.scala:4461)
+	at scala.meta.internal.parsers.ScalametaParser.inBraces(ScalametaParser.scala:620)
+	at scala.meta.internal.parsers.ScalametaParser.templateBody(ScalametaParser.scala:4461)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4466)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4454)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$objectDef$1(ScalametaParser.scala:4198)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.objectDef(ScalametaParser.scala:4190)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:4074)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:4056)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4574)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$topStat$1.applyOrElse(ScalametaParser.scala:4562)
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:35)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4552)
+	at scala.meta.internal.parsers.ScalametaParser.topStatSeq(ScalametaParser.scala:4561)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:4765)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$9(ScalametaParser.scala:4771)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$batchSource$1(ScalametaParser.scala:4771)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.batchSource(ScalametaParser.scala:4739)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4722)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:697)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:713)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4721)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4727)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:144)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:54)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:144)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$254.apply(ScalametaParser.scala:4789)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.metals.Trees.$anonfun$parse$1(Trees.scala:66)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Trees.parse(Trees.scala:64)
+	at scala.meta.internal.metals.Trees.didChange(Trees.scala:38)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$didChange$1(ScalaPresentationCompiler.scala:128)
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1604)
+	... 3 more
+
+2021.01.14 20:33:45 INFO  compiling root (1 scala source)
+2021.01.14 20:33:45 INFO  time: compiled root in 0.11s
+2021.01.14 20:34:53 INFO  compiling root (1 scala source)
+2021.01.14 20:34:53 INFO  time: compiled root in 0.1s
+2021.01.14 20:36:43 INFO  compiling root (1 scala source)
+2021.01.14 20:36:43 INFO  time: compiled root in 92ms
+2021.01.14 20:37:37 INFO  compiling root (1 scala source)
+2021.01.14 20:37:37 INFO  time: compiled root in 91ms
+2021.01.14 20:38:03 INFO  compiling root (1 scala source)
+2021.01.14 20:38:03 INFO  time: compiled root in 96ms
+Jan 14, 2021 8:38:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14026
+2021.01.14 20:38:34 INFO  compiling root (1 scala source)
+2021.01.14 20:38:34 INFO  time: compiled root in 0.86s
+2021.01.14 20:39:25 INFO  compiling root (1 scala source)
+2021.01.14 20:39:25 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ItemDao.scala:31:78: stale bloop error: unclosed string literal
+        val stmt = use(conn.prepareStatement("INSERT INTO list VALUES ("?"");"))
+                                                                             ^
+2021.01.14 20:39:25 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ItemDao.scala:31:78: stale bloop error: unclosed string literal
+        val stmt = use(conn.prepareStatement("INSERT INTO list VALUES ("?"");"))
+                                                                             ^
+2021.01.14 20:39:25 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ItemDao.scala:31:77: stale bloop error: ')' expected but ';' found.
+        val stmt = use(conn.prepareStatement("INSERT INTO list VALUES ("?"");"))
+                                                                            ^
+2021.01.14 20:39:25 INFO  time: compiled root in 57ms
+2021.01.14 20:39:26 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ItemDao.scala:31:78: stale bloop error: unclosed string literal
+        val stmt = use(conn.prepareStatement("INSERT INTO list VALUES ("?"");"))
+                                                                             ^
+2021.01.14 20:39:26 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ItemDao.scala:31:77: stale bloop error: ')' expected but ';' found.
+        val stmt = use(conn.prepareStatement("INSERT INTO list VALUES ("?"");"))
+                                                                            ^
+2021.01.14 20:39:26 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ItemDao.scala:31:78: stale bloop error: unclosed string literal
+        val stmt = use(conn.prepareStatement("INSERT INTO list VALUES ("?"");"))
+                                                                             ^
+2021.01.14 20:39:26 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ItemDao.scala:31:77: stale bloop error: ')' expected but ';' found.
+        val stmt = use(conn.prepareStatement("INSERT INTO list VALUES ("?"");"))
+                                                                            ^
+2021.01.14 20:39:26 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ItemDao.scala:31:78: stale bloop error: unclosed string literal
+        val stmt = use(conn.prepareStatement("INSERT INTO list VALUES ("?"");"))
+                                                                             ^
+2021.01.14 20:39:26 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ItemDao.scala:31:77: stale bloop error: ')' expected but ';' found.
+        val stmt = use(conn.prepareStatement("INSERT INTO list VALUES ("?"");"))
+                                                                            ^
+2021.01.14 20:39:26 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ItemDao.scala:31:78: stale bloop error: unclosed string literal
+        val stmt = use(conn.prepareStatement("INSERT INTO list VALUES ("?"");"))
+                                                                             ^
+2021.01.14 20:39:26 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ItemDao.scala:31:77: stale bloop error: ')' expected but ';' found.
+        val stmt = use(conn.prepareStatement("INSERT INTO list VALUES ("?"");"))
+                                                                            ^
+2021.01.14 20:40:54 INFO  compiling root (1 scala source)
+2021.01.14 20:40:56 INFO  time: compiled root in 1.49s
+2021.01.14 20:42:09 INFO  compiling root (1 scala source)
+2021.01.14 20:42:09 INFO  time: compiled root in 0.14s
+2021.01.14 20:42:20 INFO  compiling root (1 scala source)
+2021.01.14 20:42:20 INFO  time: compiled root in 0.12s
+something's wrong: no file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ItemDao.scala in scala.collection.mutable.ArrayBuffer[com.revature.grocerylistapp.model.Item]RangePosition(file:///Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/dao/ItemDao.scala, 511, 511, 528)
+2021.01.14 20:45:23 INFO  compiling root (2 scala sources)
+2021.01.14 20:45:23 INFO  time: compiled root in 0.14s
+2021.01.14 20:45:33 INFO  compiling root (2 scala sources)
+2021.01.14 20:45:33 INFO  time: compiled root in 0.14s
+2021.01.14 20:45:36 INFO  compiling root (2 scala sources)
+2021.01.14 20:45:36 INFO  time: compiled root in 0.15s
+2021.01.14 20:47:24 INFO  compiling root (1 scala source)
+2021.01.14 20:47:24 INFO  time: compiled root in 0.14s
+2021.01.14 20:48:12 INFO  compiling root (1 scala source)
+2021.01.14 20:48:12 INFO  time: compiled root in 0.1s
+2021.01.14 20:48:19 INFO  compiling root (1 scala source)
+2021.01.14 20:48:19 INFO  time: compiled root in 0.13s
+2021.01.14 20:48:30 INFO  compiling root (1 scala source)
+2021.01.14 20:48:30 INFO  time: compiled root in 0.13s
+2021.01.14 20:53:49 INFO  compiling root (2 scala sources)
+2021.01.14 20:53:49 INFO  time: compiled root in 0.14s
+2021.01.14 20:53:51 INFO  compiling root (2 scala sources)
+2021.01.14 20:53:51 INFO  time: compiled root in 0.14s
+2021.01.14 20:54:06 INFO  compiling root (2 scala sources)
+2021.01.14 20:54:06 INFO  time: compiled root in 62ms
+2021.01.14 20:54:07 INFO  compiling root (2 scala sources)
+2021.01.14 20:54:07 INFO  time: compiled root in 85ms
+2021.01.14 20:54:08 INFO  compiling root (2 scala sources)
+2021.01.14 20:54:08 INFO  time: compiled root in 54ms
+2021.01.14 20:54:43 INFO  compiling root (2 scala sources)
+2021.01.14 20:54:43 INFO  time: compiled root in 0.1s
+2021.01.14 20:55:28 INFO  compiling root (2 scala sources)
+2021.01.14 20:55:28 INFO  time: compiled root in 0.1s
+2021.01.14 20:55:39 INFO  compiling root (2 scala sources)
+2021.01.14 20:55:39 INFO  time: compiled root in 0.1s
+2021.01.14 20:55:41 INFO  compiling root (2 scala sources)
+2021.01.14 20:55:41 INFO  time: compiled root in 55ms
+2021.01.14 20:56:04 INFO  compiling root (2 scala sources)
+2021.01.14 20:56:04 INFO  time: compiled root in 65ms
+2021.01.14 20:56:09 INFO  compiling root (2 scala sources)
+2021.01.14 20:56:09 INFO  time: compiled root in 0.1s
+2021.01.14 20:56:12 INFO  compiling root (2 scala sources)
+2021.01.14 20:56:12 INFO  time: compiled root in 0.13s
+2021.01.14 20:56:13 INFO  compiling root (2 scala sources)
+2021.01.14 20:56:13 INFO  time: compiled root in 54ms
+2021.01.14 20:56:44 INFO  compiling root (2 scala sources)
+2021.01.14 20:56:44 INFO  time: compiled root in 0.29s
+2021.01.14 20:56:51 INFO  compiling root (2 scala sources)
+2021.01.14 20:56:51 INFO  time: compiled root in 0.25s
+2021.01.14 20:57:12 INFO  compiling root (2 scala sources)
+2021.01.14 20:57:12 INFO  time: compiled root in 0.21s
+2021.01.14 20:57:29 INFO  compiling root (2 scala sources)
+2021.01.14 20:57:29 INFO  time: compiled root in 0.21s
+2021.01.14 20:58:14 INFO  compiling root (2 scala sources)
+2021.01.14 20:58:14 INFO  time: compiled root in 0.29s
+2021.01.14 20:58:14 INFO  compiling root (2 scala sources)
+2021.01.14 20:58:14 INFO  time: compiled root in 0.11s
+2021.01.14 20:59:09 INFO  compiling root (2 scala sources)
+2021.01.14 20:59:11 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 20:59:11 INFO  time: compiled root in 1.44s
+2021.01.14 20:59:12 INFO  compiling root (1 scala source)
+2021.01.14 20:59:14 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 20:59:14 INFO  time: compiled root in 1.43s
+2021.01.14 21:00:00 INFO  compiling root (1 scala source)
+2021.01.14 21:00:00 INFO  time: compiled root in 0.88s
+2021.01.14 21:00:33 INFO  compiling root (1 scala source)
+2021.01.14 21:00:33 INFO  time: compiled root in 0.11s
+2021.01.14 21:00:40 INFO  compiling root (1 scala source)
+2021.01.14 21:00:40 INFO  time: compiled root in 0.87s
+2021.01.14 21:01:32 INFO  compiling root (1 scala source)
+2021.01.14 21:01:34 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 21:01:34 INFO  time: compiled root in 1.37s
+2021.01.14 21:03:24 INFO  compiling root (1 scala source)
+2021.01.14 21:03:26 INFO  time: compiled root in 1.84s
+2021.01.14 21:04:02 INFO  compiling root (1 scala source)
+2021.01.14 21:04:03 INFO  time: compiled root in 1.29s
+2021.01.14 21:05:37 INFO  compiling root (1 scala source)
+2021.01.14 21:05:39 INFO  time: compiled root in 1.54s
+2021.01.14 21:06:06 INFO  compiling root (1 scala source)
+2021.01.14 21:06:06 INFO  time: compiled root in 0.9s
+2021.01.14 21:08:21 INFO  compiling root (1 scala source)
+2021.01.14 21:08:22 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 21:08:22 INFO  time: compiled root in 1.4s
+2021.01.14 21:09:29 INFO  compiling root (1 scala source)
+2021.01.14 21:09:31 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 21:09:31 INFO  time: compiled root in 1.35s
+2021.01.14 21:11:33 INFO  compiling root (1 scala source)
+2021.01.14 21:11:34 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 21:11:34 INFO  time: compiled root in 1.31s
+2021.01.14 21:12:29 INFO  compiling root (1 scala source)
+2021.01.14 21:12:30 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 21:12:30 INFO  time: compiled root in 1.26s
+2021.01.14 21:12:37 INFO  compiling root (1 scala source)
+2021.01.14 21:12:38 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 21:12:38 INFO  time: compiled root in 1.4s
+2021.01.14 21:17:50 INFO  compiling root (1 scala source)
+2021.01.14 21:17:51 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 21:17:51 INFO  time: compiled root in 1.33s
+2021.01.14 21:18:36 INFO  compiling root (1 scala source)
+2021.01.14 21:18:37 WARN  7 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.14 21:18:37 INFO  time: compiled root in 1.31s
