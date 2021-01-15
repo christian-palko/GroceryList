@@ -16,8 +16,6 @@ object ConnectionUtil {
       "jdbc:postgresql://localhost:5432/grocerylist",
       "postgres",
       "password"
-
-
       )
     }
     conn

@@ -34,11 +34,31 @@ object ItemDao {
         stmt.execute()
         stmt.getUpdateCount() > 0
     }.getOrElse(false)
-
-
-
   }
 
+  def deleteFromDB(item : String) : Boolean = {
 
+    val conn = ConnectionUtil.getConnection();
+    Using.Manager { use =>
+
+        val stmt = use(conn.prepareStatement("DELETE FROM list WHERE item=?;"))
+        stmt.setString(1, item)
+        stmt.execute()
+        stmt.getUpdateCount() > 0
+    }.getOrElse(false)
+  }
+
+  def changeFromDB(item : String, item2 : String) : Boolean = {
+
+    val conn = ConnectionUtil.getConnection();
+    Using.Manager { use =>
+
+        val stmt = use(conn.prepareStatement("UPDATE list SET item=? where item=?;"))
+        stmt.setString(1, item)
+        stmt.setString(2, item2)
+        stmt.execute()
+        stmt.getUpdateCount() > 0
+    }.getOrElse(false)
+  }
 
 }

@@ -50,8 +50,9 @@ class GroceryListCLI extends AnsiColor{
 
 
     def printList() {
-
+        itemNamesAndTagsMap.clear()
         var retrievedList = ItemDao.getAll().to(ArrayBuffer)
+        
         for (i <- retrievedList) {
             val itemParsed = i.item.toUpperCase
             itemNamesAndTagsMap += (itemParsed -> (getTag(itemParsed)))
@@ -79,33 +80,37 @@ class GroceryListCLI extends AnsiColor{
         }
     }
 
+    def deleteItem() {
+        var delete = readLine(s"\nType the name of the item you want to delete, or ${BLUE}${BOLD}BACK${RESET} to go back:\n").toUpperCase()
+
+        if (itemNamesAndTagsMap.contains(delete)) {
+            println(delete)
+
+            ItemDao.deleteFromDB(delete)
+            println(s"\n❋❋❋ You've deleted ${delete} from your grocery list. ❋❋❋")
+        }
+        else {
+            println("\n* This item isn't on your list already. *")
+        }
+    }    
+
     def changeItem() {
         var itemChangeFrom = readLine(s"\nType the name of the item you want to change, or ${BLUE}${BOLD}BACK${RESET} to go back:\n").toUpperCase()
            
         if (itemNamesAndTagsMap.contains(itemChangeFrom)) {
             var itemChangeTo = readLine(s"\nType what you'd like to change ${itemChangeFrom} to, or ${BLUE}${BOLD}BACK${RESET} to go back:\n").toUpperCase()
             if (! itemNamesAndTagsMap.contains(itemChangeTo)) {
-                itemNamesAndTagsMap -= (itemChangeFrom)
-                itemNamesAndTagsMap += (itemChangeTo -> getTag(itemChangeTo))
+
+                ItemDao.changeFromDB(itemChangeTo, itemChangeFrom)
+
+                // itemNamesAndTagsMap -= (itemChangeFrom)
+                // itemNamesAndTagsMap += (itemChangeTo -> getTag(itemChangeTo))
                 println(s"\n❋❋❋ You changed $itemChangeFrom to $itemChangeTo. ❋❋❋")
                 } else {
                     println(s"You can't change $itemChangeFrom to $itemChangeTo because $itemChangeTo already exists in your list.")
                 }
         } else {
             println("\n❋ This item does not exist in your list. ❋")
-        }
-    }
-
-    def deleteItem() {
-        var delete = readLine(s"\nType the name of the item you want to delete, or ${BLUE}${BOLD}BACK${RESET} to go back:\n").toUpperCase()
-
-        if (itemNamesAndTagsMap.contains(delete)) {
-            println(delete)
-            itemNamesAndTagsMap -= delete
-            println(s"\n❋❋❋ You've deleted ${delete} from your grocery list. ❋❋❋")
-        }
-        else {
-            println("\n* This item isn't on your list already. *")
         }
     }
 
