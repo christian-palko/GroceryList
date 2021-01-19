@@ -46,6 +46,7 @@ class GroceryListCLI extends AnsiColor{
 
     def printList() {
         itemNamesAndTagsMap.clear()
+ 
         var retrievedList = ItemDao.getAll().to(ArrayBuffer)
 
         for (i <- retrievedList) {
@@ -73,59 +74,23 @@ class GroceryListCLI extends AnsiColor{
     def addItem() {
         var keepAdding = true
         while (keepAdding == true) {
-            var add = readLine(s"\nType the name of ${MAGENTA}${BOLD}one${RESET} item to add.\nOr type ${MAGENTA}${BOLD}several${RESET} item names, " +
+            var add = readLine(s"\nType ${MAGENTA}${BOLD}one${RESET} item\nOr type ${MAGENTA}${BOLD}several${RESET} items, " +
               s"separated by commas.\nOr type ${BLUE}${BOLD}BACK${RESET} to go back:\n--").toUpperCase().trim.split(",").to(ArrayBuffer)
 
-            for (a <- add) { 
+            for (a <- add) {
                 var trimmedItem = a.trim()
-                trimmedItem match {
-                case "BACK" | "B" | "EXIT" | "QUIT" | "STOP" => keepAdding = false
-                case _ =>
-                    ItemDao.addNew(trimmedItem)
-                    printList()
-                    println(s"\nAdded: $trimmedItem\n")
-                }  
-            }   
-        }
-    }
-
-    def deleteItem() {
-        var delete = readLine(s"\nType the name of the item you want to delete, or ${BLUE}${BOLD}BACK${RESET} to go back:\n").toUpperCase()
-
-        if (itemNamesAndTagsMap.contains(delete)) {
-            println(delete)
-
-            ItemDao.deleteFromDB(delete)
-            println(s"\n❋❋❋ You've deleted ${delete} from your grocery list. ❋❋❋")
-        }
-        else {
-            println("\n* This item isn't on your list already. *")
-        }
-    } 
-    
-    def clearAll() {
-        var clear = readLine(s"\n${RED}${BOLD}Are you sure you want to clear all the items from your list?${RESET}\n").toUpperCase()
-        clear match {
-            case "NO" | "N" | "BACK" | "CANCEL" => println("* Cancelled list clearing. *")
-            case "YES" | "Y" | "CLEAR" => ItemDao.clearAllFromDB()
-            case _ => println("* Cancelled list clearing. Invalid input. *")
-        }
-    }
-
-    def changeItem() {
-        var itemChangeFrom = readLine(s"\nType the name of the item you want to change, or ${BLUE}${BOLD}BACK${RESET} to go back:\n").toUpperCase()
-           
-        if (itemNamesAndTagsMap.contains(itemChangeFrom)) {
-            var itemChangeTo = readLine(s"\nType what you'd like to change ${itemChangeFrom} to, or ${BLUE}${BOLD}BACK${RESET} to go back:\n").toUpperCase()
-            if (! itemNamesAndTagsMap.contains(itemChangeTo)) {
-
-                ItemDao.changeFromDB(itemChangeTo, itemChangeFrom)
-                println(s"\n❋❋❋ You changed $itemChangeFrom to $itemChangeTo. ❋❋❋")
+                if (itemNamesAndTagsMap.contains(a.trim)) {
+                    println(s"${RED}List already contains $a${RESET}")
                 } else {
-                    println(s"You can't change $itemChangeFrom to $itemChangeTo because $itemChangeTo already exists in your list.")
+                    trimmedItem match {
+                    case "BACK" | "B" | "EXIT" | "QUIT" | "STOP" => keepAdding = false
+                    case _ =>
+                        ItemDao.addNew(trimmedItem)
+                        println(s"${GREEN}Added: $trimmedItem${RESET}")
+                    }  
                 }
-        } else {
-            println("\n❋ This item does not exist in your list. ❋")
+            }   
+            printList()
         }
     }
 
@@ -136,17 +101,16 @@ class GroceryListCLI extends AnsiColor{
         val openFile = FileUtil.importFile(file)
             val openFileAdd = openFile
                 .toUpperCase
-                .replaceAll(" ", "")
                 .trim.split(",")
                 .to(ArrayBuffer)
             for (item <- openFileAdd) {
-             
-            if(itemNamesAndTagsMap.contains(item)) {
-                println(s"List already contains $item.")
-                } else {
-                ItemDao.addNew(item)
-                println(s"Added $item")
-                }
+                var itemTrimmed = item.trim
+                if(itemNamesAndTagsMap.contains(itemTrimmed)) {
+                    println(s"${RED}List already contains ${itemTrimmed}.${RESET}")
+                    } else {
+                    ItemDao.addNew(itemTrimmed)
+                    println(s"${GREEN}Added ${itemTrimmed}${RESET}")
+                    }
             }
 
         } catch {
@@ -162,8 +126,50 @@ class GroceryListCLI extends AnsiColor{
         }          
     } 
 
+    def deleteItem() {
+        var delete = readLine(s"\nType the name of the item you want to delete, or ${BLUE}${BOLD}BACK${RESET} to go back:\n").toUpperCase()
+
+        if (itemNamesAndTagsMap.contains(delete)) {
+            println(delete)
+
+            ItemDao.deleteFromDB(delete)
+            println(s"\n${GREEN}❋❋❋ You've deleted ${delete} from your grocery list. ❋❋❋${RESET}")
+        }
+        else {
+            println(s"\n${RED}* This item isn't on your list already. *${RESET}")
+        }
+    } 
+    
+    def clearAll() {
+        var clear = readLine(s"\n${RED}${BOLD}Are you sure you want to clear all the items from your list?${RESET}\n").toUpperCase()
+        clear match {
+            case "NO" | "N" | "BACK" | "CANCEL" => println(s"${GREEN}* Cancelled list clearing. *${RESET}")
+            case "YES" | "Y" | "CLEAR" => ItemDao.clearAllFromDB()
+            case _ => println(s"${YELLOW}* Cancelled list clearing. Invalid input. *${RESET}")
+        }
+    }
+
+    def changeItem() {
+        var itemChangeFrom = readLine(s"\nType the name of the item you want to change, or ${BLUE}${BOLD}BACK${RESET} to go back:\n").toUpperCase()
+           
+        if (itemNamesAndTagsMap.contains(itemChangeFrom)) {
+            var itemChangeTo = readLine(s"\nType what you'd like to change ${itemChangeFrom} to, or ${BLUE}${BOLD}BACK${RESET} to go back:\n").toUpperCase()
+            if (! itemNamesAndTagsMap.contains(itemChangeTo)) {
+
+                ItemDao.changeFromDB(itemChangeTo, itemChangeFrom)
+                println(s"\n${GREEN}❋❋❋ You changed $itemChangeFrom to $itemChangeTo. ❋❋❋${RESET}")
+                } else {
+                    println(s"${RED}You can't change $itemChangeFrom to $itemChangeTo because $itemChangeTo already exists in your list.${RESET}")
+                }
+        } else {
+            println(s"\n${YELLOW}❋ This item does not exist in your list. ❋${RESET}")
+        }
+    }
+
+
+
     def exitApp() {
-        println("Goodbye!")
+        println(s"${GREEN}${BOLD}Goodbye!${RESET}")
         continueUsingList = false
     }
 }

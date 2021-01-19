@@ -10493,3 +10493,181 @@ WARNING: Unmatched cancel notification for request id 31035
 2021.01.18 20:32:59 INFO  compiling root (1 scala source)
 2021.01.18 20:33:00 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
 2021.01.18 20:33:00 INFO  time: compiled root in 1.55s
+2021.01.18 21:20:42 INFO  compiling root (1 scala source)
+2021.01.18 21:20:43 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.18 21:20:43 INFO  time: compiled root in 1.35s
+2021.01.18 21:21:22 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala:39:39: stale bloop warning: unreachable code
+                case "CLEAR" | "C" => clearAll()
+                                      ^^^^^^^^^^
+2021.01.18 21:21:22 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala:39:39: stale bloop warning: unreachable code
+                case "CLEAR" | "C" => clearAll()
+                                      ^^^^^^^^^^
+2021.01.18 21:21:28 INFO  compiling root (1 scala source)
+2021.01.18 21:21:30 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.18 21:21:30 INFO  time: compiled root in 1.61s
+2021.01.18 21:21:37 INFO  compiling root (1 scala source)
+2021.01.18 21:21:38 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.18 21:21:38 INFO  time: compiled root in 1.28s
+2021.01.18 21:27:06 INFO  compiling root (1 scala source)
+2021.01.18 21:27:07 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.18 21:27:07 INFO  time: compiled root in 1.49s
+2021.01.18 21:27:48 INFO  compiling root (1 scala source)
+2021.01.18 21:27:49 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.18 21:27:49 INFO  time: compiled root in 1.51s
+2021.01.18 21:27:55 INFO  compiling root (1 scala source)
+2021.01.18 21:27:56 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.18 21:27:56 INFO  time: compiled root in 1.27s
+2021.01.18 21:29:47 INFO  compiling root (1 scala source)
+2021.01.18 21:29:48 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.18 21:29:48 INFO  time: compiled root in 1.39s
+2021.01.18 21:30:59 INFO  compiling root (1 scala source)
+2021.01.18 21:31:01 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.18 21:31:01 INFO  time: compiled root in 1.54s
+2021.01.18 21:34:19 INFO  compiling root (1 scala source)
+2021.01.18 21:34:20 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.18 21:34:20 INFO  time: compiled root in 1.39s
+2021.01.18 21:35:03 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala:39:39: stale bloop warning: unreachable code
+                case "CLEAR" | "C" => clearAll()
+                                      ^^^^^^^^^^
+2021.01.18 21:35:03 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala:39:39: stale bloop warning: unreachable code
+                case "CLEAR" | "C" => clearAll()
+                                      ^^^^^^^^^^
+2021.01.18 21:35:39 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala:39:39: stale bloop warning: unreachable code
+                case "CLEAR" | "C" => clearAll()
+                                      ^^^^^^^^^^
+2021.01.18 21:35:39 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala:39:39: stale bloop warning: unreachable code
+                case "CLEAR" | "C" => clearAll()
+                                      ^^^^^^^^^^
+2021.01.18 21:35:40 INFO  compiling root (1 scala source)
+2021.01.18 21:35:42 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.18 21:35:42 INFO  time: compiled root in 1.95s
+2021.01.18 21:36:00 INFO  compiling root (1 scala source)
+2021.01.18 21:36:02 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.18 21:36:02 INFO  time: compiled root in 2.04s
+2021.01.18 21:36:51 INFO  compiling root (1 scala source)
+2021.01.18 21:36:53 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.18 21:36:53 INFO  time: compiled root in 1.44s
+2021.01.18 21:37:41 INFO  compiling root (1 scala source)
+2021.01.18 21:37:43 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.18 21:37:43 INFO  time: compiled root in 1.48s
+2021.01.18 21:38:03 INFO  compiling root (1 scala source)
+2021.01.18 21:38:05 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.18 21:38:05 INFO  time: compiled root in 1.41s
+2021.01.18 21:52:17 INFO  compiling root (1 scala source)
+2021.01.18 21:52:19 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.18 21:52:19 INFO  time: compiled root in 1.46s
+2021.01.18 21:53:30 INFO  compiling root (1 scala source)
+2021.01.18 21:53:31 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.18 21:53:31 INFO  time: compiled root in 1.39s
+2021.01.18 21:55:21 INFO  compiling root (1 scala source)
+2021.01.18 21:55:22 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.18 21:55:22 INFO  time: compiled root in 1.45s
+2021.01.18 21:56:09 INFO  compiling root (1 scala source)
+2021.01.18 21:56:10 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.18 21:56:10 INFO  time: compiled root in 1.41s
+2021.01.19 11:30:25 INFO  compiling root (1 scala source)
+2021.01.19 11:30:25 INFO  time: compiled root in 0.56s
+2021.01.19 11:30:35 INFO  compiling root (1 scala source)
+2021.01.19 11:30:37 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 11:30:37 INFO  time: compiled root in 2.12s
+2021.01.19 11:31:03 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala:39:39: stale bloop warning: unreachable code
+                case "CLEAR" | "C" => clearAll()
+                                      ^^^^^^^^^^
+2021.01.19 11:31:03 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala:39:39: stale bloop warning: unreachable code
+                case "CLEAR" | "C" => clearAll()
+                                      ^^^^^^^^^^
+2021.01.19 11:31:04 INFO  compiling root (1 scala source)
+2021.01.19 11:31:05 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 11:31:05 INFO  time: compiled root in 1.55s
+2021.01.19 11:31:22 INFO  compiling root (1 scala source)
+2021.01.19 11:31:24 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 11:31:24 INFO  time: compiled root in 1.61s
+2021.01.19 11:33:04 INFO  compiling root (1 scala source)
+2021.01.19 11:33:06 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 11:33:06 INFO  time: compiled root in 1.68s
+2021.01.19 11:33:51 INFO  compiling root (1 scala source)
+2021.01.19 11:33:52 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 11:33:52 INFO  time: compiled root in 1.57s
+2021.01.19 11:34:42 INFO  compiling root (1 scala source)
+2021.01.19 11:34:44 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 11:34:44 INFO  time: compiled root in 1.6s
+2021.01.19 11:36:55 INFO  compiling root (1 scala source)
+2021.01.19 11:36:56 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 11:36:56 INFO  time: compiled root in 1.54s
+2021.01.19 11:38:39 INFO  compiling root (1 scala source)
+2021.01.19 11:38:41 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 11:38:41 INFO  time: compiled root in 1.6s
+2021.01.19 11:39:03 INFO  compiling root (1 scala source)
+2021.01.19 11:39:03 INFO  time: compiled root in 71ms
+2021.01.19 11:39:07 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala:152:32: stale bloop error: ')' expected but string literal found.
+                println(s${RED}"List already contains $item.${RESET}")
+                               ^
+2021.01.19 11:39:07 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala:152:32: stale bloop error: ')' expected but string literal found.
+                println(s${RED}"List already contains $item.${RESET}")
+                               ^
+2021.01.19 11:39:10 INFO  compiling root (1 scala source)
+2021.01.19 11:39:12 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 11:39:12 INFO  time: compiled root in 1.56s
+2021.01.19 11:39:23 INFO  compiling root (1 scala source)
+2021.01.19 11:39:25 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 11:39:25 INFO  time: compiled root in 1.61s
+2021.01.19 11:41:51 INFO  compiling root (1 scala source)
+2021.01.19 11:41:51 INFO  time: compiled root in 0.16s
+2021.01.19 11:43:15 INFO  compiling root (1 scala source)
+2021.01.19 11:43:17 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 11:43:17 INFO  time: compiled root in 1.48s
+2021.01.19 11:43:41 INFO  compiling root (1 scala source)
+2021.01.19 11:43:41 INFO  time: compiled root in 0.15s
+2021.01.19 11:43:50 INFO  compiling root (1 scala source)
+2021.01.19 11:43:51 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 11:43:51 INFO  time: compiled root in 1.55s
+2021.01.19 11:44:06 INFO  compiling root (1 scala source)
+2021.01.19 11:44:08 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 11:44:08 INFO  time: compiled root in 1.54s
+2021.01.19 11:44:12 INFO  compiling root (1 scala source)
+2021.01.19 11:44:14 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 11:44:14 INFO  time: compiled root in 1.55s
+2021.01.19 11:44:22 INFO  compiling root (1 scala source)
+2021.01.19 11:44:23 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 11:44:23 INFO  time: compiled root in 1.57s
+2021.01.19 11:45:38 INFO  compiling root (1 scala source)
+2021.01.19 11:45:38 INFO  time: compiled root in 0.14s
+2021.01.19 11:45:41 INFO  compiling root (1 scala source)
+2021.01.19 11:45:42 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 11:45:42 INFO  time: compiled root in 1.56s
+2021.01.19 11:46:01 INFO  compiling root (1 scala source)
+2021.01.19 11:46:02 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 11:46:02 INFO  time: compiled root in 1.6s
+2021.01.19 11:48:51 INFO  compiling root (1 scala source)
+2021.01.19 11:48:52 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 11:48:52 INFO  time: compiled root in 1.77s
+2021.01.19 11:49:10 INFO  compiling root (1 scala source)
+2021.01.19 11:49:12 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 11:49:12 INFO  time: compiled root in 1.56s
+2021.01.19 11:51:54 INFO  compiling root (1 scala source)
+2021.01.19 11:51:56 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 11:51:56 INFO  time: compiled root in 1.6s
+2021.01.19 11:52:10 INFO  compiling root (1 scala source)
+2021.01.19 11:52:12 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 11:52:12 INFO  time: compiled root in 1.56s
+2021.01.19 11:52:25 INFO  compiling root (1 scala source)
+2021.01.19 11:52:26 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 11:52:26 INFO  time: compiled root in 1.6s
+2021.01.19 11:52:42 INFO  compiling root (1 scala source)
+2021.01.19 11:52:44 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 11:52:44 INFO  time: compiled root in 1.6s
+2021.01.19 11:52:58 INFO  compiling root (1 scala source)
+2021.01.19 11:52:59 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 11:52:59 INFO  time: compiled root in 1.62s
+2021.01.19 11:53:11 INFO  compiling root (1 scala source)
+2021.01.19 11:53:13 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 11:53:13 INFO  time: compiled root in 1.58s
+2021.01.19 11:53:27 INFO  compiling root (1 scala source)
+2021.01.19 11:53:30 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 11:53:30 INFO  time: compiled root in 2.27s
+2021.01.19 11:53:44 INFO  compiling root (1 scala source)
+2021.01.19 11:53:48 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 11:53:48 INFO  time: compiled root in 3.66s
+2021.01.19 12:14:12 INFO  compiling root (1 scala source)
+2021.01.19 12:14:15 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 12:14:15 INFO  time: compiled root in 2.71s
