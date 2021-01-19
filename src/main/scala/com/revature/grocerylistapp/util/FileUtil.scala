@@ -9,19 +9,17 @@ import scala.io.StdIn.readLine
 
 object FileUtil {
 
-def importFile(file: String, sep: String = " "): String = {
+  def importFile(file: String, sep: String = " "): String = {
 
-  var openedFile : BufferedSource = null
+    var openedFile : BufferedSource = null
 
-  try {
-    openedFile = Source.fromFile(file)  
-    openedFile.getLines().mkString(sep)
-    } finally {
-      if (openedFile != null) openedFile.close()
-    }
-
-}
-  
+    try {
+      openedFile = Source.fromFile(file)  
+      openedFile.getLines().mkString(sep)
+      } finally {
+        if (openedFile != null) openedFile.close()
+      }
+  }
 }
 
   

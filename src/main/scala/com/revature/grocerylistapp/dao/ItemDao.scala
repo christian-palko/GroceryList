@@ -12,27 +12,20 @@ object ItemDao {
   def getAll(): Seq[Item] = {
       val conn = ConnectionUtil.getConnection();
       Using.Manager { use =>
-      
-          val stmt = use(conn.prepareStatement("SELECT item, dept_name FROM userlist LEFT JOIN itemlist ON userlist.item = itemlist.item_name;"))
+          val stmt = use(conn.prepareStatement("SELECT item, dept_name FROM userlist LEFT JOIN itemlist ON userlist.item = itemlist.item_name order by dept_name ASC;"))
           stmt.execute()
           val rs = use(stmt.getResultSet())
           val allItems: ArrayBuffer[Item] = ArrayBuffer()
           while (rs.next()) {
-              
               allItems.addOne(Item.fromResultSet(rs))
           }
           allItems.toList
       }.get
   }
 
-
-
-  
   def addNew(item : String) : Boolean = {
-
     val conn = ConnectionUtil.getConnection();
     Using.Manager { use =>
-
         val stmt = use(conn.prepareStatement("INSERT INTO userlist(item) VALUES (?);"))
         stmt.setString(1, item)
         stmt.execute()
@@ -41,10 +34,8 @@ object ItemDao {
   }
 
   def deleteFromDB(item : String) : Boolean = {
-
     val conn = ConnectionUtil.getConnection();
     Using.Manager { use =>
-
         val stmt = use(conn.prepareStatement("DELETE FROM userlist WHERE item=?;"))
         stmt.setString(1, item)
         stmt.execute()
@@ -53,22 +44,17 @@ object ItemDao {
   }
 
     def clearAllFromDB() : Boolean = {
-
     val conn = ConnectionUtil.getConnection();
     Using.Manager { use =>
-
         val stmt = use(conn.prepareStatement("DELETE FROM userlist;"))
         stmt.execute()
         stmt.getUpdateCount() > 0
     }.getOrElse(false)
   }
 
-
   def changeFromDB(item : String, item2 : String) : Boolean = {
-
     val conn = ConnectionUtil.getConnection();
     Using.Manager { use =>
-
         val stmt = use(conn.prepareStatement("UPDATE userlist SET item=? WHERE item=?;"))
         stmt.setString(1, item)
         stmt.setString(2, item2)
@@ -76,5 +62,4 @@ object ItemDao {
         stmt.getUpdateCount() > 0
     }.getOrElse(false)
   }
-
 }

@@ -1,5 +1,4 @@
 package com.revature.grocerylistapp.cli
-
 import scala.collection.mutable.ArrayBuffer
 import scala.io.StdIn.readLine
 import scala.io.Source
@@ -16,28 +15,22 @@ import scala.collection.mutable.ListMap
 import scala.util.matching
 
 class GroceryListCLI extends AnsiColor{
-  
-    var itemNamesAndTagsMap = collection.mutable.Map[String, String]()
+    var itemNamesAndTagsMap = collection.mutable.LinkedHashMap[String, String]()
     var continueUsingList = false
-
-    // TO DO: 
-    // Find way to organize printed itemNamesAndTagsMaps 
-    // Find way to make printed output neater
-    // 
 
     def useList() {
         continueUsingList = true
         while (continueUsingList) {
 
             printList()
-            val input = readLine(s"${BLINK}What would you like to do? ${RESET}\n" +
+            val input = readLine(s"What would you like to do?\n" +
             s"\n${BLUE}${BOLD}ADD${RESET} items" +
             s"\n${BLUE}${BOLD}CHANGE${RESET} an item" +
             s"\n${BLUE}${BOLD}DELETE${RESET} an item" +
             s"\n${BLUE}${BOLD}CLEAR${RESET} to delete all items" +
             s"\n${BLUE}${BOLD}IMPORT${RESET} a list" +
             s"\n${BLUE}${BOLD}EXIT${RESET}" +
-            "\n--")
+            s"\n--")
 
             input.toUpperCase match {
                 case "ADD" | "A" => addItem()
@@ -51,12 +44,10 @@ class GroceryListCLI extends AnsiColor{
         }
     }
 
-
-
     def printList() {
         itemNamesAndTagsMap.clear()
         var retrievedList = ItemDao.getAll().to(ArrayBuffer)
-        
+
         for (i <- retrievedList) {
             val itemParsed = i.item.toUpperCase
             var dept = ""
@@ -67,9 +58,11 @@ class GroceryListCLI extends AnsiColor{
             }  
             itemNamesAndTagsMap += (itemParsed -> dept)
             }
-
         println(s"\n         ${GREEN}${BOLD}GROCERY LIST\n──────────────────────────────\nItem Name     :     Department\n${RESET}")
-        for ((i,t) <- itemNamesAndTagsMap) println(s"${i}     :     ${t}")
+        for ((i,t) <- itemNamesAndTagsMap) {
+
+            println(s"${i}     :     ${t}")
+        }
         if (itemNamesAndTagsMap.size == 0) {
             println(s"${WHITE}         [List Empty]${RESET}")
         }
