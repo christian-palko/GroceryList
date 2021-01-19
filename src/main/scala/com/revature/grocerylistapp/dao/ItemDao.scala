@@ -12,7 +12,7 @@ object ItemDao {
   def getAll(): Seq[Item] = {
       val conn = ConnectionUtil.getConnection();
       Using.Manager { use =>
-          val stmt = use(conn.prepareStatement("SELECT item, dept_name FROM userlist LEFT JOIN itemlist ON userlist.item = itemlist.item_name order by dept_name ASC;"))
+          val stmt = use(conn.prepareStatement("SELECT item, dept_name FROM userlist LEFT JOIN itemlist ON userlist.item = itemlist.item_name order by dept_name ASC, item ASC;"))
           stmt.execute()
           val rs = use(stmt.getResultSet())
           val allItems: ArrayBuffer[Item] = ArrayBuffer()

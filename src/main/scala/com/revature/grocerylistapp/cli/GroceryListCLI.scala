@@ -58,15 +58,15 @@ class GroceryListCLI extends AnsiColor{
             }  
             itemNamesAndTagsMap += (itemParsed -> dept)
             }
-        println(s"\n         ${GREEN}${BOLD}GROCERY LIST\n──────────────────────────────\nItem Name     :     Department\n${RESET}")
+        println(s"\n       ${GREEN}${BOLD}GROCERY LIST\n────────────────────────────\nItem Name        Department\n${RESET}")
         for ((i,t) <- itemNamesAndTagsMap) {
 
-            println(s"${i}     :     ${t}")
+            println(f"$i%-15s  $t")
         }
         if (itemNamesAndTagsMap.size == 0) {
             println(s"${WHITE}         [List Empty]${RESET}")
         }
-        println(s"${GREEN}${BOLD}──────────────────────────────\n${RESET}")
+        println(s"${GREEN}${BOLD}────────────────────────────\n${RESET}")
 
     }
 
