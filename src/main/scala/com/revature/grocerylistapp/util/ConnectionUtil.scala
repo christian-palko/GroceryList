@@ -11,7 +11,6 @@ object ConnectionUtil {
   def getConnection() : Connection = {
     if (conn == null || conn.isClosed()) {
       classOf[org.postgresql.Driver].newInstance()
-
       conn = DriverManager.getConnection(
       "jdbc:postgresql://localhost:5432/grocerylist",
       "postgres",

@@ -10,9 +10,7 @@ import scala.io.StdIn.readLine
 object FileUtil {
 
   def importFile(file: String, sep: String = " "): String = {
-
     var openedFile : BufferedSource = null
-
     try {
       openedFile = Source.fromFile(file)  
       openedFile.getLines().mkString(sep)

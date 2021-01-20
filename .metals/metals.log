@@ -10869,3 +10869,182 @@ java.lang.AssertionError: assertion failed: bad position: [3164:3128]
 2021.01.19 14:15:39 INFO  compiling root (1 scala source)
 2021.01.19 14:15:40 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
 2021.01.19 14:15:40 INFO  time: compiled root in 1.47s
+2021.01.19 18:41:05 INFO  running '/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/28/z067165162j__s6rsmhf52b80000gn/T/metals6908714313159219682/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2021.01.19 18:41:07 INFO  [info] welcome to sbt 1.4.4 (AdoptOpenJDK Java 1.8.0_275)
+2021.01.19 18:41:09 INFO  [info] loading settings for project grocerylist-build-build from metals.sbt ...
+2021.01.19 18:41:10 INFO  [info] loading project definition from /Users/chrispalko/GroceryList/project/project
+2021.01.19 18:41:11 INFO  [info] loading settings for project grocerylist-build from metals.sbt ...
+2021.01.19 18:41:11 INFO  [info] loading project definition from /Users/chrispalko/GroceryList/project
+2021.01.19 18:41:14 INFO  [success] Generated .bloop/grocerylist-build.json
+2021.01.19 18:41:14 INFO  [info] compiling 1 Scala source to /Users/chrispalko/GroceryList/project/target/scala-2.12/sbt-1.0/classes ...
+2021.01.19 18:41:18 INFO  [info] done compiling
+2021.01.19 18:41:18 INFO  [success] Total time: 7 s, completed Jan 19, 2021 6:41:18 PM
+2021.01.19 18:41:22 INFO  [info] loading settings for project root from build.sbt ...
+2021.01.19 18:41:22 INFO  [info] set current project to ShoppingList (in build file:/Users/chrispalko/GroceryList/)
+2021.01.19 18:41:22 INFO  [success] Generated .bloop/root-test.json
+2021.01.19 18:41:22 INFO  [success] Generated .bloop/root.json
+2021.01.19 18:41:22 INFO  [success] Total time: 0 s, completed Jan 19, 2021 6:41:23 PM
+2021.01.19 18:41:23 INFO  time: ran 'sbt bloopInstall' in 17s
+2021.01.19 18:41:22 INFO  sbt bloopInstall exit: 0
+2021.01.19 18:41:23 INFO  Disconnecting from Bloop session...
+2021.01.19 18:41:23 INFO  Shut down connection with build server.
+2021.01.19 18:41:23 INFO  Shut down connection with build server.
+No more data in the server stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the client stdin, exiting...
+2021.01.19 18:41:23 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher7183967929113373825/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher7183967929113373825/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher7183967929113373825/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2021.01.19 18:41:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/chrispalko/Library/Caches/org.scalameta.metals/bsp.trace.json
+2021.01.19 18:41:23 INFO  Attempting to connect to the build server...
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher4138781388825406731/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher4138781388825406731/bsp.socket...
+The server is listening for incoming connections at local:///var/folders/28/z067165162j__s6rsmhf52b80000gn/T/bsp-launcher4138781388825406731/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+2021.01.19 18:41:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/chrispalko/Library/Caches/org.scalameta.metals/bsp.trace.json
+2021.01.19 18:41:23 INFO  time: connected to build server in 0.43s
+2021.01.19 18:41:23 INFO  Connected to Build server v1.4.6-15-209c2a5c
+2021.01.19 18:41:25 INFO  time: indexed workspace in 1.53s
+2021.01.19 18:41:34 INFO  compiling root (1 scala source)
+2021.01.19 18:41:35 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 18:41:35 INFO  time: compiled root in 1.57s
+Jan 19, 2021 6:41:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36721
+2021.01.19 18:41:40 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala:39:36: stale bloop warning: unreachable code
+                case "CLEAR" | "C" => 
+                                   ^^
+2021.01.19 18:41:40 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala:39:36: stale bloop warning: unreachable code
+                case "CLEAR" | "C" => 
+                                   ^^
+2021.01.19 18:41:40 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala:39:36: stale bloop warning: unreachable code
+                case "CLEAR" | "C" => 
+                                   ^^
+2021.01.19 18:41:40 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala:39:36: stale bloop warning: unreachable code
+                case "CLEAR" | "C" => 
+                                   ^^
+2021.01.19 18:41:43 INFO  compiling root (1 scala source)
+2021.01.19 18:41:44 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 18:41:44 INFO  time: compiled root in 1.38s
+2021.01.19 18:42:06 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala:39:39: stale bloop warning: unreachable code
+                case "CLEAR" | "C" => println("hey")
+                                      ^^^^^^^^^^^^^^
+2021.01.19 18:42:06 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala:39:39: stale bloop warning: unreachable code
+                case "CLEAR" | "C" => println("hey")
+                                      ^^^^^^^^^^^^^^
+2021.01.19 18:42:06 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala:39:39: stale bloop warning: unreachable code
+                case "CLEAR" | "C" => println("hey")
+                                      ^^^^^^^^^^^^^^
+2021.01.19 18:42:06 INFO  /Users/chrispalko/GroceryList/src/main/scala/com/revature/grocerylistapp/cli/GroceryListCLI.scala:39:39: stale bloop warning: unreachable code
+                case "CLEAR" | "C" => println("hey")
+                                      ^^^^^^^^^^^^^^
+2021.01.19 18:42:09 INFO  compiling root (1 scala source)
+2021.01.19 18:42:10 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 18:42:10 INFO  time: compiled root in 1.36s
+2021.01.19 18:44:01 INFO  compiling root (1 scala source)
+2021.01.19 18:44:02 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 18:44:02 INFO  time: compiled root in 1.47s
+2021.01.19 18:48:47 INFO  compiling root (1 scala source)
+2021.01.19 18:48:50 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 18:48:50 INFO  time: compiled root in 3.1s
+2021.01.19 18:48:50 INFO  compiling root (1 scala source)
+2021.01.19 18:48:50 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 18:48:50 INFO  time: compiled root in 0.42s
+2021.01.19 18:58:38 INFO  compiling root (1 scala source)
+2021.01.19 18:58:40 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 18:58:40 INFO  time: compiled root in 2.08s
+2021.01.19 18:58:49 INFO  compiling root (1 scala source)
+2021.01.19 18:58:50 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 18:58:50 INFO  time: compiled root in 1.46s
+2021.01.19 18:58:58 INFO  compiling root (1 scala source)
+2021.01.19 18:58:59 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 18:58:59 INFO  time: compiled root in 1.33s
+2021.01.19 18:59:09 INFO  compiling root (1 scala source)
+2021.01.19 18:59:10 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 18:59:10 INFO  time: compiled root in 1.45s
+2021.01.19 18:59:13 INFO  compiling root (1 scala source)
+2021.01.19 18:59:15 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 18:59:15 INFO  time: compiled root in 1.29s
+2021.01.19 18:59:54 INFO  compiling root (1 scala source)
+2021.01.19 18:59:55 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 18:59:55 INFO  time: compiled root in 1.27s
+Jan 19, 2021 7:00:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2021.01.19 19:01:07 INFO  compiling root (1 scala source)
+2021.01.19 19:01:08 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 19:01:08 INFO  time: compiled root in 1.46s
+2021.01.19 19:01:11 INFO  compiling root (1 scala source)
+2021.01.19 19:01:12 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 19:01:12 INFO  time: compiled root in 1.24s
+2021.01.19 19:01:19 INFO  compiling root (1 scala source)
+2021.01.19 19:01:20 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 19:01:20 INFO  time: compiled root in 1.25s
+2021.01.19 19:01:33 INFO  compiling root (1 scala source)
+2021.01.19 19:01:35 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 19:01:35 INFO  time: compiled root in 1.32s
+2021.01.19 19:01:36 INFO  compiling root (1 scala source)
+2021.01.19 19:01:37 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 19:01:37 INFO  time: compiled root in 1.25s
+2021.01.19 19:01:44 INFO  compiling root (1 scala source)
+2021.01.19 19:01:45 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 19:01:45 INFO  time: compiled root in 1.33s
+2021.01.19 19:01:50 INFO  compiling root (1 scala source)
+2021.01.19 19:01:52 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 19:01:52 INFO  time: compiled root in 1.46s
+2021.01.19 19:02:02 INFO  compiling root (1 scala source)
+2021.01.19 19:02:03 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 19:02:03 INFO  time: compiled root in 1.33s
+2021.01.19 19:02:04 INFO  compiling root (1 scala source)
+2021.01.19 19:02:06 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 19:02:06 INFO  time: compiled root in 1.44s
+2021.01.19 19:02:12 INFO  compiling root (1 scala source)
+2021.01.19 19:02:13 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 19:02:13 INFO  time: compiled root in 1.27s
+2021.01.19 19:02:18 INFO  compiling root (1 scala source)
+2021.01.19 19:02:19 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 19:02:19 INFO  time: compiled root in 1.39s
+2021.01.19 19:02:27 INFO  compiling root (1 scala source)
+2021.01.19 19:02:28 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 19:02:28 INFO  time: compiled root in 1.32s
+2021.01.19 19:02:32 INFO  compiling root (1 scala source)
+2021.01.19 19:02:34 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 19:02:34 INFO  time: compiled root in 1.4s
+2021.01.19 19:02:39 INFO  compiling root (1 scala source)
+2021.01.19 19:02:41 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 19:02:41 INFO  time: compiled root in 1.4s
+2021.01.19 19:02:53 INFO  compiling root (1 scala source)
+2021.01.19 19:02:55 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 19:02:55 INFO  time: compiled root in 1.44s
+2021.01.19 19:03:48 INFO  compiling root (1 scala source)
+2021.01.19 19:03:48 INFO  time: compiled root in 0.98s
+2021.01.19 19:04:09 INFO  compiling root (1 scala source)
+2021.01.19 19:04:09 INFO  time: compiled root in 0.89s
+2021.01.19 19:04:21 INFO  compiling root (1 scala source)
+2021.01.19 19:04:21 INFO  time: compiled root in 0.86s
+2021.01.19 19:08:33 INFO  compiling root (1 scala source)
+2021.01.19 19:08:34 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 19:08:34 INFO  time: compiled root in 1.42s
+2021.01.19 19:08:36 INFO  compiling root (1 scala source)
+2021.01.19 19:08:37 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 19:08:37 INFO  time: compiled root in 1.36s
+2021.01.19 19:09:25 INFO  compiling root (1 scala source)
+2021.01.19 19:09:27 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 19:09:27 INFO  time: compiled root in 1.41s
+2021.01.19 19:09:55 INFO  compiling root (1 scala source)
+2021.01.19 19:09:57 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 19:09:57 INFO  time: compiled root in 1.61s
+2021.01.19 19:17:57 INFO  compiling root (1 scala source)
+2021.01.19 19:17:59 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details
+2021.01.19 19:17:59 INFO  time: compiled root in 2.13s
